@@ -1,0 +1,7114 @@
+taxonID	areaID	area	establishmentMeans
+795	MG	Madagascar	native
+1037	MG	Madagascar	native
+1446	MG	Madagascar	native
+2239	MG	Madagascar	native
+3052	AN	Unknown (AN)	
+3052	PA	Panama	native
+3052	PK	Pakistan	native
+3052	OM	Oman	native
+3052	NO	Norway	native
+3052	MP	Northern Mariana Islands	native
+3052	NG	Nigeria	native
+3052	NI	Nicaragua	native
+3052	NZ	New Zealand	native
+3052	AS	American Samoa	native
+3052	AO	Angola	native
+3052	AI	Anguilla	native
+3052	AQ	Antarctica	native
+3052	AR	Argentina	native
+3052	NL	Netherlands	native
+3052	NA	Namibia	native
+3052	MZ	Mozambique	native
+3052	MA	Morocco	native
+3052	NC	New Caledonia	native
+3052	PE	Peru	native
+3052	PH	Philippines	native
+3052	PN	Pitcairn	native
+3052	TO	Tonga	native
+3052	TG	Togo	native
+3052	TW	Taiwan, Province of China	native
+3052	SJ	Svalbard and Jan Mayen	native
+3052	LK	Sri Lanka	native
+3052	ES	Spain	native
+3052	GS	South Georgia and the South Sandwich Islands	native
+3052	ZA	South Africa	native
+3052	BR	Brazil	native
+3052	SB	Solomon Islands	native
+3052	ST	Sao Tome and Principe	native
+3052	WS	Samoa	native
+3052	VC	Saint Vincent and the Grenadines	native
+3052	LC	Saint Lucia	native
+3052	SH	Saint Helena, Ascension and Tristan da Cunha	native
+3052	RU	Russian Federation	native
+3052	KR	Korea, Republic of	native
+3052	PT	Portugal	native
+3052	PL	Poland	native
+3052	MX	Mexico	native
+3052	YT	Mayotte	native
+3052	MQ	Martinique	native
+3052	TT	Trinidad and Tobago	native
+3052	PF	French Polynesia	native
+3052	FR	France	native
+3052	FJ	Fiji	native
+3052	FK	Falkland Islands (Malvinas)	native
+3052	GQ	Equatorial Guinea	native
+3052	SV	El Salvador	native
+3052	EC	Ecuador	native
+3052	DO	Dominican Republic	native
+3052	TF	French Southern Territories	
+3052	CD	Congo, The Democratic Republic of the	native
+3052	CR	Costa Rica	native
+3052	CK	Cook Islands	native
+3052	CG	Congo	native
+3052	KM	Comoros	native
+3052	CO	Colombia	native
+3052	CL	Chile	native
+3052	CA	Canada	native
+3052	CV	Cabo Verde	native
+3052	KP	Korea, Democratic People's Republic of	native
+3052	GA	Gabon	native
+3052	GH	Ghana	native
+3052	GL	Greenland	native
+3052	MH	Marshall Islands	native
+3052	MT	Malta	native
+3052	MY	Malaysia	native
+3052	MG	Madagascar	native
+3052	KE	Kenya	native
+3052	JP	Japan	native
+3052	IE	Ireland	native
+3052	IQ	Iraq	native
+3052	ID	Indonesia	native
+3052	IN	India	native
+3052	IS	Iceland	native
+3052	AU	Australia	native
+3052	HN	Honduras	native
+3052	GP	Guadeloupe	native
+3052	GD	Grenada	native
+3052	BD	Bangladesh	native
+3052	BB	Barbados	native
+3052	BJ	Benin	native
+3052	BM	Bermuda	native
+3052	MR	Mauritania	native
+3052	TZ	Tanzania, United Republic of	native
+3052	BQ	Bonaire, Sint Eustatius and Saba	native
+3052	US	United States	native
+3052	VU	Vanuatu	native
+3052	UY	Uruguay	native
+3052	VE	Venezuela, Bolivarian Republic of	native
+3052	VN	Viet Nam	native
+3057	CN	China	native
+3080	MA	Morocco	native
+3080	DZ	Algeria	native
+3080	TN	Tunisia	native
+3080	EH	Western Sahara	native
+3167	AR	Argentina	native
+3167	BR	Brazil	native
+3167	CL	Chile	native
+3167	PY	Paraguay	native
+3167	UY	Uruguay	native
+3167	BO	Bolivia, Plurinational State of	native
+3194	GN	Guinea	native
+3194	CI	Côte d'Ivoire	native
+3194	LR	Liberia	native
+3198	PW	Palau	native
+3217	US	United States	native
+3223	IN	India	native
+3223	MM	Myanmar	native
+3223	TH	Thailand	native
+3223	CN	China	native
+3226	US	United States	native
+3239	BD	Bangladesh	native
+3239	IN	India	native
+3253	NZ	New Zealand	native
+3255	TD	Chad	native
+3255	OM	Oman	
+3255	EG	Egypt	
+3255	SO	Somalia	native
+3255	SD	Sudan	native
+3255	DJ	Djibouti	native
+3255	ET	Ethiopia	native
+3255	DZ	Algeria	
+3255	ER	Eritrea	native
+3283	MG	Madagascar	native
+3317	MX	Mexico	native
+3317	GT	Guatemala	native
+3348	JP	Japan	
+3364	TW	Taiwan, Province of China	native
+3364	MN	Mongolia	native
+3364	KR	Korea, Republic of	native
+3364	RU	Russian Federation	native
+3364	KP	Korea, Democratic People's Republic of	native
+3364	JP	Japan	native
+3364	CN	China	native
+3370	PW	Palau	
+3372	ID	Indonesia	native
+3388	US	United States	native
+3399	GY	Guyana	native
+3399	GF	French Guiana	native
+3399	BO	Bolivia, Plurinational State of	native
+3399	BR	Brazil	native
+3399	EC	Ecuador	native
+3399	AR	Argentina	native
+3399	NI	Nicaragua	
+3399	PA	Panama	native
+3399	PE	Peru	native
+3399	SR	Suriname	native
+3399	VE	Venezuela, Bolivarian Republic of	native
+3399	CO	Colombia	native
+3399	CR	Costa Rica	native
+3404	VN	Viet Nam	native
+3404	KH	Cambodia	native
+3436	CL	Chile	native
+3436	BO	Bolivia, Plurinational State of	native
+3436	AR	Argentina	native
+3436	EC	Ecuador	native reintroduced
+3436	PE	Peru	native
+3446	CN	China	native
+3450	BO	Bolivia, Plurinational State of	native
+3450	AR	Argentina	native
+3450	PE	Peru	native
+3450	CL	Chile	native
+3456	US	United States	native
+3464	BE	Belgium	native
+3464	GB	United Kingdom	native
+3464	BG	Bulgaria	native
+3464	HR	Croatia	native
+3464	CZ	Czechia	
+3464	DK	Denmark	
+3464	EE	Estonia	native
+3464	FR	France	native
+3464	GE	Georgia	native
+3464	DE	Germany	native
+3464	GR	Greece	native
+3464	IS	Iceland	native
+3464	IE	Ireland	native
+3464	IT	Italy	native
+3464	LV	Latvia	native
+3464	DZ	Algeria	native
+3464	LT	Lithuania	native
+3464	MA	Morocco	native
+3464	NL	Netherlands	native
+3464	MK	North Macedonia	native
+3464	NO	Norway	native
+3464	AL	Albania	native
+3464	PT	Portugal	native
+3464	RO	Romania	native
+3464	RU	Russian Federation	native
+3464	RS	Serbia	native
+3464	ES	Spain	native
+3464	SE	Sweden	native
+3464	TR	Türkiye	native
+3464	UA	Ukraine	native
+3464	ME	Montenegro	native
+3464	PL	Poland	native
+3475	LK	Sri Lanka	native
+3475	MY	Malaysia	native
+3475	JP	Japan	native
+3475	KE	Kenya	native
+3475	HK	Hong Kong	native
+3475	SG	Singapore	native
+3475	CC	Cocos (Keeling) Islands	native
+3475	TH	Thailand	native
+3475	TL	Timor-Leste	native
+3475	CX	Christmas Island	native
+3475	VN	Viet Nam	native
+3475	CN	China	native
+3475	BN	Brunei Darussalam	native
+3475	AU	Australia	native
+3475	ID	Indonesia	native
+3475	IN	India	native
+3510	CO	Colombia	
+3510	PE	Peru	native
+3510	BR	Brazil	native
+3511	MG	Madagascar	native
+3515	IL	Israel	native
+3515	BH	Bahrain	native
+3515	AU	Australia	native
+3515	KH	Cambodia	native
+3515	CN	China	native
+3515	KM	Comoros	native
+3515	KP	Korea, Democratic People's Republic of	native
+3515	EG	Egypt	native
+3515	IR	Iran, Islamic Republic of	native
+3515	ER	Eritrea	native
+3515	GU	Guam	native
+3515	IN	India	native
+3515	MY	Malaysia	native
+3515	ID	Indonesia	native
+3515	KE	Kenya	native
+3515	JP	Japan	native
+3515	DJ	Djibouti	native
+3515	MG	Madagascar	native
+3515	PW	Palau	native
+3515	BN	Brunei Darussalam	native
+3515	NC	New Caledonia	native
+3515	PG	Papua New Guinea	native
+3515	PH	Philippines	native
+3515	QA	Qatar	native
+3515	SA	Saudi Arabia	native
+3515	SC	Seychelles	
+3515	SG	Singapore	native
+3515	SB	Solomon Islands	native
+3515	SO	Somalia	native
+3515	ZA	South Africa	native
+3515	LK	Sri Lanka	native
+3515	SD	Sudan	native
+3515	MM	Myanmar	native
+3515	TW	Taiwan, Province of China	native
+3515	TH	Thailand	native
+3515	MZ	Mozambique	native
+3515	AE	United Arab Emirates	native
+3515	TZ	Tanzania, United Republic of	native
+3515	VU	Vanuatu	native
+3515	VN	Viet Nam	native
+3515	YE	Yemen	native
+3515	FM	Micronesia, Federated States of	native
+3515	YT	Mayotte	native
+3515	MU	Mauritius	native
+3515	MV	Maldives	
+3515	OM	Oman	native
+3515	BD	Bangladesh	native
+3541	AF	Afghanistan	
+3541	PK	Pakistan	native
+3541	NP	Nepal	native
+3541	IN	India	native
+3541	CN	China	native
+3541	BT	Bhutan	native
+3548	MG	Madagascar	native
+3570	KP	Korea, Democratic People's Republic of	native
+3570	BD	Bangladesh	native
+3570	BT	Bhutan	native
+3570	KH	Cambodia	native
+3570	CN	China	native
+3570	IN	India	native
+3570	AF	Afghanistan	native
+3570	LA	Lao People's Democratic Republic	native
+3570	VN	Viet Nam	native
+3570	MY	Malaysia	
+3570	MN	Mongolia	native
+3570	JP	Japan	native
+3570	IR	Iran, Islamic Republic of	native
+3570	NP	Nepal	native
+3570	PK	Pakistan	native
+3570	KR	Korea, Republic of	native
+3570	RU	Russian Federation	native
+3570	TW	Taiwan, Province of China	native
+3570	TH	Thailand	native
+3570	MM	Myanmar	native
+3587	CO	Colombia	native
+3587	EC	Ecuador	native
+3598	MG	Madagascar	native
+3605	CN	China	native
+3605	VN	Viet Nam	native
+3625	UY	Uruguay	
+3625	PE	Peru	native
+3625	AR	Argentina	native
+3625	PY	Paraguay	native
+3625	BR	Brazil	native
+3625	BO	Bolivia, Plurinational State of	native
+3627	JP	Japan	native
+3637	MG	Madagascar	native
+3712	EG	Egypt	native
+3712	SV	El Salvador	native
+3712	ER	Eritrea	native
+3712	GR	Greece	
+3712	GQ	Equatorial Guinea	native
+3712	GA	Gabon	native
+3712	PF	French Polynesia	native
+3712	GF	French Guiana	native
+3712	FR	France	
+3712	FJ	Fiji	native
+3712	ET	Ethiopia	native
+3712	GP	Guadeloupe	native
+3712	JM	Jamaica	native
+3712	GT	Guatemala	native
+3712	HT	Haiti	native
+3712	HN	Honduras	native
+3712	IN	India	native
+3712	ID	Indonesia	native
+3712	IR	Iran, Islamic Republic of	native
+3712	IT	Italy	
+3712	JP	Japan	native
+3712	KE	Kenya	native
+3712	KI	Kiribati	native
+3712	LB	Lebanon	
+3712	EC	Ecuador	native
+3712	LY	Libya	native
+3712	GU	Guam	native
+3712	DO	Dominican Republic	native
+3712	TW	Taiwan, Province of China	native
+3712	DJ	Djibouti	native
+3712	MG	Madagascar	native
+3712	DZ	Algeria	
+3712	AS	American Samoa	native
+3712	AO	Angola	native
+3712	AI	Anguilla	native
+3712	AG	Antigua and Barbuda	native
+3712	AR	Argentina	native
+3712	AW	Aruba	native
+3712	AU	Australia	native
+3712	BS	Bahamas	native
+3712	BB	Barbados	native
+3712	BZ	Belize	native
+3712	BM	Bermuda	native
+3712	BQ	Bonaire, Sint Eustatius and Saba	native
+3712	BR	Brazil	native
+3712	VG	Virgin Islands, British	
+3712	CV	Cabo Verde	native
+3712	KP	Korea, Democratic People's Republic of	native
+3712	CY	Cyprus	
+3712	CW	Curaçao	native
+3712	CU	Cuba	native
+3712	HR	Croatia	native
+3712	CR	Costa Rica	native
+3712	DM	Dominica	native
+3712	KM	Comoros	native
+3712	CC	Cocos (Keeling) Islands	native
+3712	CP	Unknown (CP)	
+3712	CX	Christmas Island	native
+3712	CN	China	native
+3712	CL	Chile	native
+3712	KY	Cayman Islands	native
+3712	CO	Colombia	native
+3712	MY	Malaysia	native
+3712	VI	Virgin Islands, U.S.	native
+3712	WS	Samoa	native
+3712	SB	Solomon Islands	native
+3712	SX	Sint Maarten (Dutch part)	native
+3712	SC	Seychelles	native
+3712	SN	Senegal	native
+3712	SA	Saudi Arabia	native
+3712	ST	Sao Tome and Principe	native
+3712	SO	Somalia	native
+3712	WF	Wallis and Futuna	native
+3712	MF	Saint Martin (French part)	native
+3712	LC	Saint Lucia	native
+3712	KN	Saint Kitts and Nevis	native
+3712	SH	Saint Helena, Ascension and Tristan da Cunha	native
+3712	BL	Saint Barthélemy	native
+3712	RE	Réunion	native
+3712	VC	Saint Vincent and the Grenadines	native
+3712	ZA	South Africa	native
+3712	ES	Spain	native
+3712	LK	Sri Lanka	native
+3712	VE	Venezuela, Bolivarian Republic of	native
+3712	VU	Vanuatu	native
+3712	US	United States	native
+3712	UM	United States Minor Outlying Islands	native
+3712	TZ	Tanzania, United Republic of	native
+3712	TV	Tuvalu	native
+3712	YE	Yemen	native
+3712	TR	Türkiye	
+3712	TN	Tunisia	
+3712	TT	Trinidad and Tobago	native
+3712	TO	Tonga	native
+3712	TL	Timor-Leste	native
+3712	TH	Thailand	native
+3712	SY	Syrian Arab Republic	
+3712	SD	Sudan	native
+3712	KR	Korea, Republic of	native
+3712	PR	Puerto Rico	native
+3712	EH	Western Sahara	native
+3712	PN	Pitcairn	native
+3712	PT	Portugal	native
+3712	MV	Maldives	native
+3712	MT	Malta	
+3712	MH	Marshall Islands	native
+3712	MQ	Martinique	native
+3712	MU	Mauritius	native
+3712	YT	Mayotte	native
+3712	MX	Mexico	native
+3712	FM	Micronesia, Federated States of	native
+3712	MS	Montserrat	native
+3712	MZ	Mozambique	native
+3712	MM	Myanmar	native
+3712	MA	Morocco	
+3712	NR	Nauru	native
+3712	NC	New Caledonia	native
+3712	NZ	New Zealand	native
+3712	NU	Niue	native
+3712	MP	Northern Mariana Islands	native
+3712	OM	Oman	native
+3712	PW	Palau	native
+3712	NA	Namibia	native
+3712	PA	Panama	native
+3712	PG	Papua New Guinea	native
+3712	PE	Peru	native
+3712	PH	Philippines	native
+3721	HN	Honduras	native
+3721	GT	Guatemala	native
+3721	CR	Costa Rica	native
+3721	BZ	Belize	native
+3721	MX	Mexico	native
+3721	SV	El Salvador	native
+3721	NI	Nicaragua	native
+3735	ID	Indonesia	native
+3763	VG	Virgin Islands, British	
+3767	BR	Brazil	native
+3780	AF	Afghanistan	native
+3780	IN	India	native
+3780	PK	Pakistan	native
+3780	TJ	Tajikistan	native
+3780	TM	Turkmenistan	native
+3780	UZ	Uzbekistan	native
+3792	NI	Nicaragua	native
+3792	BZ	Belize	native
+3792	BO	Bolivia, Plurinational State of	native
+3792	BR	Brazil	native
+3792	CR	Costa Rica	native
+3792	MX	Mexico	native
+3792	EC	Ecuador	native
+3792	GF	French Guiana	native
+3792	PY	Paraguay	native
+3792	GT	Guatemala	native
+3792	PE	Peru	native
+3792	VE	Venezuela, Bolivarian Republic of	native
+3792	PA	Panama	native
+3792	GY	Guyana	native
+3792	CO	Colombia	native
+3792	SR	Suriname	native
+3792	HN	Honduras	native
+3792	AR	Argentina	native
+3838	VN	Viet Nam	native
+3851	CN	China	native
+3881	KH	Cambodia	native
+3881	CN	China	native
+3881	LA	Lao People's Democratic Republic	native
+3881	MM	Myanmar	native
+3881	TH	Thailand	native
+3881	VN	Viet Nam	native
+3913	RW	Rwanda	native
+3913	UG	Uganda	native
+3913	CD	Congo, The Democratic Republic of the	native
+3922	MU	Mauritius	native
+3929	MR	Mauritania	native
+3929	TG	Togo	native
+3929	BF	Burkina Faso	native
+3929	TD	Chad	native
+3929	CF	Central African Republic	native
+3929	CM	Cameroon	native
+3929	BJ	Benin	native
+3929	UG	Uganda	native
+3929	CI	Côte d'Ivoire	native
+3929	CD	Congo, The Democratic Republic of the	native
+3929	GH	Ghana	native
+3929	ET	Ethiopia	native
+3929	GA	Gabon	native
+3929	GN	Guinea	native
+3929	GW	Guinea-Bissau	native
+3929	SD	Sudan	native
+3929	KE	Kenya	native
+3929	SS	South Sudan	native
+3929	SL	Sierra Leone	native
+3929	SN	Senegal	native
+3929	NG	Nigeria	native
+3929	NE	Niger	native
+3929	ML	Mali	native
+3929	ER	Eritrea	native
+3929	GM	Gambia	native
+3939	MM	Myanmar	native
+3950	EC	Ecuador	native
+3957	NA	Namibia	native
+3957	BR	Brazil	native
+3957	TF	French Southern Territories	
+3957	FK	Falkland Islands (Malvinas)	native
+3957	CL	Chile	native
+3957	NZ	New Zealand	native
+3957	AU	Australia	native
+3957	AR	Argentina	native
+3957	ZA	South Africa	native
+3957	LK	Sri Lanka	native
+3957	UY	Uruguay	native
+3957	MX	Mexico	native
+3972	US	United States	native
+3975	IS	Iceland	native
+3975	GY	Guyana	native
+3975	GA	Gabon	native
+3975	FR	France	native
+3975	FJ	Fiji	native
+3975	FK	Falkland Islands (Malvinas)	native
+3975	EC	Ecuador	native
+3975	DK	Denmark	native
+3975	KP	Korea, Democratic People's Republic of	native
+3975	CU	Cuba	native
+3975	CR	Costa Rica	native
+3975	CO	Colombia	native
+3975	CL	Chile	native
+3975	DE	Germany	native
+3975	IN	India	native
+3975	RU	Russian Federation	native
+3975	CA	Canada	native
+3975	IE	Ireland	native
+3975	JP	Japan	native
+3975	KE	Kenya	native
+3975	MY	Malaysia	native
+3975	MT	Malta	native
+3975	MR	Mauritania	native
+3975	MX	Mexico	native
+3975	MA	Morocco	native
+3975	MZ	Mozambique	native
+3975	NA	Namibia	native
+3975	NL	Netherlands	native
+3975	NZ	New Zealand	native
+3975	NO	Norway	native
+3975	ID	Indonesia	native
+3975	BR	Brazil	native
+3975	PL	Poland	native
+3975	AR	Argentina	native
+3975	PE	Peru	native
+3975	VN	Viet Nam	native
+3975	AU	Australia	native
+3975	UY	Uruguay	native
+3975	US	United States	native
+3975	TZ	Tanzania, United Republic of	native
+3975	GB	United Kingdom	native
+3975	TH	Thailand	native
+3975	TW	Taiwan, Province of China	native
+3975	VE	Venezuela, Bolivarian Republic of	native
+3975	SR	Suriname	native
+3975	ES	Spain	native
+3975	ZA	South Africa	native
+3975	AO	Angola	native
+3975	RE	Réunion	native
+3975	KR	Korea, Republic of	native
+3975	PT	Portugal	native
+3975	SJ	Svalbard and Jan Mayen	native
+3982	NC	New Caledonia	native
+4000	US	United States	native
+4006	US	United States	native
+4019	SG	Singapore	introduced
+4019	ID	Indonesia	native
+4040	FM	Micronesia, Federated States of	native
+4052	LA	Lao People's Democratic Republic	native
+4052	MM	Myanmar	native
+4052	TH	Thailand	native
+4052	VN	Viet Nam	native
+4052	ID	Indonesia	native
+4052	MY	Malaysia	native
+4060	VE	Venezuela, Bolivarian Republic of	native
+4060	BR	Brazil	native
+4061	CN	China	
+4062	BL	Saint Barthélemy	native
+4062	NZ	New Zealand	native
+4062	NI	Nicaragua	native
+4062	NG	Nigeria	native
+4062	NU	Niue	
+4062	MP	Northern Mariana Islands	
+4062	YE	Yemen	native
+4062	EH	Western Sahara	native
+4062	WF	Wallis and Futuna	
+4062	VI	Virgin Islands, U.S.	native
+4062	VN	Viet Nam	native
+4062	VE	Venezuela, Bolivarian Republic of	native
+4062	VU	Vanuatu	native
+4062	UY	Uruguay	native
+4062	US	United States	native
+4062	NO	Norway	native
+4062	OM	Oman	native
+4062	PK	Pakistan	native
+4062	TZ	Tanzania, United Republic of	native
+4062	GB	United Kingdom	native
+4062	NC	New Caledonia	native
+4062	AN	Unknown (AN)	
+4062	NL	Netherlands	native
+4062	NR	Nauru	native
+4062	LT	Lithuania	native
+4062	MO	Macao	native
+4062	MG	Madagascar	native
+4062	MY	Malaysia	native
+4062	MV	Maldives	
+4062	MT	Malta	native
+4062	MH	Marshall Islands	native
+4062	MQ	Martinique	native
+4062	MR	Mauritania	native
+4062	AE	United Arab Emirates	native
+4062	MU	Mauritius	native
+4062	MX	Mexico	native
+4062	FM	Micronesia, Federated States of	native
+4062	MC	Monaco	native
+4062	ME	Montenegro	native
+4062	MS	Montserrat	native
+4062	MA	Morocco	native
+4062	MZ	Mozambique	native
+4062	MM	Myanmar	native
+4062	NA	Namibia	native
+4062	YT	Mayotte	native
+4062	LY	Libya	native
+4062	TV	Tuvalu	native
+4062	TR	Türkiye	native
+4062	ST	Sao Tome and Principe	native
+4062	WS	Samoa	native
+4062	VC	Saint Vincent and the Grenadines	native
+4062	PM	Saint Pierre and Miquelon	native
+4062	MF	Saint Martin (French part)	native
+4062	LC	Saint Lucia	native
+4062	KN	Saint Kitts and Nevis	native
+4062	SH	Saint Helena, Ascension and Tristan da Cunha	native
+4062	PW	Palau	native
+4062	RU	Russian Federation	native
+4062	RE	Réunion	native
+4062	KR	Korea, Republic of	native
+4062	QA	Qatar	native
+4062	PR	Puerto Rico	native
+4062	PT	Portugal	native
+4062	PL	Poland	native
+4062	PN	Pitcairn	
+4062	PH	Philippines	native
+4062	PE	Peru	native
+4062	SA	Saudi Arabia	native
+4062	SN	Senegal	native
+4062	SC	Seychelles	native
+4062	SL	Sierra Leone	native
+4062	TN	Tunisia	native
+4062	TT	Trinidad and Tobago	native
+4062	TO	Tonga	native
+4062	TG	Togo	native
+4062	TL	Timor-Leste	native
+4062	TH	Thailand	native
+4062	TW	Taiwan, Province of China	native
+4062	SY	Syrian Arab Republic	native
+4062	SE	Sweden	native
+4062	TC	Turks and Caicos Islands	native
+4062	SR	Suriname	native
+4062	PS	Palestine, State of	native
+4062	LK	Sri Lanka	native
+4062	ES	Spain	native
+4062	ZA	South Africa	native
+4062	SO	Somalia	native
+4062	SB	Solomon Islands	native
+4062	SI	Slovenia	native
+4062	SX	Sint Maarten (Dutch part)	native
+4062	SG	Singapore	native
+4062	SD	Sudan	native
+4062	PG	Papua New Guinea	native
+4062	LR	Liberia	native
+4062	LV	Latvia	native
+4062	KH	Cambodia	native
+4062	CM	Cameroon	native
+4062	CA	Canada	native
+4062	KY	Cayman Islands	native
+4062	CL	Chile	native
+4062	CN	China	native
+4062	CX	Christmas Island	
+4062	CC	Cocos (Keeling) Islands	
+4062	CO	Colombia	native
+4062	CV	Cabo Verde	native
+4062	KM	Comoros	native
+4062	CR	Costa Rica	native
+4062	CI	Côte d'Ivoire	native
+4062	HR	Croatia	native
+4062	CU	Cuba	native
+4062	CW	Curaçao	native
+4062	CY	Cyprus	native
+4062	KP	Korea, Democratic People's Republic of	native
+4062	CD	Congo, The Democratic Republic of the	native
+4062	DK	Denmark	native
+4062	CG	Congo	native
+4062	DJ	Djibouti	native
+4062	BG	Bulgaria	native
+4062	VG	Virgin Islands, British	
+4062	AL	Albania	native
+4062	DZ	Algeria	native
+4062	AS	American Samoa	native
+4062	AO	Angola	native
+4062	AI	Anguilla	native
+4062	AG	Antigua and Barbuda	native
+4062	AR	Argentina	native
+4062	AW	Aruba	native
+4062	AU	Australia	native
+4062	BN	Brunei Darussalam	native
+4062	BS	Bahamas	native
+4062	BD	Bangladesh	native
+4062	BB	Barbados	native
+4062	BE	Belgium	native
+4062	BZ	Belize	native
+4062	BJ	Benin	native
+4062	BM	Bermuda	native
+4062	BQ	Bonaire, Sint Eustatius and Saba	native
+4062	BA	Bosnia and Herzegovina	native
+4062	BR	Brazil	native
+4062	BH	Bahrain	native
+4062	LB	Lebanon	native
+4062	DM	Dominica	native
+4062	EC	Ecuador	native
+4062	HT	Haiti	native
+4062	HN	Honduras	native
+4062	HK	Hong Kong	native
+4062	IS	Iceland	native
+4062	IN	India	native
+4062	ID	Indonesia	native
+4062	IR	Iran, Islamic Republic of	native
+4062	IQ	Iraq	native
+4062	IE	Ireland	native
+4062	IM	Isle of Man	native
+4062	IL	Israel	native
+4062	IT	Italy	native
+4062	JM	Jamaica	native
+4062	JP	Japan	native
+4062	JE	Jersey	native
+4062	JO	Jordan	native
+4062	KE	Kenya	native
+4062	KI	Kiribati	native
+4062	KW	Kuwait	native
+4062	GY	Guyana	native
+4062	DO	Dominican Republic	native
+4062	GW	Guinea-Bissau	native
+4062	GG	Guernsey	native
+4062	EG	Egypt	native
+4062	SV	El Salvador	native
+4062	GQ	Equatorial Guinea	native
+4062	ER	Eritrea	native
+4062	EE	Estonia	native
+4062	FJ	Fiji	native
+4062	FI	Finland	native
+4062	FR	France	native
+4062	GF	French Guiana	native
+4062	GN	Guinea	native
+4062	PF	French Polynesia	native
+4062	GM	Gambia	native
+4062	DE	Germany	native
+4062	GH	Ghana	native
+4062	GI	Gibraltar	native
+4062	GR	Greece	native
+4062	GD	Grenada	native
+4062	GP	Guadeloupe	native
+4062	GU	Guam	
+4062	GT	Guatemala	native
+4062	GA	Gabon	native
+4062	PA	Panama	native
+4085	TG	Togo	native
+4085	SS	South Sudan	native
+4085	CF	Central African Republic	
+4085	GH	Ghana	native
+4085	CD	Congo, The Democratic Republic of the	native
+4085	CI	Côte d'Ivoire	native
+4085	CG	Congo	native
+4085	CM	Cameroon	native
+4085	GN	Guinea	native
+4085	GW	Guinea-Bissau	native
+4085	KE	Kenya	native
+4085	LR	Liberia	native
+4085	ML	Mali	
+4085	GA	Gabon	native
+4085	NG	Nigeria	native
+4085	GQ	Equatorial Guinea	native
+4085	UG	Uganda	native
+4085	SL	Sierra Leone	native
+4085	TZ	Tanzania, United Republic of	
+4085	ZM	Zambia	native
+4085	SN	Senegal	
+4085	AO	Angola	native
+4085	RW	Rwanda	native
+4085	BJ	Benin	native
+4085	BF	Burkina Faso	
+4086	US	United States	native
+4096	MG	Madagascar	native
+4118	BT	Bhutan	native
+4118	VN	Viet Nam	native
+4118	TH	Thailand	native
+4118	LA	Lao People's Democratic Republic	native
+4118	MM	Myanmar	native
+4118	BD	Bangladesh	native
+4118	KH	Cambodia	native
+4118	IN	India	native
+4118	CN	China	native
+4135	US	United States	native
+4142	US	United States	
+4154	BH	Bahrain	introduced
+4154	AE	United Arab Emirates	native reintroduced
+4154	SA	Saudi Arabia	native reintroduced
+4154	QA	Qatar	introduced
+4154	OM	Oman	native reintroduced
+4154	LB	Lebanon	introduced
+4154	KW	Kuwait	
+4154	JO	Jordan	native reintroduced
+4154	IL	Israel	native reintroduced
+4154	IQ	Iraq	
+4154	EG	Egypt	
+4154	YE	Yemen	
+4154	SY	Syrian Arab Republic	native reintroduced
+4156	SS	South Sudan	native
+4156	ET	Ethiopia	native
+4156	KE	Kenya	native
+4156	SO	Somalia	
+4156	DJ	Djibouti	
+4174	US	United States	native
+4179	NZ	New Zealand	native
+4183	US	United States	
+4190	BR	Brazil	native
+4194	CI	Côte d'Ivoire	native
+4194	LR	Liberia	native
+4194	SL	Sierra Leone	native
+4199	NC	New Caledonia	native
+4236	NP	Nepal	native
+4236	ID	Indonesia	native
+4236	LA	Lao People's Democratic Republic	native
+4236	VN	Viet Nam	native
+4236	MM	Myanmar	native
+4236	IN	India	native
+4236	US	United States	introduced
+4236	KH	Cambodia	native
+4236	CN	China	native
+4236	HK	Hong Kong	native
+4236	MY	Malaysia	native
+4236	BD	Bangladesh	native
+4236	TH	Thailand	native
+4236	LK	Sri Lanka	native
+4236	PK	Pakistan	native
+4243	US	United States	
+4246	US	United States	native
+4247	KH	Cambodia	native
+4247	VN	Viet Nam	native
+4247	LA	Lao People's Democratic Republic	native
+4247	TH	Thailand	native
+4267	BR	Brazil	native
+4273	BR	Brazil	native
+4299	NP	Nepal	native
+4299	MM	Myanmar	
+4299	IN	India	native
+4299	BT	Bhutan	
+4299	BD	Bangladesh	native
+4299	PK	Pakistan	native
+4303	SG	Singapore	native
+4303	TH	Thailand	native
+4303	BN	Brunei Darussalam	native
+4303	PH	Philippines	native
+4303	MY	Malaysia	native
+4303	ID	Indonesia	native
+4306	NE	Niger	native
+4306	TG	Togo	native
+4306	SN	Senegal	native
+4306	MR	Mauritania	native
+4306	CM	Cameroon	native
+4306	GW	Guinea-Bissau	native
+4306	LR	Liberia	native
+4306	TD	Chad	native
+4306	GN	Guinea	native
+4306	SL	Sierra Leone	native
+4306	GH	Ghana	native
+4306	NG	Nigeria	native
+4306	GM	Gambia	native
+4306	GA	Gabon	native
+4306	GQ	Equatorial Guinea	native
+4306	CD	Congo, The Democratic Republic of the	native
+4306	CI	Côte d'Ivoire	native
+4306	AO	Angola	native
+4306	BJ	Benin	native
+4306	ML	Mali	native
+4306	CG	Congo	native
+4329	JP	Japan	native
+4329	CC	Cocos (Keeling) Islands	native
+4329	BR	Brazil	native
+4344	IN	India	native
+4344	MM	Myanmar	native
+4344	CN	China	native
+4349	IN	India	native
+4355	MG	Madagascar	native
+4373	US	United States	native
+4390	MX	Mexico	native
+4391	VE	Venezuela, Bolivarian Republic of	native
+4391	UY	Uruguay	native
+4391	TT	Trinidad and Tobago	
+4391	CO	Colombia	native
+4391	PA	Panama	
+4391	NI	Nicaragua	
+4391	MX	Mexico	native
+4391	HN	Honduras	
+4391	GY	Guyana	native
+4391	GT	Guatemala	
+4391	PY	Paraguay	native
+4391	SR	Suriname	native
+4391	SV	El Salvador	native
+4391	EC	Ecuador	
+4391	CR	Costa Rica	native
+4391	BR	Brazil	native
+4391	PE	Peru	native
+4391	BO	Bolivia, Plurinational State of	native
+4391	BZ	Belize	native
+4391	GF	French Guiana	native
+4391	AR	Argentina	native
+4392	VN	Viet Nam	native
+4392	LA	Lao People's Democratic Republic	native
+4392	KH	Cambodia	native
+4404	EC	Ecuador	native
+4416	BO	Bolivia, Plurinational State of	native
+4416	CO	Colombia	native
+4416	EC	Ecuador	native
+4416	GY	Guyana	native
+4416	GF	French Guiana	native
+4416	PY	Paraguay	native
+4416	SR	Suriname	native
+4416	VE	Venezuela, Bolivarian Republic of	native
+4416	AR	Argentina	native
+4416	BR	Brazil	native
+4416	PE	Peru	native
+4425	ID	Indonesia	native
+4427	UY	Uruguay	native
+4427	GY	Guyana	native
+4427	GT	Guatemala	native
+4427	GF	French Guiana	native
+4427	SV	El Salvador	native
+4427	EC	Ecuador	native
+4427	CR	Costa Rica	native
+4427	CO	Colombia	native
+4427	BR	Brazil	native
+4427	BO	Bolivia, Plurinational State of	native
+4427	BZ	Belize	native
+4427	AR	Argentina	native
+4427	US	United States	native
+4427	PE	Peru	native
+4427	HN	Honduras	native
+4427	MX	Mexico	native
+4427	NI	Nicaragua	native
+4427	PA	Panama	native
+4427	PY	Paraguay	native
+4427	VE	Venezuela, Bolivarian Republic of	native
+4427	SR	Suriname	native
+4430	MG	Madagascar	native
+4434	SN	Senegal	native
+4434	CM	Cameroon	native
+4434	RW	Rwanda	native
+4434	CF	Central African Republic	native
+4434	PT	Portugal	native
+4434	NG	Nigeria	native
+4434	SL	Sierra Leone	native
+4434	SO	Somalia	native
+4434	TZ	Tanzania, United Republic of	native
+4434	SD	Sudan	native
+4434	TG	Togo	native
+4434	UG	Uganda	native
+4434	NE	Niger	native
+4434	ZM	Zambia	native
+4434	ZW	Zimbabwe	native
+4434	SS	South Sudan	native
+4434	MR	Mauritania	native
+4434	SA	Saudi Arabia	native
+4434	TD	Chad	native
+4434	ML	Mali	native
+4434	BJ	Benin	native
+4434	CI	Côte d'Ivoire	native
+4434	CD	Congo, The Democratic Republic of the	native
+4434	DJ	Djibouti	native
+4434	EG	Egypt	native
+4434	BF	Burkina Faso	native
+4434	ET	Ethiopia	native
+4434	GM	Gambia	native
+4434	GH	Ghana	native
+4434	GN	Guinea	native
+4434	GW	Guinea-Bissau	native
+4434	ER	Eritrea	native
+4434	KE	Kenya	native
+4442	SI	Slovenia	native
+4442	SK	Slovakia	native
+4442	RS	Serbia	native
+4442	SA	Saudi Arabia	native
+4442	RO	Romania	native
+4442	MD	Moldova, Republic of	native
+4442	KR	Korea, Republic of	native
+4442	ES	Spain	native
+4442	RU	Russian Federation	native
+4442	PT	Portugal	native
+4442	UA	Ukraine	native
+4442	CH	Switzerland	
+4442	SY	Syrian Arab Republic	native
+4442	TJ	Tajikistan	native
+4442	TR	Türkiye	native
+4442	TM	Turkmenistan	native
+4442	GB	United Kingdom	
+4442	US	United States	native
+4442	UZ	Uzbekistan	native
+4442	YE	Yemen	native
+4442	SE	Sweden	native
+4442	PL	Poland	native
+4442	LY	Libya	native
+4442	OM	Oman	native
+4442	GR	Greece	native
+4442	DE	Germany	native
+4442	GE	Georgia	native
+4442	FR	France	native
+4442	FI	Finland	native
+4442	EE	Estonia	native
+4442	EG	Egypt	
+4442	DK	Denmark	
+4442	KP	Korea, Democratic People's Republic of	native
+4442	CZ	Czechia	native
+4442	GL	Greenland	native
+4442	BY	Belarus	native
+4442	AZ	Azerbaijan	native
+4442	HR	Croatia	native
+4442	AT	Austria	
+4442	AM	Armenia	native
+4442	AL	Albania	native
+4442	AF	Afghanistan	native
+4442	CN	China	native
+4442	BE	Belgium	
+4442	BT	Bhutan	native
+4442	BA	Bosnia and Herzegovina	native
+4442	BD	Bangladesh	
+4442	CA	Canada	native
+4442	HU	Hungary	native
+4442	IR	Iran, Islamic Republic of	native
+4442	NO	Norway	native
+4442	MK	North Macedonia	native
+4442	NL	Netherlands	
+4442	NP	Nepal	native
+4442	MM	Myanmar	
+4442	ME	Montenegro	native
+4442	MN	Mongolia	native
+4442	MX	Mexico	native reintroduced
+4442	LU	Luxembourg	
+4442	LT	Lithuania	native
+4442	IN	India	native
+4442	LB	Lebanon	
+4442	KG	Kyrgyzstan	native
+4442	KW	Kuwait	native
+4442	KZ	Kazakhstan	native
+4442	JO	Jordan	native
+4442	JP	Japan	
+4442	IT	Italy	native
+4442	IL	Israel	native
+4442	IE	Ireland	
+4442	PK	Pakistan	native
+4442	IQ	Iraq	native
+4442	LV	Latvia	native
+4442	BG	Bulgaria	native
+4455	MG	Madagascar	native
+4464	MR	Mauritania	native
+4464	ML	Mali	native
+4464	LY	Libya	
+4464	EG	Egypt	
+4464	NE	Niger	native
+4464	TD	Chad	native
+4464	TN	Tunisia	
+4464	SD	Sudan	native
+4464	DZ	Algeria	
+4464	EH	Western Sahara	
+4464	MA	Morocco	
+4494	VE	Venezuela, Bolivarian Republic of	native
+4494	EC	Ecuador	native
+4494	CO	Colombia	native
+4494	PY	Paraguay	native
+4494	PE	Peru	native
+4494	CL	Chile	native
+4494	AR	Argentina	native
+4494	BR	Brazil	native
+4494	BO	Bolivia, Plurinational State of	native
+4515	EC	Ecuador	native
+4520	PY	Paraguay	native
+4520	BR	Brazil	native
+4520	AR	Argentina	native
+4520	UY	Uruguay	
+4521	ZW	Zimbabwe	native
+4521	ZM	Zambia	native
+4521	TZ	Tanzania, United Republic of	native
+4521	UG	Uganda	native
+4521	SD	Sudan	native
+4521	SS	South Sudan	native
+4521	ZA	South Africa	native
+4521	SO	Somalia	native
+4521	RW	Rwanda	native
+4521	NA	Namibia	native
+4521	NG	Nigeria	native
+4521	MZ	Mozambique	native
+4521	KE	Kenya	native
+4521	ER	Eritrea	native
+4521	ML	Mali	native
+4521	MW	Malawi	native
+4521	ET	Ethiopia	native
+4521	SZ	Eswatini	native reintroduced
+4521	MR	Mauritania	
+4521	BI	Burundi	
+4521	BW	Botswana	native
+4521	BF	Burkina Faso	native
+4521	CD	Congo, The Democratic Republic of the	native
+4521	TD	Chad	native
+4521	CF	Central African Republic	native
+4521	CM	Cameroon	native
+4533	VN	Viet Nam	native
+4533	CN	China	native
+4533	LA	Lao People's Democratic Republic	native
+4547	IN	India	native
+4547	LA	Lao People's Democratic Republic	native
+4547	KH	Cambodia	native
+4547	CN	China	native
+4547	TH	Thailand	native reintroduced
+4547	VN	Viet Nam	
+4547	MM	Myanmar	native
+4548	JM	Jamaica	native
+4548	BZ	Belize	native
+4548	AG	Antigua and Barbuda	
+4548	TT	Trinidad and Tobago	native
+4548	BS	Bahamas	native
+4548	VE	Venezuela, Bolivarian Republic of	native
+4548	BR	Brazil	native
+4548	US	United States	native
+4548	HT	Haiti	native
+4548	GP	Guadeloupe	
+4548	SR	Suriname	native
+4548	GD	Grenada	
+4548	PA	Panama	native
+4548	DO	Dominican Republic	native
+4548	MQ	Martinique	
+4548	MX	Mexico	native
+4548	AN	Unknown (AN)	
+4548	HN	Honduras	native
+4548	PR	Puerto Rico	native
+4548	NI	Nicaragua	native
+4548	CO	Colombia	native
+4548	VG	Virgin Islands, British	
+4548	VI	Virgin Islands, U.S.	
+4548	GY	Guyana	native
+4548	CR	Costa Rica	native
+4548	CU	Cuba	native
+4548	GT	Guatemala	native
+4552	TL	Timor-Leste	native
+4552	PG	Papua New Guinea	native
+4552	ID	Indonesia	native
+4552	AU	Australia	native
+4564	US	United States	native
+4586	BS	Bahamas	native
+4586	TC	Turks and Caicos Islands	native
+4590	CR	Costa Rica	
+4599	BR	Brazil	native
+4605	BR	Brazil	native
+4609	MG	Madagascar	native
+4614	TH	Thailand	
+4614	MM	Myanmar	
+4614	SG	Singapore	native
+4614	MY	Malaysia	native
+4614	ID	Indonesia	native
+4614	BN	Brunei Darussalam	native
+4626	TH	Thailand	native
+4626	LK	Sri Lanka	native
+4626	IR	Iran, Islamic Republic of	native
+4626	MM	Myanmar	native
+4626	NP	Nepal	native
+4626	PK	Pakistan	native
+4626	AF	Afghanistan	native
+4626	BD	Bangladesh	native
+4626	CN	China	native
+4626	IN	India	native
+4626	BT	Bhutan	
+4634	PK	Pakistan	native
+4634	IN	India	native
+4634	NP	Nepal	native
+4634	BD	Bangladesh	native
+4643	US	United States	native
+4645	MR	Mauritania	native
+4645	GW	Guinea-Bissau	native
+4645	IN	India	native
+4645	IR	Iran, Islamic Republic of	native
+4645	IQ	Iraq	native
+4645	IL	Israel	native
+4645	JO	Jordan	native
+4645	KZ	Kazakhstan	native
+4645	KE	Kenya	native
+4645	KW	Kuwait	native
+4645	LB	Lebanon	native
+4645	LS	Lesotho	native
+4645	LY	Libya	native
+4645	MW	Malawi	native
+4645	ML	Mali	native
+4645	MA	Morocco	native
+4645	MZ	Mozambique	native
+4645	GN	Guinea	native
+4645	GH	Ghana	native
+4645	GM	Gambia	native
+4645	GA	Gabon	native
+4645	AF	Afghanistan	native
+4645	DZ	Algeria	native
+4645	AO	Angola	native
+4645	BJ	Benin	native
+4645	BW	Botswana	native
+4645	BF	Burkina Faso	
+4645	CM	Cameroon	native
+4645	NE	Niger	native
+4645	CF	Central African Republic	native
+4645	CI	Côte d'Ivoire	native
+4645	CD	Congo, The Democratic Republic of the	native
+4645	DJ	Djibouti	native
+4645	EG	Egypt	native
+4645	ER	Eritrea	native
+4645	SZ	Eswatini	native
+4645	ET	Ethiopia	native
+4645	TD	Chad	native
+4645	NG	Nigeria	native
+4645	NA	Namibia	native
+4645	PK	Pakistan	native
+4645	OM	Oman	native
+4645	ZW	Zimbabwe	native
+4645	ZM	Zambia	native
+4645	YE	Yemen	native
+4645	UZ	Uzbekistan	native
+4645	TZ	Tanzania, United Republic of	native
+4645	UG	Uganda	native
+4645	TM	Turkmenistan	native
+4645	TR	Türkiye	native
+4645	TN	Tunisia	native
+4645	AE	United Arab Emirates	native
+4645	TJ	Tajikistan	native
+4645	SY	Syrian Arab Republic	native
+4645	SD	Sudan	native
+4645	SA	Saudi Arabia	native
+4645	SS	South Sudan	native
+4645	ZA	South Africa	native
+4645	SO	Somalia	native
+4645	TG	Togo	native
+4645	SN	Senegal	native
+4647	CN	China	native
+4650	CO	Colombia	native
+4650	CR	Costa Rica	native
+4650	GY	Guyana	native
+4650	EC	Ecuador	native
+4650	SV	El Salvador	
+4650	GF	French Guiana	native
+4650	GT	Guatemala	native
+4650	BR	Brazil	native
+4650	HN	Honduras	native
+4650	SR	Suriname	native
+4650	NI	Nicaragua	native
+4650	MX	Mexico	native
+4650	VE	Venezuela, Bolivarian Republic of	native
+4650	TT	Trinidad and Tobago	
+4650	BZ	Belize	native
+4650	PE	Peru	native
+4650	PA	Panama	native
+4650	BO	Bolivia, Plurinational State of	native
+4667	AR	Argentina	native
+4667	PY	Paraguay	native
+4667	BR	Brazil	native
+4687	MU	Mauritius	native
+4697	VN	Viet Nam	native
+4697	NP	Nepal	native
+4697	IN	India	native
+4697	KH	Cambodia	
+4697	BD	Bangladesh	
+4740	PH	Philippines	native
+4741	US	United States	native
+4754	TZ	Tanzania, United Republic of	native
+4768	CN	China	native
+4768	IN	India	native
+4768	LA	Lao People's Democratic Republic	native
+4768	MM	Myanmar	native
+4768	BD	Bangladesh	
+4768	NP	Nepal	native
+4768	VN	Viet Nam	native
+4768	TH	Thailand	native
+4768	BT	Bhutan	native
+4788	BR	Brazil	native
+4814	PK	Pakistan	native
+4814	IN	India	native
+4824	MG	Madagascar	native
+4833	AU	Australia	native
+4844	IN	India	native
+4844	NP	Nepal	native
+4844	PK	Pakistan	native
+4881	MG	Madagascar	native
+4889	PH	Philippines	native
+4962	BR	Brazil	native
+4962	CO	Colombia	native
+4962	CR	Costa Rica	
+4962	EC	Ecuador	native
+4962	NI	Nicaragua	
+4962	PE	Peru	native
+4962	VE	Venezuela, Bolivarian Republic of	
+4964	US	United States	native
+4979	RU	Russian Federation	
+4979	PT	Portugal	native
+4979	NO	Norway	native
+4979	NL	Netherlands	native
+4979	IE	Ireland	native
+4979	DK	Denmark	native
+4979	GL	Greenland	native
+4979	DE	Germany	native
+4979	CA	Canada	native
+4979	BE	Belgium	native
+4979	SJ	Svalbard and Jan Mayen	native
+4979	IS	Iceland	native
+4979	SE	Sweden	native
+4979	FO	Faroe Islands	native
+4979	FR	France	native
+4979	US	United States	native
+4979	GB	United Kingdom	native
+4989	KP	Korea, Democratic People's Republic of	native
+4989	CN	China	native
+4989	JP	Japan	native
+4989	KR	Korea, Republic of	native
+4989	RU	Russian Federation	native
+4989	TW	Taiwan, Province of China	native
+4989	US	United States	native
+4989	MX	Mexico	native
+4989	CA	Canada	native
+4996	BR	Brazil	native
+4996	PE	Peru	native
+4999	PA	Panama	native
+4999	CO	Colombia	native
+5002	AR	Argentina	native
+5002	BR	Brazil	native
+5002	PY	Paraguay	
+5002	UY	Uruguay	
+5003	IQ	Iraq	
+5003	TR	Türkiye	
+5003	IR	Iran, Islamic Republic of	native
+5004	MX	Mexico	native
+5004	MR	Mauritania	native
+5004	MT	Malta	native
+5004	IM	Isle of Man	native
+5004	IE	Ireland	native
+5004	CO	Colombia	native
+5004	JE	Jersey	native
+5004	DK	Denmark	native
+5004	GD	Grenada	native
+5004	GI	Gibraltar	native
+5004	DE	Germany	native
+5004	FR	France	native
+5004	MA	Morocco	native
+5004	CA	Canada	native
+5004	CV	Cabo Verde	native
+5004	BQ	Bonaire, Sint Eustatius and Saba	native
+5004	BZ	Belize	native
+5004	BE	Belgium	native
+5004	GG	Guernsey	native
+5004	NL	Netherlands	native
+5004	AW	Aruba	native
+5004	PT	Portugal	native
+5004	BS	Bahamas	native
+5004	NO	Norway	native
+5004	VE	Venezuela, Bolivarian Republic of	native
+5004	US	United States	native
+5004	GB	United Kingdom	native
+5004	IT	Italy	native
+5004	CW	Curaçao	native
+5004	EH	Western Sahara	native
+5004	ES	Spain	native
+5004	SE	Sweden	native
+5004	TT	Trinidad and Tobago	native
+5004	SN	Senegal	native
+5034	BD	Bangladesh	
+5034	BN	Brunei Darussalam	native
+5034	KH	Cambodia	native
+5034	CN	China	
+5034	LA	Lao People's Democratic Republic	native
+5034	MY	Malaysia	native
+5034	MM	Myanmar	native
+5034	SG	Singapore	native
+5034	TH	Thailand	native
+5034	ID	Indonesia	native
+5034	VN	Viet Nam	native
+5056	CX	Christmas Island	native
+5062	MX	Mexico	native
+5062	CA	Canada	native
+5062	US	United States	native
+5077	MG	Madagascar	native
+5080	NF	Norfolk Island	native
+5089	MG	Madagascar	native
+5093	VN	Viet Nam	native
+5093	KH	Cambodia	native
+5098	PH	Philippines	native
+5103	PK	Pakistan	
+5103	BD	Bangladesh	
+5103	NP	Nepal	native
+5103	MM	Myanmar	native
+5103	IN	India	native
+5103	BT	Bhutan	native
+5126	KR	Korea, Republic of	native
+5126	MN	Mongolia	native
+5126	KP	Korea, Democratic People's Republic of	native
+5126	IN	India	native
+5126	HK	Hong Kong	native
+5126	RU	Russian Federation	native
+5126	CN	China	native
+5126	BD	Bangladesh	native
+5126	JP	Japan	native
+5126	TW	Taiwan, Province of China	native
+5138	US	United States	native
+5138	CA	Canada	native
+5138	CN	China	native
+5138	KP	Korea, Democratic People's Republic of	native
+5138	JP	Japan	native
+5138	MX	Mexico	native
+5138	RU	Russian Federation	native
+5138	KR	Korea, Republic of	native
+5141	GP	Guadeloupe	
+5141	GY	Guyana	
+5141	GT	Guatemala	
+5141	PY	Paraguay	
+5141	PR	Puerto Rico	
+5141	RU	Russian Federation	
+5141	GD	Grenada	
+5141	FK	Falkland Islands (Malvinas)	
+5141	CL	Chile	
+5141	CA	Canada	native
+5141	BR	Brazil	
+5141	BO	Bolivia, Plurinational State of	
+5141	BM	Bermuda	
+5141	BB	Barbados	
+5141	AR	Argentina	
+5141	VC	Saint Vincent and the Grenadines	
+5141	TT	Trinidad and Tobago	
+5141	US	United States	native
+5141	UY	Uruguay	
+5141	VI	Virgin Islands, U.S.	
+5141	IS	Iceland	
+5141	MX	Mexico	
+5152	MG	Madagascar	native
+5156	DM	Dominica	native
+5186	VN	Viet Nam	native
+5186	TH	Thailand	native
+5186	LA	Lao People's Democratic Republic	native
+5186	CN	China	
+5186	KH	Cambodia	native
+5186	MM	Myanmar	
+5189	VN	Viet Nam	
+5189	SG	Singapore	
+5189	MY	Malaysia	native
+5189	ID	Indonesia	native
+5189	KH	Cambodia	native
+5225	MG	Madagascar	native
+5226	KE	Kenya	native
+5227	AU	Australia	native
+5245	AO	Angola	native
+5245	BJ	Benin	native
+5245	CM	Cameroon	native
+5245	CG	Congo	native
+5245	CI	Côte d'Ivoire	native
+5245	CD	Congo, The Democratic Republic of the	native
+5245	GM	Gambia	native
+5245	GQ	Equatorial Guinea	native
+5245	GA	Gabon	native
+5245	GH	Ghana	
+5245	TG	Togo	
+5245	GW	Guinea-Bissau	native
+5245	SN	Senegal	native
+5245	SL	Sierra Leone	native
+5245	MR	Mauritania	native
+5245	EH	Western Sahara	native
+5245	GN	Guinea	native
+5245	NG	Nigeria	
+5245	MA	Morocco	native
+5245	LR	Liberia	native
+5248	MG	Madagascar	native
+5306	MR	Mauritania	native
+5306	ZM	Zambia	native
+5306	TZ	Tanzania, United Republic of	native
+5306	TG	Togo	native
+5306	AO	Angola	native
+5306	BJ	Benin	native
+5306	BF	Burkina Faso	native
+5306	BI	Burundi	native
+5306	CM	Cameroon	native
+5306	CF	Central African Republic	native
+5306	TD	Chad	native
+5306	CG	Congo	native
+5306	SL	Sierra Leone	native
+5306	CD	Congo, The Democratic Republic of the	native
+5306	SN	Senegal	native
+5306	GA	Gabon	native
+5306	GM	Gambia	native
+5306	GH	Ghana	native
+5306	GN	Guinea	native
+5306	GW	Guinea-Bissau	native
+5306	LR	Liberia	native
+5306	ML	Mali	native
+5306	NG	Nigeria	native
+5306	GQ	Equatorial Guinea	native
+5306	CI	Côte d'Ivoire	native
+5328	TZ	Tanzania, United Republic of	native
+5335	GT	Guatemala	
+5340	TH	Thailand	native
+5340	ID	Indonesia	native
+5340	MY	Malaysia	native
+5369	TZ	Tanzania, United Republic of	native
+5373	KH	Cambodia	native
+5373	CN	China	native
+5373	HK	Hong Kong	native
+5373	IN	India	native
+5373	BT	Bhutan	native
+5373	BD	Bangladesh	native
+5373	LA	Lao People's Democratic Republic	native
+5373	VN	Viet Nam	native
+5373	TH	Thailand	native
+5373	TW	Taiwan, Province of China	native
+5373	MM	Myanmar	native
+5373	NP	Nepal	native
+5390	BR	Brazil	native
+5390	PY	Paraguay	native
+5390	UY	Uruguay	native
+5390	BO	Bolivia, Plurinational State of	native
+5390	AR	Argentina	native
+5399	MG	Madagascar	native
+5408	LA	Lao People's Democratic Republic	native
+5408	MY	Malaysia	native
+5408	VN	Viet Nam	native
+5411	US	United States	native
+5454	LA	Lao People's Democratic Republic	native
+5454	VN	Viet Nam	native
+5490	MG	Madagascar	native
+5490	YT	Mayotte	native
+5511	MX	Mexico	native
+5515	MG	Madagascar	native
+5526	US	United States	native
+5527	TH	Thailand	native
+5527	LA	Lao People's Democratic Republic	native
+5527	ID	Indonesia	native
+5527	VN	Viet Nam	native
+5527	NP	Nepal	native
+5527	SG	Singapore	native
+5527	CN	China	native
+5527	MM	Myanmar	native
+5527	IN	India	native
+5527	BD	Bangladesh	native
+5527	BT	Bhutan	native
+5527	MY	Malaysia	native
+5527	KH	Cambodia	native
+5553	LA	Lao People's Democratic Republic	native
+5553	VN	Viet Nam	native
+5553	TH	Thailand	native
+5553	MM	Myanmar	native
+5553	MY	Malaysia	native
+5553	ID	Indonesia	native
+5553	IN	India	native
+5553	CN	China	native
+5553	KH	Cambodia	native
+5553	BD	Bangladesh	
+5570	BO	Bolivia, Plurinational State of	native
+5570	GT	Guatemala	
+5570	VE	Venezuela, Bolivarian Republic of	native
+5570	MX	Mexico	native
+5570	EC	Ecuador	native
+5570	CO	Colombia	native
+5570	PE	Peru	native
+5570	AR	Argentina	
+5578	US	United States	
+5579	BR	Brazil	native
+5628	TZ	Tanzania, United Republic of	native
+5628	KE	Kenya	native
+5628	ZM	Zambia	native
+5652	MX	Mexico	native
+5663	PH	Philippines	native
+5668	MG	Madagascar	native
+5690	BT	Bhutan	native
+5690	BD	Bangladesh	native
+5690	KH	Cambodia	native
+5690	VN	Viet Nam	native
+5690	TH	Thailand	native
+5690	LK	Sri Lanka	native
+5690	NP	Nepal	native
+5690	MM	Myanmar	native
+5690	MY	Malaysia	native
+5690	LA	Lao People's Democratic Republic	native
+5690	ID	Indonesia	native
+5690	IN	India	native
+5690	CN	China	native
+5716	AR	Argentina	native
+5716	CL	Chile	native
+5739	MG	Madagascar	native
+5740	AU	Australia	native
+5748	US	United States	native
+5749	MG	Madagascar	native
+5769	TH	Thailand	native
+5769	SG	Singapore	
+5769	MM	Myanmar	native
+5769	BN	Brunei Darussalam	native
+5769	ID	Indonesia	native
+5769	MY	Malaysia	native
+5777	US	United States	native
+5777	CA	Canada	native
+5781	FM	Micronesia, Federated States of	native
+5784	MX	Mexico	native
+5852	LA	Lao People's Democratic Republic	native
+5852	MM	Myanmar	native
+5852	TH	Thailand	native
+5852	MY	Malaysia	native
+5852	CN	China	native
+5852	ID	Indonesia	native
+5854	AU	Australia	native
+5859	BR	Brazil	native
+5863	BO	Bolivia, Plurinational State of	native
+5863	PE	Peru	native
+5863	BR	Brazil	
+5869	PK	Pakistan	native
+5869	NP	Nepal	
+5869	IN	India	native
+5871	VN	Viet Nam	native
+5871	MY	Malaysia	native
+5871	MM	Myanmar	native
+5871	TH	Thailand	native
+5871	IN	India	native
+5871	KH	Cambodia	
+5871	BN	Brunei Darussalam	
+5871	BD	Bangladesh	
+5871	ID	Indonesia	native
+5871	LA	Lao People's Democratic Republic	native
+5874	MM	Myanmar	native
+5874	NP	Nepal	native
+5874	LK	Sri Lanka	
+5874	IN	India	native
+5874	TH	Thailand	native
+5874	CN	China	native
+5874	KH	Cambodia	native
+5874	MY	Malaysia	native
+5874	BT	Bhutan	native
+5874	BD	Bangladesh	native
+5874	LA	Lao People's Democratic Republic	native
+5874	VN	Viet Nam	native
+5882	BR	Brazil	native
+5888	US	United States	native
+5895	US	United States	native
+5919	MM	Myanmar	native
+5931	BR	Brazil	native
+5936	NI	Nicaragua	native
+5936	PA	Panama	native
+5936	PE	Peru	native
+5936	MX	Mexico	native
+5936	CO	Colombia	native
+5936	CR	Costa Rica	native
+5936	EC	Ecuador	native
+5936	SV	El Salvador	
+5936	HN	Honduras	native
+5936	GT	Guatemala	native
+5983	AU	Australia	native
+6009	MG	Madagascar	native
+6015	AR	Argentina	native
+6015	BO	Bolivia, Plurinational State of	native
+6015	PE	Peru	native
+6015	CL	Chile	native
+6047	BD	Bangladesh	native
+6047	TH	Thailand	native
+6047	TR	Türkiye	
+6047	VN	Viet Nam	native
+6047	UZ	Uzbekistan	
+6047	TJ	Tajikistan	
+6047	AF	Afghanistan	native
+6047	TM	Turkmenistan	
+6047	SG	Singapore	
+6047	GE	Georgia	
+6047	KZ	Kazakhstan	
+6047	LA	Lao People's Democratic Republic	native
+6047	KG	Kyrgyzstan	
+6047	IR	Iran, Islamic Republic of	
+6047	ID	Indonesia	native
+6047	NP	Nepal	native
+6047	IQ	Iraq	
+6047	MY	Malaysia	native
+6047	PK	Pakistan	
+6047	IN	India	native
+6047	BT	Bhutan	native
+6047	RU	Russian Federation	native
+6047	KP	Korea, Democratic People's Republic of	native
+6047	CN	China	native
+6047	KH	Cambodia	native
+6047	KR	Korea, Republic of	
+6047	MM	Myanmar	native
+6057	HN	Honduras	native
+6057	UY	Uruguay	native
+6057	MX	Mexico	native
+6057	AR	Argentina	native
+6057	BZ	Belize	native
+6057	GF	French Guiana	native
+6057	BR	Brazil	native
+6057	NI	Nicaragua	native
+6057	PA	Panama	native
+6057	PY	Paraguay	native
+6057	PE	Peru	native
+6057	SR	Suriname	native
+6057	TT	Trinidad and Tobago	native
+6057	GY	Guyana	native
+6057	BO	Bolivia, Plurinational State of	native
+6057	SV	El Salvador	native
+6057	VE	Venezuela, Bolivarian Republic of	native
+6057	GT	Guatemala	native
+6057	GD	Grenada	native
+6057	CR	Costa Rica	native
+6057	CO	Colombia	native
+6057	EC	Ecuador	native
+6060	AU	Australia	native
+6067	AU	Australia	native
+6085	TW	Taiwan, Province of China	native
+6101	US	United States	native
+6115	BD	Bangladesh	native
+6115	IN	India	native
+6115	NP	Nepal	native
+6115	PK	Pakistan	native
+6115	AF	Afghanistan	native
+6133	MG	Madagascar	native
+6140	BD	Bangladesh	native
+6140	BT	Bhutan	native
+6140	IN	India	native
+6140	MM	Myanmar	native
+6141	CN	China	native
+6141	MM	Myanmar	native
+6141	IN	India	native
+6141	BT	Bhutan	native
+6142	CO	Colombia	native
+6142	CR	Costa Rica	native
+6142	HN	Honduras	native
+6142	PA	Panama	native
+6211	AU	Australia	native
+6214	CN	China	native
+6216	MG	Madagascar	native
+6231	LA	Lao People's Democratic Republic	
+6231	TH	Thailand	native
+6231	VN	Viet Nam	native
+6231	MM	Myanmar	native
+6231	CN	China	native
+6231	IN	India	native
+6244	MV	Maldives	native
+6244	MY	Malaysia	native
+6244	LS	Lesotho	native
+6244	LR	Liberia	native
+6244	LY	Libya	native
+6244	LI	Liechtenstein	native
+6244	LT	Lithuania	native
+6244	LU	Luxembourg	native
+6244	MO	Macao	native
+6244	MG	Madagascar	native
+6244	MW	Malawi	native
+6244	KZ	Kazakhstan	native
+6244	LV	Latvia	native
+6244	HU	Hungary	native
+6244	HK	Hong Kong	native
+6244	HN	Honduras	native
+6244	HT	Haiti	native
+6244	GY	Guyana	native
+6244	GW	Guinea-Bissau	native
+6244	GN	Guinea	native
+6244	GG	Guernsey	native
+6244	GT	Guatemala	native
+6244	GU	Guam	native
+6244	GP	Guadeloupe	
+6244	GD	Grenada	native
+6244	GL	Greenland	native
+6244	VU	Vanuatu	native
+6244	VE	Venezuela, Bolivarian Republic of	native
+6244	IS	Iceland	native
+6244	LB	Lebanon	native
+6244	IN	India	native
+6244	IR	Iran, Islamic Republic of	native
+6244	LA	Lao People's Democratic Republic	native
+6244	KG	Kyrgyzstan	native
+6244	KW	Kuwait	native
+6244	KE	Kenya	native
+6244	GR	Greece	native
+6244	ML	Mali	native
+6244	JO	Jordan	native
+6244	UZ	Uzbekistan	native
+6244	JE	Jersey	native
+6244	JP	Japan	native
+6244	JM	Jamaica	native
+6244	IT	Italy	native
+6244	IL	Israel	native
+6244	IE	Ireland	native
+6244	IQ	Iraq	native
+6244	ID	Indonesia	native
+6244	UY	Uruguay	native
+6244	LK	Sri Lanka	native
+6244	TZ	Tanzania, United Republic of	native
+6244	MM	Myanmar	native
+6244	MZ	Mozambique	native
+6244	MA	Morocco	native
+6244	MS	Montserrat	native
+6244	ME	Montenegro	native
+6244	MN	Mongolia	native
+6244	MX	Mexico	native
+6244	NA	Namibia	native
+6244	YT	Mayotte	native
+6244	MR	Mauritania	native
+6244	MQ	Martinique	
+6244	GH	Ghana	native
+6244	PR	Puerto Rico	native
+6244	QA	Qatar	native
+6244	KR	Korea, Republic of	native
+6244	MD	Moldova, Republic of	native
+6244	MU	Mauritius	native
+6244	RO	Romania	native
+6244	NP	Nepal	native
+6244	AN	Unknown (AN)	
+6244	PG	Papua New Guinea	native
+6244	PY	Paraguay	
+6244	PE	Peru	native
+6244	PH	Philippines	native
+6244	PA	Panama	native
+6244	PW	Palau	native
+6244	PK	Pakistan	native
+6244	NL	Netherlands	native
+6244	OM	Oman	native
+6244	MK	North Macedonia	native
+6244	NG	Nigeria	native
+6244	NE	Niger	native
+6244	NI	Nicaragua	native
+6244	PN	Pitcairn	native
+6244	PL	Poland	native
+6244	NC	New Caledonia	native
+6244	NO	Norway	native
+6244	US	United States	native
+6244	RU	Russian Federation	native
+6244	KN	Saint Kitts and Nevis	native
+6244	SE	Sweden	native
+6244	CH	Switzerland	native
+6244	SY	Syrian Arab Republic	native
+6244	TW	Taiwan, Province of China	native
+6244	TJ	Tajikistan	native
+6244	TH	Thailand	native
+6244	TG	Togo	native
+6244	SR	Suriname	native
+6244	TT	Trinidad and Tobago	native
+6244	TR	Türkiye	native
+6244	TM	Turkmenistan	native
+6244	TC	Turks and Caicos Islands	native
+6244	UG	Uganda	native
+6244	UA	Ukraine	native
+6244	AE	United Arab Emirates	native
+6244	GB	United Kingdom	native
+6244	TN	Tunisia	native
+6244	RW	Rwanda	native
+6244	SD	Sudan	native
+6244	GS	South Georgia and the South Sandwich Islands	native
+6244	LC	Saint Lucia	native
+6244	PM	Saint Pierre and Miquelon	native
+6244	VC	Saint Vincent and the Grenadines	native
+6244	WS	Samoa	native
+6244	ST	Sao Tome and Principe	native
+6244	SA	Saudi Arabia	native
+6244	SN	Senegal	native
+6244	ES	Spain	native
+6244	MT	Malta	native
+6244	SL	Sierra Leone	native
+6244	SG	Singapore	native
+6244	SK	Slovakia	native
+6244	SI	Slovenia	native
+6244	SB	Solomon Islands	native
+6244	SO	Somalia	native
+6244	ZA	South Africa	native
+6244	SC	Seychelles	native
+6244	RS	Serbia	native
+6244	PT	Portugal	native
+6244	GI	Gibraltar	native
+6244	CA	Canada	native
+6244	CM	Cameroon	native
+6244	KH	Cambodia	native
+6244	CV	Cabo Verde	native
+6244	BI	Burundi	native
+6244	BF	Burkina Faso	native
+6244	BG	Bulgaria	native
+6244	KY	Cayman Islands	native
+6244	BN	Brunei Darussalam	native
+6244	BR	Brazil	native
+6244	BW	Botswana	native
+6244	BA	Bosnia and Herzegovina	native
+6244	BO	Bolivia, Plurinational State of	native
+6244	BT	Bhutan	native
+6244	BM	Bermuda	native
+6244	BJ	Benin	native
+6244	VG	Virgin Islands, British	
+6244	CF	Central African Republic	native
+6244	TD	Chad	native
+6244	CL	Chile	native
+6244	DO	Dominican Republic	native
+6244	DM	Dominica	native
+6244	DJ	Djibouti	native
+6244	VN	Viet Nam	native
+6244	CD	Congo, The Democratic Republic of the	native
+6244	KP	Korea, Democratic People's Republic of	native
+6244	CZ	Czechia	native
+6244	CY	Cyprus	native
+6244	CU	Cuba	native
+6244	HR	Croatia	native
+6244	CI	Côte d'Ivoire	native
+6244	CR	Costa Rica	native
+6244	CG	Congo	native
+6244	KM	Comoros	native
+6244	CO	Colombia	native
+6244	CX	Christmas Island	native
+6244	CN	China	native
+6244	BZ	Belize	native
+6244	BE	Belgium	native
+6244	DK	Denmark	native
+6244	BB	Barbados	native
+6244	FO	Faroe Islands	native
+6244	FJ	Fiji	native
+6244	FI	Finland	native
+6244	FR	France	native
+6244	GF	French Guiana	native
+6244	GA	Gabon	native
+6244	GE	Georgia	native
+6244	FK	Falkland Islands (Malvinas)	native
+6244	DE	Germany	native
+6244	ZM	Zambia	native
+6244	YE	Yemen	native
+6244	VI	Virgin Islands, U.S.	native
+6244	DZ	Algeria	native
+6244	AD	Andorra	native
+6244	AL	Albania	native
+6244	BY	Belarus	native
+6244	ZW	Zimbabwe	native
+6244	ET	Ethiopia	native
+6244	GM	Gambia	native
+6244	EE	Estonia	native
+6244	BD	Bangladesh	native
+6244	BH	Bahrain	native
+6244	BS	Bahamas	native
+6244	AZ	Azerbaijan	native
+6244	SZ	Eswatini	native
+6244	AT	Austria	native
+6244	AU	Australia	native
+6244	AW	Aruba	native
+6244	AM	Armenia	native
+6244	AF	Afghanistan	native
+6244	AG	Antigua and Barbuda	native
+6244	ER	Eritrea	native
+6244	GQ	Equatorial Guinea	native
+6244	SV	El Salvador	native
+6244	AR	Argentina	native
+6244	EC	Ecuador	native
+6244	EG	Egypt	native
+6244	AO	Angola	native
+6244	AI	Anguilla	
+6250	ZA	South Africa	native
+6250	SO	Somalia	
+6250	SG	Singapore	native
+6250	LK	Sri Lanka	native
+6250	SA	Saudi Arabia	native
+6250	QA	Qatar	native
+6250	MY	Malaysia	native
+6250	MU	Mauritius	native
+6250	PG	Papua New Guinea	native
+6250	PK	Pakistan	native
+6250	MZ	Mozambique	native
+6250	IQ	Iraq	native
+6250	IL	Israel	native
+6250	JO	Jordan	native
+6250	KE	Kenya	native
+6250	PH	Philippines	native
+6250	KW	Kuwait	native
+6250	CN	China	native
+6250	TH	Thailand	native
+6250	AU	Australia	native
+6250	BH	Bahrain	native
+6250	BD	Bangladesh	native
+6250	BN	Brunei Darussalam	native
+6250	KH	Cambodia	native
+6250	MM	Myanmar	
+6250	DJ	Djibouti	native
+6250	EG	Egypt	native
+6250	SD	Sudan	native
+6250	ER	Eritrea	native
+6250	IN	India	native
+6250	ID	Indonesia	native
+6250	IR	Iran, Islamic Republic of	
+6250	YE	Yemen	native
+6250	VN	Viet Nam	native
+6250	TZ	Tanzania, United Republic of	native
+6250	AE	United Arab Emirates	native
+6250	TL	Timor-Leste	native
+6250	FJ	Fiji	
+6250	OM	Oman	native
+6257	MH	Marshall Islands	native
+6257	MQ	Martinique	native
+6257	NU	Niue	native
+6257	MU	Mauritius	native
+6257	OM	Oman	native
+6257	MP	Northern Mariana Islands	native
+6257	MV	Maldives	native
+6257	NG	Nigeria	native
+6257	NI	Nicaragua	native
+6257	NZ	New Zealand	native
+6257	NC	New Caledonia	native
+6257	AN	Unknown (AN)	
+6257	NR	Nauru	native
+6257	NA	Namibia	native
+6257	MM	Myanmar	native
+6257	MZ	Mozambique	native
+6257	MA	Morocco	native
+6257	MS	Montserrat	native
+6257	FM	Micronesia, Federated States of	native
+6257	MX	Mexico	native
+6257	YT	Mayotte	native
+6257	MR	Mauritania	native
+6257	MY	Malaysia	native
+6257	IQ	Iraq	native
+6257	MO	Macao	native
+6257	PK	Pakistan	native
+6257	GH	Ghana	native
+6257	GD	Grenada	native
+6257	GP	Guadeloupe	native
+6257	GU	Guam	native
+6257	GT	Guatemala	native
+6257	GN	Guinea	native
+6257	GW	Guinea-Bissau	native
+6257	GY	Guyana	native
+6257	HT	Haiti	native
+6257	MG	Madagascar	native
+6257	HN	Honduras	native
+6257	IN	India	native
+6257	ID	Indonesia	native
+6257	IR	Iran, Islamic Republic of	native
+6257	IL	Israel	native
+6257	JM	Jamaica	native
+6257	JO	Jordan	native
+6257	KE	Kenya	native
+6257	KI	Kiribati	native
+6257	KW	Kuwait	native
+6257	LR	Liberia	native
+6257	HK	Hong Kong	native
+6257	PW	Palau	native
+6257	SR	Suriname	native
+6257	PG	Papua New Guinea	native
+6257	SD	Sudan	native
+6257	GM	Gambia	native
+6257	TW	Taiwan, Province of China	native
+6257	TH	Thailand	native
+6257	TL	Timor-Leste	native
+6257	TG	Togo	native
+6257	TO	Tonga	native
+6257	TT	Trinidad and Tobago	native
+6257	TC	Turks and Caicos Islands	native
+6257	TV	Tuvalu	native
+6257	LK	Sri Lanka	native
+6257	AE	United Arab Emirates	native
+6257	UM	United States Minor Outlying Islands	native
+6257	US	United States	native
+6257	UY	Uruguay	native
+6257	VU	Vanuatu	native
+6257	VE	Venezuela, Bolivarian Republic of	native
+6257	VN	Viet Nam	native
+6257	VI	Virgin Islands, U.S.	native
+6257	WF	Wallis and Futuna	native
+6257	EH	Western Sahara	native
+6257	YE	Yemen	native
+6257	TZ	Tanzania, United Republic of	native
+6257	ES	Spain	native
+6257	ZA	South Africa	native
+6257	SO	Somalia	native
+6257	PE	Peru	native
+6257	PH	Philippines	native
+6257	PN	Pitcairn	native
+6257	PT	Portugal	native
+6257	PR	Puerto Rico	native
+6257	QA	Qatar	native
+6257	KR	Korea, Republic of	native
+6257	RE	Réunion	native
+6257	BL	Saint Barthélemy	native
+6257	SH	Saint Helena, Ascension and Tristan da Cunha	native
+6257	KN	Saint Kitts and Nevis	native
+6257	LC	Saint Lucia	native
+6257	MF	Saint Martin (French part)	native
+6257	VC	Saint Vincent and the Grenadines	native
+6257	WS	Samoa	native
+6257	ST	Sao Tome and Principe	native
+6257	SA	Saudi Arabia	native
+6257	SN	Senegal	native
+6257	SC	Seychelles	native
+6257	SL	Sierra Leone	native
+6257	SG	Singapore	native
+6257	SX	Sint Maarten (Dutch part)	native
+6257	SB	Solomon Islands	native
+6257	PA	Panama	native
+6257	GA	Gabon	native
+6257	JP	Japan	native
+6257	GF	French Guiana	native
+6257	CK	Cook Islands	native
+6257	CG	Congo	native
+6257	KM	Comoros	native
+6257	CO	Colombia	native
+6257	CC	Cocos (Keeling) Islands	native
+6257	CP	Unknown (CP)	
+6257	CX	Christmas Island	native
+6257	AG	Antigua and Barbuda	native
+6257	CL	Chile	native
+6257	KY	Cayman Islands	native
+6257	CA	Canada	native
+6257	CM	Cameroon	native
+6257	KH	Cambodia	native
+6257	CV	Cabo Verde	native
+6257	BN	Brunei Darussalam	native
+6257	VG	Virgin Islands, British	
+6257	BR	Brazil	native
+6257	AI	Anguilla	native
+6257	AO	Angola	native
+6257	AS	American Samoa	native
+6257	PF	French Polynesia	native
+6257	AW	Aruba	native
+6257	AU	Australia	native
+6257	CR	Costa Rica	native
+6257	BS	Bahamas	native
+6257	BD	Bangladesh	native
+6257	BB	Barbados	native
+6257	BZ	Belize	native
+6257	BJ	Benin	native
+6257	BM	Bermuda	native
+6257	BQ	Bonaire, Sint Eustatius and Saba	native
+6257	BH	Bahrain	native
+6257	CI	Côte d'Ivoire	native
+6257	CN	China	native
+6257	CW	Curaçao	native
+6257	FR	France	native
+6257	FJ	Fiji	native
+6257	ER	Eritrea	native
+6257	GQ	Equatorial Guinea	native
+6257	CU	Cuba	native
+6257	SV	El Salvador	native
+6257	AR	Argentina	native
+6257	EC	Ecuador	native
+6257	KP	Korea, Democratic People's Republic of	native
+6257	CD	Congo, The Democratic Republic of the	native
+6257	DJ	Djibouti	native
+6257	DM	Dominica	native
+6257	EG	Egypt	native
+6257	DO	Dominican Republic	native
+6280	IQ	Iraq	native
+6280	IR	Iran, Islamic Republic of	native
+6280	IN	India	native
+6280	EG	Egypt	native
+6280	CN	China	native
+6280	AM	Armenia	native
+6280	AZ	Azerbaijan	native
+6280	DZ	Algeria	native
+6280	EH	Western Sahara	native
+6280	YE	Yemen	native
+6280	AF	Afghanistan	native
+6280	BH	Bahrain	native
+6280	JO	Jordan	native
+6280	IL	Israel	native
+6280	KW	Kuwait	native
+6280	OM	Oman	native
+6280	PK	Pakistan	native
+6280	PT	Portugal	native
+6280	RU	Russian Federation	native
+6280	SA	Saudi Arabia	native
+6280	ES	Spain	native
+6280	KZ	Kazakhstan	native
+6280	CH	Switzerland	native
+6280	MA	Morocco	native
+6280	MR	Mauritania	native
+6280	SY	Syrian Arab Republic	native
+6280	TJ	Tajikistan	native
+6280	LY	Libya	native
+6280	TN	Tunisia	native
+6280	TM	Turkmenistan	native
+6280	AE	United Arab Emirates	native
+6280	UZ	Uzbekistan	native
+6280	MN	Mongolia	native
+6280	KG	Kyrgyzstan	native
+6330	VE	Venezuela, Bolivarian Republic of	native
+6330	UY	Uruguay	native
+6330	US	United States	native
+6330	SR	Suriname	native
+6330	PE	Peru	native
+6330	NI	Nicaragua	native
+6330	CR	Costa Rica	native
+6330	CO	Colombia	native
+6330	EC	Ecuador	native
+6330	SV	El Salvador	native
+6330	GF	French Guiana	native
+6330	GT	Guatemala	native
+6330	GY	Guyana	native
+6330	HN	Honduras	native
+6330	MX	Mexico	native
+6330	CA	Canada	native
+6330	CL	Chile	native
+6330	PY	Paraguay	native
+6330	PA	Panama	native
+6330	BR	Brazil	native
+6330	BO	Bolivia, Plurinational State of	native
+6330	BZ	Belize	native
+6330	AR	Argentina	native
+6337	ID	Indonesia	native
+6337	MY	Malaysia	native
+6337	TH	Thailand	native
+6338	SG	Singapore	introduced
+6338	VN	Viet Nam	native
+6338	MY	Malaysia	native
+6338	TH	Thailand	native
+6338	CX	Christmas Island	introduced
+6338	KH	Cambodia	native
+6338	ID	Indonesia	native
+6341	MM	Myanmar	native
+6349	ID	Indonesia	native
+6352	DJ	Djibouti	native
+6352	EC	Ecuador	native
+6352	US	United States	native
+6352	SC	Seychelles	native
+6352	SB	Solomon Islands	native
+6352	SO	Somalia	native
+6352	VE	Venezuela, Bolivarian Republic of	native
+6352	ZA	South Africa	native
+6352	YE	Yemen	native
+6352	ID	Indonesia	native
+6352	TW	Taiwan, Province of China	native
+6352	EG	Egypt	native
+6352	SV	El Salvador	native
+6352	FJ	Fiji	native
+6352	PF	French Polynesia	native
+6352	HN	Honduras	native
+6352	GA	Gabon	native
+6352	TH	Thailand	native
+6352	GD	Grenada	native
+6352	TZ	Tanzania, United Republic of	native
+6352	SN	Senegal	native
+6352	LK	Sri Lanka	native
+6352	SA	Saudi Arabia	native
+6352	IN	India	native
+6352	PE	Peru	native
+6352	AO	Angola	native
+6352	AR	Argentina	native
+6352	AU	Australia	native
+6352	BD	Bangladesh	native
+6352	BR	Brazil	native
+6352	BN	Brunei Darussalam	native
+6352	CV	Cabo Verde	native
+6352	CL	Chile	native
+6352	CN	China	native
+6352	CO	Colombia	native
+6352	IQ	Iraq	native
+6352	JP	Japan	native
+6352	PH	Philippines	native
+6352	KE	Kenya	native
+6352	MY	Malaysia	native
+6352	MV	Maldives	native
+6352	MR	Mauritania	native
+6352	MX	Mexico	native
+6352	MZ	Mozambique	native
+6352	MM	Myanmar	native
+6352	NA	Namibia	native
+6352	AN	Unknown (AN)	
+6352	NZ	New Zealand	native
+6352	OM	Oman	native
+6352	PK	Pakistan	native
+6352	PA	Panama	native
+6352	MG	Madagascar	native
+6352	CR	Costa Rica	native
+6353	MW	Malawi	native
+6353	DZ	Algeria	
+6353	LB	Lebanon	
+6353	LS	Lesotho	
+6353	LY	Libya	
+6353	ML	Mali	native
+6353	MR	Mauritania	
+6353	MA	Morocco	
+6353	MZ	Mozambique	native
+6353	NA	Namibia	native
+6353	NE	Niger	native
+6353	NG	Nigeria	native
+6353	PK	Pakistan	
+6353	RW	Rwanda	
+6353	SA	Saudi Arabia	
+6353	AF	Afghanistan	
+6353	SN	Senegal	native
+6353	SO	Somalia	native
+6353	ZA	South Africa	native
+6353	SS	South Sudan	native
+6353	SD	Sudan	native
+6353	SY	Syrian Arab Republic	
+6353	TG	Togo	
+6353	TN	Tunisia	
+6353	TR	Türkiye	
+6353	UG	Uganda	native
+6353	TZ	Tanzania, United Republic of	native
+6353	EH	Western Sahara	
+6353	ZM	Zambia	native
+6353	ZW	Zimbabwe	native
+6353	SL	Sierra Leone	
+6353	KE	Kenya	native
+6353	KW	Kuwait	
+6353	IL	Israel	
+6353	AO	Angola	native
+6353	BW	Botswana	native
+6353	BF	Burkina Faso	native
+6353	BI	Burundi	
+6353	CM	Cameroon	native
+6353	CF	Central African Republic	native
+6353	TD	Chad	native
+6353	CG	Congo	native
+6353	CI	Côte d'Ivoire	
+6353	CD	Congo, The Democratic Republic of the	native
+6353	DJ	Djibouti	
+6353	EG	Egypt	
+6353	ER	Eritrea	
+6353	SZ	Eswatini	native
+6353	JO	Jordan	
+6353	ET	Ethiopia	native
+6353	GM	Gambia	native
+6353	GH	Ghana	
+6353	GR	Greece	
+6353	GN	Guinea	native
+6353	GW	Guinea-Bissau	native
+6353	IN	India	native
+6353	IR	Iran, Islamic Republic of	
+6353	IQ	Iraq	
+6353	GA	Gabon	
+6353	BJ	Benin	native
+6355	AO	Angola	
+6355	BW	Botswana	native
+6355	LS	Lesotho	
+6355	NA	Namibia	native
+6355	ZW	Zimbabwe	native
+6355	ZA	South Africa	native
+6368	KE	Kenya	native
+6385	UY	Uruguay	
+6385	GT	Guatemala	native
+6385	GF	French Guiana	native
+6385	SV	El Salvador	
+6385	EC	Ecuador	native
+6385	CR	Costa Rica	native
+6385	CO	Colombia	native
+6385	BR	Brazil	native
+6385	BO	Bolivia, Plurinational State of	native
+6385	VE	Venezuela, Bolivarian Republic of	native
+6385	BZ	Belize	native
+6385	GY	Guyana	native
+6385	HN	Honduras	native
+6385	MX	Mexico	native
+6385	PA	Panama	native
+6385	PY	Paraguay	native
+6385	PE	Peru	native
+6385	SR	Suriname	native
+6385	US	United States	
+6385	AR	Argentina	native
+6385	NI	Nicaragua	native
+6417	CU	Cuba	
+6417	MR	Mauritania	native
+6417	MG	Madagascar	native
+6417	MY	Malaysia	native
+6417	ML	Mali	native
+6417	CD	Congo, The Democratic Republic of the	
+6417	MU	Mauritius	native
+6417	MX	Mexico	native
+6417	MC	Monaco	
+6417	MA	Morocco	native
+6417	MZ	Mozambique	native
+6417	MM	Myanmar	
+6417	NA	Namibia	
+6417	NI	Nicaragua	native
+6417	NG	Nigeria	
+6417	OM	Oman	native
+6417	PK	Pakistan	native
+6417	PA	Panama	native
+6417	PG	Papua New Guinea	native
+6417	PE	Peru	
+6417	PH	Philippines	native
+6417	LY	Libya	native
+6417	LR	Liberia	
+6417	LA	Lao People's Democratic Republic	
+6417	KE	Kenya	native
+6417	SV	El Salvador	native
+6417	GQ	Equatorial Guinea	
+6417	FR	France	
+6417	GF	French Guiana	native
+6417	GA	Gabon	
+6417	GM	Gambia	native
+6417	GH	Ghana	
+6417	GI	Gibraltar	native
+6417	GR	Greece	native
+6417	PT	Portugal	native
+6417	GD	Grenada	
+6417	GN	Guinea	native
+6417	GW	Guinea-Bissau	native
+6417	GY	Guyana	native
+6417	HT	Haiti	
+6417	HN	Honduras	native
+6417	IN	India	native
+6417	ID	Indonesia	native
+6417	IT	Italy	native
+6417	JM	Jamaica	
+6417	GT	Guatemala	native
+6417	RE	Réunion	
+6417	LC	Saint Lucia	
+6417	VC	Saint Vincent and the Grenadines	
+6417	DZ	Algeria	
+6417	AO	Angola	
+6417	AU	Australia	native
+6417	BS	Bahamas	
+6417	BD	Bangladesh	native
+6417	BB	Barbados	
+6417	BZ	Belize	native
+6417	BJ	Benin	
+6417	BR	Brazil	native
+6417	BN	Brunei Darussalam	
+6417	CV	Cabo Verde	native
+6417	KH	Cambodia	native
+6417	CM	Cameroon	
+6417	KY	Cayman Islands	
+6417	CN	China	
+6417	CO	Colombia	native
+6417	CG	Congo	
+6417	CR	Costa Rica	native
+6417	CI	Côte d'Ivoire	
+6417	DM	Dominica	native
+6417	EC	Ecuador	
+6417	ZW	Zimbabwe	native
+6417	EH	Western Sahara	native
+6417	ST	Sao Tome and Principe	native
+6417	SN	Senegal	native
+6417	SL	Sierra Leone	native
+6417	SG	Singapore	
+6417	SO	Somalia	native
+6417	ZA	South Africa	native
+6417	ES	Spain	
+6417	LK	Sri Lanka	native
+6417	SR	Suriname	native
+6417	SY	Syrian Arab Republic	native
+6417	TH	Thailand	native
+6417	TG	Togo	native
+6417	TT	Trinidad and Tobago	
+6417	TN	Tunisia	native
+6417	TC	Turks and Caicos Islands	
+6417	TZ	Tanzania, United Republic of	native
+6417	US	United States	native
+6417	UY	Uruguay	
+6417	VE	Venezuela, Bolivarian Republic of	
+6417	VN	Viet Nam	native
+6417	YE	Yemen	
+6417	DO	Dominican Republic	native
+6426	NZ	New Zealand	native
+6436	VE	Venezuela, Bolivarian Republic of	native
+6436	JM	Jamaica	native
+6436	PE	Peru	native
+6436	PA	Panama	native
+6436	NI	Nicaragua	native
+6436	MX	Mexico	native
+6436	HN	Honduras	native
+6436	US	United States	native
+6436	GT	Guatemala	native
+6436	SV	El Salvador	native
+6436	HT	Haiti	native
+6436	DO	Dominican Republic	native
+6436	CU	Cuba	native
+6436	CR	Costa Rica	native
+6436	CO	Colombia	native
+6436	BZ	Belize	native
+6436	EC	Ecuador	native
+6473	US	United States	native
+6477	NZ	New Zealand	native
+6477	NC	New Caledonia	native
+6477	NA	Namibia	native
+6477	MZ	Mozambique	native
+6477	PE	Peru	native
+6477	FJ	Fiji	native
+6477	FK	Falkland Islands (Malvinas)	native
+6477	ZA	South Africa	native
+6477	BR	Brazil	native
+6477	AU	Australia	native
+6477	SR	Suriname	native
+6477	AR	Argentina	native
+6477	AQ	Antarctica	native
+6477	AO	Angola	native
+6477	CL	Chile	native
+6482	MG	Madagascar	native
+6506	LA	Lao People's Democratic Republic	native
+6506	MY	Malaysia	native
+6506	MM	Myanmar	native
+6506	ID	Indonesia	native
+6506	VN	Viet Nam	native
+6506	TH	Thailand	native
+6506	KH	Cambodia	native
+6560	US	United States	
+6568	CI	Côte d'Ivoire	native
+6568	GH	Ghana	native
+6600	AU	Australia	native
+6600	ID	Indonesia	native
+6600	MU	Mauritius	
+6600	SC	Seychelles	
+6600	CX	Christmas Island	native
+6617	ZM	Zambia	native
+6617	TZ	Tanzania, United Republic of	native
+6617	UG	Uganda	native
+6617	SD	Sudan	native
+6617	SS	South Sudan	native
+6617	RW	Rwanda	native
+6617	SO	Somalia	
+6617	NA	Namibia	native
+6617	MZ	Mozambique	native
+6617	MW	Malawi	native
+6617	LS	Lesotho	native
+6617	KE	Kenya	native
+6617	ET	Ethiopia	native
+6617	SZ	Eswatini	native
+6617	CD	Congo, The Democratic Republic of the	
+6617	TD	Chad	native
+6617	CF	Central African Republic	native
+6617	BW	Botswana	native
+6617	ZA	South Africa	native
+6617	ZW	Zimbabwe	native
+6617	AO	Angola	native
+6620	CR	Costa Rica	native
+6620	PA	Panama	native
+6623	NG	Nigeria	native
+6623	GQ	Equatorial Guinea	native
+6623	CM	Cameroon	native
+6656	AO	Angola	native
+6656	SO	Somalia	native
+6656	ZA	South Africa	native
+6656	SS	South Sudan	native
+6656	UG	Uganda	native
+6656	TZ	Tanzania, United Republic of	native
+6656	ZM	Zambia	native
+6656	ZW	Zimbabwe	native
+6656	NE	Niger	
+6656	NA	Namibia	native
+6656	MZ	Mozambique	native
+6656	MW	Malawi	native
+6656	KE	Kenya	native
+6656	ET	Ethiopia	native
+6656	SZ	Eswatini	introduced
+6656	ER	Eritrea	native
+6656	CD	Congo, The Democratic Republic of the	
+6656	CI	Côte d'Ivoire	
+6656	TD	Chad	native
+6656	CF	Central African Republic	native
+6656	CM	Cameroon	native
+6656	BI	Burundi	
+6656	BW	Botswana	native
+6656	RW	Rwanda	introduced
+6656	NG	Nigeria	
+6659	AO	Angola	native
+6659	PE	Peru	native
+6659	UY	Uruguay	native
+6659	TZ	Tanzania, United Republic of	native
+6659	GS	South Georgia and the South Sandwich Islands	native
+6659	ZA	South Africa	native
+6659	SH	Saint Helena, Ascension and Tristan da Cunha	native
+6659	NZ	New Zealand	native
+6659	NA	Namibia	native
+6659	MZ	Mozambique	native
+6659	IN	India	native
+6659	KE	Kenya	native
+6659	GA	Gabon	native
+6659	TF	French Southern Territories	
+6659	FK	Falkland Islands (Malvinas)	native
+6659	CL	Chile	native
+6659	BR	Brazil	native
+6659	BV	Bouvet Island	native
+6659	AU	Australia	native
+6659	AR	Argentina	native
+6659	GY	Guyana	native
+6692	GQ	Equatorial Guinea	native
+6692	GH	Ghana	native
+6692	GN	Guinea	native
+6692	GM	Gambia	native reintroduced
+6692	GA	Gabon	native
+6692	CD	Congo, The Democratic Republic of the	native
+6692	BJ	Benin	
+6692	CG	Congo	native
+6692	CF	Central African Republic	native
+6692	CM	Cameroon	native
+6692	GW	Guinea-Bissau	native
+6692	BI	Burundi	native
+6692	CI	Côte d'Ivoire	native
+6692	LR	Liberia	native
+6692	TG	Togo	
+6692	NG	Nigeria	native
+6692	RW	Rwanda	native
+6692	SN	Senegal	native
+6692	SL	Sierra Leone	native
+6692	SS	South Sudan	native
+6692	AO	Angola	native
+6692	BF	Burkina Faso	
+6692	UG	Uganda	native
+6692	TZ	Tanzania, United Republic of	native
+6692	ML	Mali	native
+6693	CN	China	native
+6694	VN	Viet Nam	native
+6694	LA	Lao People's Democratic Republic	native
+6694	KH	Cambodia	native
+6701	MG	Madagascar	native
+6708	MX	Mexico	native
+6709	AU	Australia	native
+6713	BR	Brazil	native
+6723	TG	Togo	
+6723	AO	Angola	native
+6723	BI	Burundi	
+6723	UG	Uganda	native
+6723	CF	Central African Republic	
+6723	CG	Congo	native
+6723	CI	Côte d'Ivoire	native
+6723	CD	Congo, The Democratic Republic of the	native
+6723	GQ	Equatorial Guinea	native
+6723	CM	Cameroon	native
+6723	GM	Gambia	
+6723	SS	South Sudan	
+6723	SL	Sierra Leone	native
+6723	GA	Gabon	native
+6723	SN	Senegal	
+6723	LR	Liberia	native
+6723	NG	Nigeria	native
+6723	GN	Guinea	native
+6723	GH	Ghana	native
+6723	RW	Rwanda	
+6741	RO	Romania	native
+6741	MD	Moldova, Republic of	native
+6741	KR	Korea, Republic of	native
+6741	SE	Sweden	native
+6741	SA	Saudi Arabia	native
+6741	RS	Serbia	native
+6741	SG	Singapore	native
+6741	SK	Slovakia	native
+6741	SI	Slovenia	native
+6741	SD	Sudan	native
+6741	RU	Russian Federation	native
+6741	LB	Lebanon	native
+6741	AL	Albania	native
+6741	SY	Syrian Arab Republic	native
+6741	TW	Taiwan, Province of China	native
+6741	TJ	Tajikistan	native
+6741	TH	Thailand	native
+6741	TR	Türkiye	native
+6741	TM	Turkmenistan	native
+6741	UA	Ukraine	native
+6741	AE	United Arab Emirates	native
+6741	TZ	Tanzania, United Republic of	native
+6741	KZ	Kazakhstan	native
+6741	KE	Kenya	native
+6741	KW	Kuwait	native
+6741	KG	Kyrgyzstan	native
+6741	JO	Jordan	native
+6741	LA	Lao People's Democratic Republic	native
+6741	VN	Viet Nam	native
+6741	YE	Yemen	native
+6741	PK	Pakistan	native
+6741	OM	Oman	native
+6741	MK	North Macedonia	native
+6741	NG	Nigeria	
+6741	NP	Nepal	native
+6741	MM	Myanmar	native
+6741	MA	Morocco	native
+6741	ME	Montenegro	native
+6741	MN	Mongolia	native
+6741	MY	Malaysia	native
+6741	LT	Lithuania	native
+6741	UZ	Uzbekistan	native
+6741	JP	Japan	native
+6741	IT	Italy	native
+6741	IL	Israel	native
+6741	AM	Armenia	native
+6741	AT	Austria	native
+6741	AZ	Azerbaijan	native
+6741	BD	Bangladesh	native
+6741	BY	Belarus	native
+6741	BT	Bhutan	native
+6741	BA	Bosnia and Herzegovina	native
+6741	BG	Bulgaria	native
+6741	LY	Libya	native
+6741	CN	China	native
+6741	HR	Croatia	native
+6741	CY	Cyprus	native
+6741	CZ	Czechia	native
+6741	KP	Korea, Democratic People's Republic of	native
+6741	DK	Denmark	native
+6741	DJ	Djibouti	native
+6741	EG	Egypt	native
+6741	ER	Eritrea	native
+6741	ET	Ethiopia	native
+6741	FI	Finland	native
+6741	FR	France	native
+6741	GE	Georgia	native
+6741	DE	Germany	native
+6741	GR	Greece	native
+6741	HK	Hong Kong	native
+6741	HU	Hungary	native
+6741	IN	India	native
+6741	IR	Iran, Islamic Republic of	native
+6741	IQ	Iraq	native
+6741	AF	Afghanistan	native
+6741	CM	Cameroon	native
+6741	PL	Poland	native
+6743	BR	Brazil	native
+6755	US	United States	native
+6768	BO	Bolivia, Plurinational State of	native
+6771	MG	Madagascar	native
+6777	US	United States	introduced
+6777	PR	Puerto Rico	introduced
+6777	MX	Mexico	native
+6780	US	United States	native
+6787	UY	Uruguay	native
+6787	GY	Guyana	native
+6787	SR	Suriname	native
+6787	PE	Peru	native
+6787	AR	Argentina	native
+6787	BO	Bolivia, Plurinational State of	
+6787	PY	Paraguay	native
+6787	VE	Venezuela, Bolivarian Republic of	native
+6787	BR	Brazil	native
+6787	CO	Colombia	native
+6787	EC	Ecuador	native
+6787	GF	French Guiana	native
+6788	US	United States	
+6826	BO	Bolivia, Plurinational State of	native
+6844	MG	Madagascar	native
+6861	US	United States	native
+6868	ID	Indonesia	native
+6873	AU	Australia	native
+6885	JM	Jamaica	native
+6902	US	United States	native
+6923	MA	Morocco	native
+6923	DZ	Algeria	native
+6923	GI	Gibraltar	introduced
+6926	AL	Albania	native
+6926	AM	Armenia	native
+6926	RS	Serbia	native
+6926	IT	Italy	native
+6926	KZ	Kazakhstan	native
+6926	AZ	Azerbaijan	native
+6926	BA	Bosnia and Herzegovina	native
+6926	BG	Bulgaria	
+6926	ME	Montenegro	native
+6926	KG	Kyrgyzstan	native
+6926	CN	China	native
+6926	HR	Croatia	native
+6926	FR	France	native
+6926	MK	North Macedonia	native
+6926	MD	Moldova, Republic of	native
+6926	RO	Romania	native
+6926	RU	Russian Federation	native
+6926	GE	Georgia	native
+6926	AT	Austria	native
+6926	HU	Hungary	native
+6926	IR	Iran, Islamic Republic of	native
+6926	SI	Slovenia	native
+6926	TR	Türkiye	native
+6926	UA	Ukraine	native
+6926	UZ	Uzbekistan	native
+6926	GR	Greece	native
+6938	BQ	Bonaire, Sint Eustatius and Saba	native
+6938	IN	India	native
+6938	HK	Hong Kong	native
+6938	HN	Honduras	native
+6938	HT	Haiti	native
+6938	CX	Christmas Island	
+6938	BJ	Benin	native
+6938	GW	Guinea-Bissau	native
+6938	GN	Guinea	native
+6938	GT	Guatemala	native
+6938	BR	Brazil	native
+6938	GY	Guyana	native
+6938	BB	Barbados	native
+6938	IQ	Iraq	native
+6938	ID	Indonesia	native
+6938	IR	Iran, Islamic Republic of	native
+6938	BH	Bahrain	native
+6938	IL	Israel	native
+6938	JM	Jamaica	native
+6938	BS	Bahamas	native
+6938	AU	Australia	native
+6938	AW	Aruba	native
+6938	AG	Antigua and Barbuda	native
+6938	AI	Anguilla	native
+6938	AO	Angola	native
+6938	AS	American Samoa	
+6938	VN	Viet Nam	native
+6938	BD	Bangladesh	native
+6938	VG	Virgin Islands, British	
+6938	CV	Cabo Verde	native
+6938	KH	Cambodia	native
+6938	CC	Cocos (Keeling) Islands	
+6938	CO	Colombia	native
+6938	KM	Comoros	native
+6938	CG	Congo	native
+6938	CR	Costa Rica	native
+6938	CI	Côte d'Ivoire	native
+6938	CU	Cuba	native
+6938	CW	Curaçao	native
+6938	CD	Congo, The Democratic Republic of the	native
+6938	DJ	Djibouti	native
+6938	DM	Dominica	native
+6938	DO	Dominican Republic	native
+6938	EC	Ecuador	native
+6938	EG	Egypt	native
+6938	BN	Brunei Darussalam	native
+6938	SV	El Salvador	native
+6938	ER	Eritrea	native
+6938	FJ	Fiji	native
+6938	CN	China	native
+6938	GF	French Guiana	native
+6938	PF	French Polynesia	
+6938	GA	Gabon	native
+6938	GM	Gambia	native
+6938	GH	Ghana	native
+6938	CL	Chile	native
+6938	CA	Canada	native
+6938	CM	Cameroon	native
+6938	GD	Grenada	native
+6938	GP	Guadeloupe	native
+6938	GU	Guam	
+6938	GQ	Equatorial Guinea	native
+6938	KP	Korea, Democratic People's Republic of	native
+6938	VI	Virgin Islands, U.S.	native
+6938	BL	Saint Barthélemy	native
+6938	RE	Réunion	
+6938	KR	Korea, Republic of	native
+6938	QA	Qatar	native
+6938	PR	Puerto Rico	native
+6938	PT	Portugal	native
+6938	PN	Pitcairn	
+6938	PH	Philippines	native
+6938	PE	Peru	native
+6938	TT	Trinidad and Tobago	native
+6938	PG	Papua New Guinea	native
+6938	PW	Palau	native
+6938	PK	Pakistan	native
+6938	OM	Oman	native
+6938	MP	Northern Mariana Islands	
+6938	NU	Niue	
+6938	NG	Nigeria	native
+6938	NI	Nicaragua	native
+6938	NZ	New Zealand	native
+6938	PA	Panama	native
+6938	SH	Saint Helena, Ascension and Tristan da Cunha	
+6938	KN	Saint Kitts and Nevis	native
+6938	LC	Saint Lucia	native
+6938	TL	Timor-Leste	native
+6938	TH	Thailand	native
+6938	TW	Taiwan, Province of China	native
+6938	SR	Suriname	native
+6938	SD	Sudan	native
+6938	LK	Sri Lanka	native
+6938	ZA	South Africa	native
+6938	SO	Somalia	native
+6938	SB	Solomon Islands	native
+6938	SX	Sint Maarten (Dutch part)	native
+6938	SG	Singapore	native
+6938	SL	Sierra Leone	native
+6938	SC	Seychelles	native
+6938	SN	Senegal	native
+6938	SA	Saudi Arabia	native
+6938	ST	Sao Tome and Principe	native
+6938	WS	Samoa	
+6938	VC	Saint Vincent and the Grenadines	native
+6938	MF	Saint Martin (French part)	native
+6938	NC	New Caledonia	native
+6938	TG	Togo	native
+6938	AN	Unknown (AN)	
+6938	NA	Namibia	native
+6938	MY	Malaysia	native
+6938	MG	Madagascar	native
+6938	NR	Nauru	
+6938	LR	Liberia	native
+6938	KW	Kuwait	native
+6938	KI	Kiribati	
+6938	MV	Maldives	native
+6938	KE	Kenya	native
+6938	JP	Japan	native
+6938	UY	Uruguay	native
+6938	VU	Vanuatu	native
+6938	VE	Venezuela, Bolivarian Republic of	native
+6938	YE	Yemen	native
+6938	WF	Wallis and Futuna	
+6938	JO	Jordan	native
+6938	US	United States	native
+6938	MO	Macao	native
+6938	AE	United Arab Emirates	native
+6938	MM	Myanmar	native
+6938	MZ	Mozambique	native
+6938	MS	Montserrat	native
+6938	TZ	Tanzania, United Republic of	native
+6938	FM	Micronesia, Federated States of	native
+6938	MX	Mexico	native
+6938	TO	Tonga	
+6938	MU	Mauritius	native
+6938	TV	Tuvalu	
+6938	MH	Marshall Islands	
+6938	MR	Mauritania	native
+6938	MQ	Martinique	native
+6938	YT	Mayotte	native
+6950	MG	Madagascar	native
+6950	MU	Mauritius	introduced
+6950	RE	Réunion	introduced
+6972	US	United States	native
+6976	ZA	South Africa	native
+6992	ID	Indonesia	native
+6998	BS	Bahamas	native
+7010	NP	Nepal	native
+7010	IN	India	native
+7010	BD	Bangladesh	native
+7015	US	United States	native
+7041	SR	Suriname	native
+7041	PE	Peru	native
+7041	VE	Venezuela, Bolivarian Republic of	native
+7041	BO	Bolivia, Plurinational State of	native
+7041	AR	Argentina	native
+7041	BR	Brazil	native
+7041	PY	Paraguay	native
+7041	PA	Panama	native
+7041	GY	Guyana	introduced
+7041	GF	French Guiana	native
+7041	EC	Ecuador	native
+7041	CO	Colombia	native
+7061	ID	Indonesia	native
+7061	TH	Thailand	
+7061	MY	Malaysia	native
+7062	VE	Venezuela, Bolivarian Republic of	native
+7062	CO	Colombia	native
+7062	GY	Guyana	native
+7062	PR	Puerto Rico	introduced
+7062	TT	Trinidad and Tobago	introduced
+7079	CG	Congo	native
+7079	GQ	Equatorial Guinea	native
+7079	GA	Gabon	native
+7079	CM	Cameroon	native
+7090	RW	Rwanda	native
+7090	ML	Mali	native
+7090	MR	Mauritania	native
+7090	MZ	Mozambique	native
+7090	NA	Namibia	native
+7090	NE	Niger	native
+7090	NG	Nigeria	native
+7090	SN	Senegal	native
+7090	ZW	Zimbabwe	native
+7090	SO	Somalia	native
+7090	ZA	South Africa	native
+7090	SS	South Sudan	native
+7090	SD	Sudan	native
+7090	TG	Togo	native
+7090	UG	Uganda	native
+7090	TZ	Tanzania, United Republic of	native
+7090	ZM	Zambia	native
+7090	LR	Liberia	native
+7090	SL	Sierra Leone	native
+7090	KE	Kenya	native
+7090	MW	Malawi	native
+7090	GN	Guinea	native
+7090	AO	Angola	native
+7090	BJ	Benin	native
+7090	BW	Botswana	native
+7090	BF	Burkina Faso	native
+7090	GW	Guinea-Bissau	native
+7090	CM	Cameroon	native
+7090	CF	Central African Republic	native
+7090	TD	Chad	native
+7090	CI	Côte d'Ivoire	native
+7090	BI	Burundi	native
+7090	DJ	Djibouti	native
+7090	GQ	Equatorial Guinea	native
+7090	ER	Eritrea	native
+7090	SZ	Eswatini	native
+7090	ET	Ethiopia	native
+7090	GA	Gabon	native
+7090	GM	Gambia	native
+7090	GH	Ghana	native
+7090	CD	Congo, The Democratic Republic of the	native
+7106	BN	Brunei Darussalam	
+7106	ID	Indonesia	native
+7106	MY	Malaysia	native
+7109	TT	Trinidad and Tobago	native
+7116	CG	Congo	native
+7116	CM	Cameroon	native
+7116	CF	Central African Republic	native
+7116	CD	Congo, The Democratic Republic of the	native
+7116	AO	Angola	native
+7116	GQ	Equatorial Guinea	native
+7116	NG	Nigeria	native
+7116	GA	Gabon	native
+7119	ID	Indonesia	native
+7159	KP	Korea, Democratic People's Republic of	native
+7159	KR	Korea, Republic of	native
+7159	RU	Russian Federation	native
+7159	CN	China	native
+7171	JP	Japan	native
+7171	RU	Russian Federation	
+7181	IQ	Iraq	native
+7181	AF	Afghanistan	native
+7181	BD	Bangladesh	native
+7181	BT	Bhutan	native
+7181	BN	Brunei Darussalam	native
+7181	NP	Nepal	native
+7181	IR	Iran, Islamic Republic of	
+7181	ID	Indonesia	native
+7181	IN	India	native
+7181	CN	China	native
+7181	MY	Malaysia	native
+7181	MM	Myanmar	native
+7181	VN	Viet Nam	native
+7181	LA	Lao People's Democratic Republic	native
+7181	PK	Pakistan	native
+7181	SG	Singapore	native
+7181	TH	Thailand	native
+7181	KH	Cambodia	native
+7185	AU	Australia	native
+7187	US	United States	
+7200	MG	Madagascar	native
+7200	KM	Comoros	native
+7223	GT	Guatemala	native
+7223	PA	Panama	native
+7223	SV	El Salvador	
+7223	EC	Ecuador	native
+7223	CR	Costa Rica	native
+7223	CO	Colombia	native
+7223	HN	Honduras	native
+7223	MX	Mexico	native
+7223	NI	Nicaragua	native
+7223	BZ	Belize	native
+7226	ID	Indonesia	native
+7227	MG	Madagascar	native
+7239	HN	Honduras	native
+7239	MX	Mexico	native
+7239	NI	Nicaragua	native
+7239	PA	Panama	native
+7239	CR	Costa Rica	native
+7239	GT	Guatemala	native
+7239	SV	El Salvador	native
+7256	FJ	Fiji	native
+7256	VU	Vanuatu	introduced
+7257	SL	Sierra Leone	native
+7257	VG	Virgin Islands, British	
+7257	SG	Singapore	native
+7257	BR	Brazil	native
+7257	BQ	Bonaire, Sint Eustatius and Saba	native
+7257	BM	Bermuda	native
+7257	GI	Gibraltar	native
+7257	BJ	Benin	native
+7257	BZ	Belize	native
+7257	BD	Bangladesh	native
+7257	BH	Bahrain	native
+7257	BS	Bahamas	native
+7257	AU	Australia	native
+7257	GH	Ghana	native
+7257	GM	Gambia	native
+7257	GA	Gabon	native
+7257	AW	Aruba	native
+7257	BB	Barbados	native
+7257	TF	French Southern Territories	
+7257	LY	Libya	native
+7257	CV	Cabo Verde	native
+7257	KP	Korea, Democratic People's Republic of	native
+7257	CW	Curaçao	native
+7257	CU	Cuba	native
+7257	CI	Côte d'Ivoire	native
+7257	CR	Costa Rica	native
+7257	CK	Cook Islands	native
+7257	CG	Congo	native
+7257	KM	Comoros	native
+7257	BN	Brunei Darussalam	native
+7257	CO	Colombia	native
+7257	SC	Seychelles	native
+7257	CX	Christmas Island	
+7257	CN	China	native
+7257	CL	Chile	native
+7257	GD	Grenada	native
+7257	KY	Cayman Islands	native
+7257	CM	Cameroon	native
+7257	KH	Cambodia	native
+7257	CC	Cocos (Keeling) Islands	
+7257	PF	French Polynesia	native
+7257	GF	French Guiana	native
+7257	FR	France	native
+7257	TN	Tunisia	native
+7257	TC	Turks and Caicos Islands	native
+7257	TV	Tuvalu	native
+7257	EC	Ecuador	native
+7257	EG	Egypt	native
+7257	GQ	Equatorial Guinea	native
+7257	SV	El Salvador	native
+7257	AE	United Arab Emirates	native
+7257	TT	Trinidad and Tobago	native
+7257	GB	United Kingdom	native
+7257	US	United States	native
+7257	UY	Uruguay	native
+7257	VU	Vanuatu	native
+7257	VE	Venezuela, Bolivarian Republic of	native
+7257	VN	Viet Nam	native
+7257	VI	Virgin Islands, U.S.	native
+7257	WF	Wallis and Futuna	native
+7257	EH	Western Sahara	native
+7257	TZ	Tanzania, United Republic of	native
+7257	TO	Tonga	native
+7257	TK	Tokelau	native
+7257	TG	Togo	native
+7257	SX	Sint Maarten (Dutch part)	native
+7257	SB	Solomon Islands	native
+7257	AG	Antigua and Barbuda	native
+7257	SO	Somalia	native
+7257	ZA	South Africa	native
+7257	AI	Anguilla	native
+7257	ES	Spain	native
+7257	FJ	Fiji	native
+7257	AO	Angola	native
+7257	AS	American Samoa	native
+7257	LK	Sri Lanka	native
+7257	SD	Sudan	native
+7257	SR	Suriname	native
+7257	TW	Taiwan, Province of China	native
+7257	TH	Thailand	native
+7257	DZ	Algeria	native
+7257	AL	Albania	native
+7257	ER	Eritrea	native
+7257	TL	Timor-Leste	native
+7257	CD	Congo, The Democratic Republic of the	native
+7257	SN	Senegal	native
+7257	SA	Saudi Arabia	native
+7257	GP	Guadeloupe	native
+7257	MV	Maldives	native
+7257	MT	Malta	native
+7257	MH	Marshall Islands	native
+7257	MQ	Martinique	native
+7257	MR	Mauritania	native
+7257	MU	Mauritius	native
+7257	YT	Mayotte	native
+7257	MX	Mexico	native
+7257	MY	Malaysia	native
+7257	FM	Micronesia, Federated States of	native
+7257	MA	Morocco	native
+7257	MZ	Mozambique	native
+7257	MM	Myanmar	native
+7257	NA	Namibia	native
+7257	NR	Nauru	native
+7257	AN	Unknown (AN)	
+7257	NC	New Caledonia	native
+7257	NZ	New Zealand	native
+7257	MS	Montserrat	native
+7257	NI	Nicaragua	native
+7257	DO	Dominican Republic	native
+7257	HT	Haiti	native
+7257	MO	Macao	native
+7257	KW	Kuwait	native
+7257	MG	Madagascar	native
+7257	KI	Kiribati	native
+7257	KE	Kenya	native
+7257	JO	Jordan	native
+7257	JE	Jersey	native
+7257	JP	Japan	native
+7257	GY	Guyana	native
+7257	JM	Jamaica	native
+7257	IL	Israel	native
+7257	IQ	Iraq	native
+7257	IR	Iran, Islamic Republic of	native
+7257	ID	Indonesia	native
+7257	IN	India	native
+7257	HK	Hong Kong	native
+7257	HN	Honduras	native
+7257	YE	Yemen	native
+7257	IT	Italy	native
+7257	NG	Nigeria	native
+7257	NU	Niue	native
+7257	MP	Northern Mariana Islands	native
+7257	PT	Portugal	native
+7257	PR	Puerto Rico	native
+7257	QA	Qatar	native
+7257	KR	Korea, Republic of	native
+7257	RE	Réunion	native
+7257	BL	Saint Barthélemy	native
+7257	GG	Guernsey	native
+7257	DJ	Djibouti	native
+7257	GT	Guatemala	native
+7257	SH	Saint Helena, Ascension and Tristan da Cunha	native
+7257	KN	Saint Kitts and Nevis	native
+7257	LC	Saint Lucia	native
+7257	MF	Saint Martin (French part)	native
+7257	VC	Saint Vincent and the Grenadines	native
+7257	WS	Samoa	native
+7257	ST	Sao Tome and Principe	native
+7257	GU	Guam	native
+7257	PN	Pitcairn	native
+7257	LR	Liberia	native
+7257	PH	Philippines	native
+7257	DM	Dominica	native
+7257	PE	Peru	native
+7257	OM	Oman	native
+7257	PK	Pakistan	native
+7257	PW	Palau	native
+7257	GW	Guinea-Bissau	native
+7257	PA	Panama	native
+7257	PG	Papua New Guinea	native
+7257	GN	Guinea	native
+7259	MG	Madagascar	native
+7273	MG	Madagascar	native
+7278	CN	China	native
+7286	SB	Solomon Islands	native
+7286	PG	Papua New Guinea	native
+7286	TH	Thailand	native
+7286	PW	Palau	native
+7286	MM	Myanmar	native
+7286	MY	Malaysia	native
+7286	ID	Indonesia	native
+7286	IN	India	native
+7286	KH	Cambodia	native
+7286	PH	Philippines	native
+7286	VN	Viet Nam	native
+7296	GH	Ghana	native
+7296	UG	Uganda	native
+7296	BJ	Benin	native
+7296	BF	Burkina Faso	native
+7296	CM	Cameroon	native
+7296	CF	Central African Republic	native
+7296	CG	Congo	native
+7296	CI	Côte d'Ivoire	native
+7296	CD	Congo, The Democratic Republic of the	native
+7296	GQ	Equatorial Guinea	native
+7296	GA	Gabon	native
+7296	GM	Gambia	native
+7296	GN	Guinea	native
+7296	GW	Guinea-Bissau	native
+7296	LR	Liberia	native
+7296	NG	Nigeria	native
+7296	SN	Senegal	native
+7296	SL	Sierra Leone	native
+7296	AO	Angola	native
+7296	TG	Togo	native
+7308	PK	Pakistan	native
+7308	IN	India	native
+7308	NP	Nepal	native
+7342	US	United States	native
+7349	AU	Australia	native
+7352	MY	Malaysia	
+7352	MM	Myanmar	
+7352	OM	Oman	native
+7352	PK	Pakistan	native
+7352	PG	Papua New Guinea	native
+7352	PH	Philippines	native
+7352	TL	Timor-Leste	native
+7352	KR	Korea, Republic of	
+7352	SA	Saudi Arabia	native
+7352	SG	Singapore	native
+7352	LK	Sri Lanka	native
+7352	SD	Sudan	native
+7352	TW	Taiwan, Province of China	native
+7352	TH	Thailand	
+7352	AE	United Arab Emirates	native
+7352	QA	Qatar	native
+7352	HK	Hong Kong	native
+7352	KW	Kuwait	native
+7352	AU	Australia	native
+7352	BH	Bahrain	native
+7352	BD	Bangladesh	native
+7352	BN	Brunei Darussalam	native
+7352	KH	Cambodia	native
+7352	CN	China	native
+7352	KP	Korea, Democratic People's Republic of	native
+7352	DJ	Djibouti	native
+7352	MO	Macao	native
+7352	EG	Egypt	native
+7352	VN	Viet Nam	native
+7352	IN	India	native
+7352	ID	Indonesia	native
+7352	IR	Iran, Islamic Republic of	native
+7352	IQ	Iraq	native
+7352	IL	Israel	native
+7352	JP	Japan	native
+7352	JO	Jordan	native
+7352	ER	Eritrea	native
+7352	YE	Yemen	native
+7352	SO	Somalia	
+7364	CN	China	native
+7368	BR	Brazil	native
+7378	NC	New Caledonia	native
+7380	PA	Panama	native
+7381	AU	Australia	native
+7381	PG	Papua New Guinea	
+7401	RU	Russian Federation	native
+7401	RS	Serbia	native
+7401	EG	Egypt	native
+7401	SK	Slovakia	native
+7401	SI	Slovenia	native
+7401	YE	Yemen	native
+7401	ES	Spain	native
+7401	CH	Switzerland	native
+7401	TN	Tunisia	native
+7401	TR	Türkiye	native
+7401	TM	Turkmenistan	native
+7401	RO	Romania	native
+7401	PT	Portugal	native
+7401	NL	Netherlands	native
+7401	OM	Oman	native
+7401	UA	Ukraine	native
+7401	MA	Morocco	native
+7401	ME	Montenegro	native
+7401	MT	Malta	native
+7401	LY	Libya	native
+7401	LV	Latvia	native
+7401	KG	Kyrgyzstan	native
+7401	KW	Kuwait	native
+7401	KZ	Kazakhstan	native
+7401	JO	Jordan	native
+7401	JP	Japan	
+7401	PL	Poland	native
+7401	UZ	Uzbekistan	native
+7401	IL	Israel	native
+7401	IQ	Iraq	native
+7401	DE	Germany	native
+7401	GR	Greece	native
+7401	HU	Hungary	native
+7401	IR	Iran, Islamic Republic of	native
+7401	AZ	Azerbaijan	native
+7401	AT	Austria	native
+7401	DZ	Algeria	native
+7401	AL	Albania	native
+7401	BE	Belgium	native
+7401	BA	Bosnia and Herzegovina	native
+7401	BG	Bulgaria	native
+7401	CA	Canada	native
+7401	HR	Croatia	native
+7401	CY	Cyprus	native
+7401	CZ	Czechia	native
+7401	IT	Italy	native
+7401	GE	Georgia	native
+7401	FR	France	native
+7409	US	United States	
+7411	BD	Bangladesh	native
+7411	BZ	Belize	native
+7411	UY	Uruguay	native
+7411	DZ	Algeria	
+7411	AO	Angola	
+7411	AR	Argentina	native
+7411	EH	Western Sahara	native
+7411	VE	Venezuela, Bolivarian Republic of	
+7411	AW	Aruba	native
+7411	BS	Bahamas	native
+7411	GY	Guyana	
+7411	CO	Colombia	
+7411	BM	Bermuda	native
+7411	MC	Monaco	
+7411	MX	Mexico	native
+7411	MU	Mauritius	native
+7411	MR	Mauritania	
+7411	MG	Madagascar	native
+7411	LR	Liberia	
+7411	LB	Lebanon	native
+7411	KE	Kenya	native
+7411	JM	Jamaica	
+7411	IT	Italy	
+7411	IN	India	native
+7411	CG	Congo	
+7411	CR	Costa Rica	native
+7411	CI	Côte d'Ivoire	
+7411	CU	Cuba	native
+7411	CD	Congo, The Democratic Republic of the	
+7411	GQ	Equatorial Guinea	
+7411	GF	French Guiana	
+7411	GA	Gabon	
+7411	GM	Gambia	
+7411	GH	Ghana	
+7411	GD	Grenada	native
+7411	GT	Guatemala	native
+7411	GN	Guinea	
+7411	GW	Guinea-Bissau	
+7411	MA	Morocco	native
+7411	BJ	Benin	
+7411	MZ	Mozambique	native
+7411	NA	Namibia	native
+7411	BR	Brazil	native
+7411	CM	Cameroon	native
+7411	HN	Honduras	native
+7411	US	United States	native
+7411	TZ	Tanzania, United Republic of	native
+7411	TT	Trinidad and Tobago	
+7411	TG	Togo	
+7411	TH	Thailand	native
+7411	SY	Syrian Arab Republic	native
+7411	SR	Suriname	
+7411	LK	Sri Lanka	native
+7411	ES	Spain	
+7411	ZA	South Africa	native
+7411	SO	Somalia	native
+7411	SL	Sierra Leone	native
+7411	SN	Senegal	
+7411	ST	Sao Tome and Principe	native
+7411	RE	Réunion	
+7411	PH	Philippines	
+7411	PE	Peru	native
+7411	PA	Panama	native
+7411	PK	Pakistan	native
+7411	OM	Oman	native
+7411	NG	Nigeria	
+7411	AN	Unknown (AN)	
+7411	MM	Myanmar	native
+7411	NI	Nicaragua	
+7424	US	United States	
+7439	MG	Madagascar	native
+7442	VN	Viet Nam	native
+7442	TH	Thailand	native
+7442	NP	Nepal	native
+7442	MM	Myanmar	native
+7442	LA	Lao People's Democratic Republic	native
+7442	IN	India	native
+7442	CN	China	native
+7442	KH	Cambodia	native
+7454	CN	China	native
+7454	MM	Myanmar	native
+7454	MY	Malaysia	native
+7454	LA	Lao People's Democratic Republic	native
+7454	ID	Indonesia	native
+7454	BD	Bangladesh	
+7454	KH	Cambodia	native
+7454	BN	Brunei Darussalam	native
+7454	BT	Bhutan	
+7454	NP	Nepal	native
+7454	IN	India	native
+7454	VN	Viet Nam	native
+7454	TH	Thailand	native
+7466	SC	Seychelles	native
+7468	PY	Paraguay	native
+7468	BR	Brazil	native
+7468	AR	Argentina	native
+7471	AF	Afghanistan	
+7471	CN	China	native
+7471	IN	India	native
+7471	KZ	Kazakhstan	
+7471	MN	Mongolia	
+7471	NP	Nepal	native
+7471	RU	Russian Federation	
+7494	RU	Russian Federation	native
+7494	KP	Korea, Democratic People's Republic of	native
+7494	CN	China	native
+7494	KZ	Kazakhstan	native
+7494	IN	India	native
+7494	MN	Mongolia	native
+7494	JP	Japan	native
+7494	TW	Taiwan, Province of China	native
+7494	KR	Korea, Republic of	native
+7498	BO	Bolivia, Plurinational State of	native
+7498	AR	Argentina	native
+7516	ID	Indonesia	native
+7520	PH	Philippines	native
+7520	MY	Malaysia	native
+7520	JP	Japan	native
+7520	SG	Singapore	native
+7520	ID	Indonesia	native
+7520	RU	Russian Federation	native
+7520	KR	Korea, Republic of	native
+7520	MM	Myanmar	native
+7520	VN	Viet Nam	native
+7520	HK	Hong Kong	native
+7520	GU	Guam	native
+7520	TH	Thailand	native
+7520	KP	Korea, Democratic People's Republic of	native
+7520	CN	China	native
+7520	KH	Cambodia	native
+7520	BD	Bangladesh	native
+7520	AU	Australia	
+7520	IN	India	native
+7520	TW	Taiwan, Province of China	native
+7530	PS	Palestine, State of	
+7530	LY	Libya	native
+7530	IL	Israel	native
+7530	EG	Egypt	native
+7558	SY	Syrian Arab Republic	native
+7558	ER	Eritrea	native
+7558	TR	Türkiye	native reintroduced
+7558	ML	Mali	native
+7558	IL	Israel	native
+7558	IQ	Iraq	
+7558	GR	Greece	
+7558	DE	Germany	native
+7558	ET	Ethiopia	native
+7558	ES	Spain	native
+7558	MR	Mauritania	native
+7558	MA	Morocco	native
+7558	PT	Portugal	native
+7558	SA	Saudi Arabia	native
+7558	SN	Senegal	
+7558	JO	Jordan	
+7558	EG	Egypt	
+7558	CV	Cabo Verde	native
+7558	AT	Austria	native reintroduced
+7558	DZ	Algeria	native
+7558	EH	Western Sahara	native
+7558	YE	Yemen	native
+7558	S1	Unknown (S1)	
+7558	CH	Switzerland	native reintroduced
+7558	SO	Somalia	native
+7560	US	United States	
+7567	IN	India	native
+7567	NP	Nepal	native
+7567	LK	Sri Lanka	native
+7567	BT	Bhutan	native
+7567	BD	Bangladesh	native
+7583	NP	Nepal	native
+7583	MM	Myanmar	native
+7583	LA	Lao People's Democratic Republic	
+7583	IN	India	native
+7583	CN	China	native
+7583	BT	Bhutan	native
+7602	IN	India	native
+7602	CN	China	native
+7602	MM	Myanmar	native
+7610	CN	China	native
+7638	MG	Madagascar	native
+7641	BR	Brazil	native
+7642	AU	Australia	native
+7671	MG	Madagascar	native
+7674	PK	Pakistan	native
+7674	NP	Nepal	native
+7674	IN	India	native
+7674	BD	Bangladesh	native
+7708	US	United States	native
+7742	US	United States	native
+7743	GT	Guatemala	native
+7743	MX	Mexico	native
+7747	BZ	Belize	native
+7747	GT	Guatemala	native
+7747	MX	Mexico	native
+7758	ID	Indonesia	native
+7782	KY	Cayman Islands	native
+7791	BT	Bhutan	native
+7791	IN	India	native
+7791	BD	Bangladesh	
+7791	NP	Nepal	
+7817	AR	Argentina	native
+7817	PE	Peru	native
+7817	CL	Chile	native
+7821	CZ	Czechia	native
+7821	KG	Kyrgyzstan	native
+7821	NL	Netherlands	native
+7821	NO	Norway	native
+7821	PL	Poland	native
+7821	PT	Portugal	native
+7821	RU	Russian Federation	native
+7821	PM	Saint Pierre and Miquelon	native
+7821	SJ	Svalbard and Jan Mayen	native
+7821	SE	Sweden	native
+7821	CH	Switzerland	native
+7821	KZ	Kazakhstan	native
+7821	UA	Ukraine	native
+7821	GB	United Kingdom	native
+7821	US	United States	native
+7821	LV	Latvia	native
+7821	JP	Japan	native
+7821	IE	Ireland	native
+7821	IS	Iceland	native
+7821	GL	Greenland	native
+7821	DE	Germany	native
+7821	FR	France	native
+7821	FI	Finland	native
+7821	FO	Faroe Islands	native
+7821	EE	Estonia	native
+7821	DK	Denmark	native
+7821	CN	China	native
+7821	CA	Canada	native
+7821	BG	Bulgaria	native
+7821	BE	Belgium	native
+7821	AT	Austria	native
+7821	IM	Isle of Man	native
+7821	LT	Lithuania	native
+7834	US	United States	native
+7836	CU	Cuba	native
+7836	BS	Bahamas	native
+7836	KY	Cayman Islands	native
+7837	NF	Norfolk Island	native
+7840	AU	Australia	native
+7840	BR	Brazil	native
+7840	CL	Chile	native
+7840	FK	Falkland Islands (Malvinas)	native
+7840	NZ	New Zealand	native
+7840	ZA	South Africa	native
+7840	AR	Argentina	native
+7840	AQ	Antarctica	native
+7893	US	United States	native
+7895	NP	Nepal	native
+7895	BT	Bhutan	
+7895	IN	India	native
+7896	US	United States	native
+7900	ET	Ethiopia	native
+7903	RU	Russian Federation	native
+7903	KR	Korea, Republic of	native
+7903	NO	Norway	native
+7903	SJ	Svalbard and Jan Mayen	native
+7903	US	United States	native
+7903	JP	Japan	native
+7903	IS	Iceland	native
+7903	GL	Greenland	native
+7903	KP	Korea, Democratic People's Republic of	native
+7903	CA	Canada	native
+7921	MG	Madagascar	native
+7938	FM	Micronesia, Federated States of	native
+7939	US	United States	
+7979	TH	Thailand	native
+7979	ID	Indonesia	native
+7979	MY	Malaysia	native
+8019	NP	Nepal	native
+8019	BD	Bangladesh	native
+8019	IN	India	native
+8019	PK	Pakistan	native
+8035	US	United States	native
+8051	US	United States	
+8117	NP	Nepal	native
+8117	CN	China	native
+8117	IN	India	native
+8124	PH	Philippines	native
+8127	CN	China	native
+8151	TH	Thailand	native
+8151	VN	Viet Nam	native
+8151	BD	Bangladesh	
+8151	BN	Brunei Darussalam	native
+8151	MY	Malaysia	native
+8151	CN	China	native
+8151	IN	India	native
+8151	ID	Indonesia	native
+8151	LA	Lao People's Democratic Republic	native
+8151	MM	Myanmar	native
+8151	KH	Cambodia	native
+8157	AR	Argentina	native
+8157	PY	Paraguay	native
+8157	BR	Brazil	native
+8159	US	United States	
+8203	ID	Indonesia	native
+8205	MG	Madagascar	native
+8211	BT	Bhutan	native
+8211	CN	China	native
+8211	MM	Myanmar	native
+8211	IN	India	native
+8211	NP	Nepal	native
+8211	VN	Viet Nam	native
+8223	CN	China	
+8223	MM	Myanmar	native
+8236	ID	Indonesia	native
+8271	MM	Myanmar	native
+8271	TH	Thailand	native
+8271	MY	Malaysia	native
+8274	FJ	Fiji	native
+8274	AS	American Samoa	native
+8274	WS	Samoa	native
+8276	US	United States	native
+8288	ID	Indonesia	native
+8288	NC	New Caledonia	native
+8288	AN	Unknown (AN)	
+8288	NL	Netherlands	native
+8288	MM	Myanmar	native
+8288	MX	Mexico	native
+8288	SA	Saudi Arabia	native
+8288	MR	Mauritania	native
+8288	MT	Malta	native
+8288	JP	Japan	native
+8288	IT	Italy	native
+8288	IL	Israel	native
+8288	IM	Isle of Man	native
+8288	IE	Ireland	native
+8288	IN	India	native
+8288	MY	Malaysia	native
+8288	MZ	Mozambique	native
+8288	VN	Viet Nam	native
+8288	ZA	South Africa	native
+8288	ES	Spain	native
+8288	LK	Sri Lanka	native
+8288	SR	Suriname	native
+8288	SJ	Svalbard and Jan Mayen	native
+8288	SE	Sweden	native
+8288	TW	Taiwan, Province of China	native
+8288	TH	Thailand	native
+8288	KR	Korea, Republic of	native
+8288	PT	Portugal	native
+8288	PH	Philippines	native
+8288	TN	Tunisia	native
+8288	TR	Türkiye	native
+8288	GB	United Kingdom	native
+8288	US	United States	native
+8288	PE	Peru	native
+8288	NO	Norway	native
+8288	UY	Uruguay	native
+8288	VE	Venezuela, Bolivarian Republic of	native
+8288	NZ	New Zealand	native
+8288	GY	Guyana	native
+8288	IS	Iceland	native
+8288	DE	Germany	native
+8288	FR	France	native
+8288	FI	Finland	native
+8288	EC	Ecuador	native
+8288	DK	Denmark	native
+8288	KP	Korea, Democratic People's Republic of	native
+8288	AR	Argentina	native
+8288	AU	Australia	native
+8288	BS	Bahamas	native
+8288	BD	Bangladesh	native
+8288	BE	Belgium	native
+8288	BM	Bermuda	native
+8288	BR	Brazil	native
+8288	CA	Canada	native
+8288	CL	Chile	native
+8288	CN	China	native
+8288	CO	Colombia	native
+8288	CR	Costa Rica	native
+8288	PF	French Polynesia	native
+8288	TF	French Southern Territories	
+8288	RU	Russian Federation	native
+8288	GL	Greenland	native
+8288	GR	Greece	native
+8306	PG	Papua New Guinea	native
+8306	AU	Australia	native
+8306	ID	Indonesia	native
+8323	AM	Armenia	native
+8323	AZ	Azerbaijan	native
+8323	GE	Georgia	native
+8323	IR	Iran, Islamic Republic of	native
+8323	IQ	Iraq	native
+8323	TM	Turkmenistan	native
+8323	TR	Türkiye	native
+8325	GU	Guam	native
+8325	MP	Northern Mariana Islands	native
+8333	CD	Congo, The Democratic Republic of the	native
+8334	NP	Nepal	native
+8334	BT	Bhutan	native
+8334	AF	Afghanistan	native
+8334	IN	India	native
+8334	CN	China	native
+8334	MM	Myanmar	native
+8334	PK	Pakistan	native
+8352	VN	Viet Nam	native
+8352	LA	Lao People's Democratic Republic	native
+8373	AU	Australia	native
+8374	ID	Indonesia	
+8374	PH	Philippines	native
+8391	HK	Hong Kong	native
+8391	CN	China	native
+8391	KH	Cambodia	native
+8391	LA	Lao People's Democratic Republic	native
+8391	MM	Myanmar	native
+8391	TH	Thailand	native
+8391	VN	Viet Nam	native
+8437	MG	Madagascar	native
+8463	CN	China	native
+8463	IN	India	native
+8463	NP	Nepal	native
+8463	TJ	Tajikistan	native
+8463	AF	Afghanistan	native
+8463	MM	Myanmar	native
+8463	BT	Bhutan	native
+8470	ID	Indonesia	native
+8488	MG	Madagascar	native
+8543	TG	Togo	native
+8543	GA	Gabon	
+8543	GQ	Equatorial Guinea	native
+8543	CM	Cameroon	native
+8543	BJ	Benin	native
+8543	GH	Ghana	native
+8543	LR	Liberia	native
+8543	NG	Nigeria	native
+8543	SL	Sierra Leone	native
+8543	CI	Côte d'Ivoire	native
+8543	CD	Congo, The Democratic Republic of the	
+8560	IN	India	native
+8560	MY	Malaysia	native
+8560	FJ	Fiji	native
+8560	FM	Micronesia, Federated States of	native
+8560	LK	Sri Lanka	native
+8560	SB	Solomon Islands	native
+8560	SG	Singapore	
+8560	PH	Philippines	native
+8560	CC	Cocos (Keeling) Islands	native
+8560	PG	Papua New Guinea	native
+8560	ID	Indonesia	native
+8560	HK	Hong Kong	native
+8560	PW	Palau	native
+8560	TH	Thailand	
+8560	VU	Vanuatu	native
+8560	KH	Cambodia	native
+8560	BN	Brunei Darussalam	native
+8560	BD	Bangladesh	native
+8560	AU	Australia	native
+8560	VN	Viet Nam	native
+8560	MM	Myanmar	native
+8571	ET	Ethiopia	native
+8573	MG	Madagascar	native
+8576	MG	Madagascar	native
+8584	MG	Madagascar	native
+8607	KZ	Kazakhstan	native
+8607	BD	Bangladesh	native
+8607	TJ	Tajikistan	native
+8607	TM	Turkmenistan	native
+8607	VN	Viet Nam	native
+8607	IR	Iran, Islamic Republic of	native
+8607	IN	India	native
+8607	AF	Afghanistan	native
+8607	MM	Myanmar	native
+8607	NP	Nepal	native
+8607	PK	Pakistan	native
+8608	ZA	South Africa	native
+8608	NZ	New Zealand	native
+8608	NA	Namibia	native
+8608	TF	French Southern Territories	
+8608	FK	Falkland Islands (Malvinas)	native
+8608	CL	Chile	native
+8608	AU	Australia	native
+8608	AR	Argentina	native
+8619	AO	Angola	native
+8619	TN	Tunisia	native
+8619	TR	Türkiye	native
+8619	OM	Oman	native
+8619	NG	Nigeria	native
+8619	TM	Turkmenistan	native
+8619	AF	Afghanistan	native
+8619	AE	United Arab Emirates	native
+8619	TZ	Tanzania, United Republic of	native
+8619	UZ	Uzbekistan	
+8619	PK	Pakistan	native
+8619	DZ	Algeria	native
+8619	UG	Uganda	native
+8619	TG	Togo	native
+8619	TH	Thailand	native
+8619	RU	Russian Federation	native
+8619	RW	Rwanda	native
+8619	SA	Saudi Arabia	
+8619	LK	Sri Lanka	native
+8619	TJ	Tajikistan	native
+8619	SN	Senegal	native
+8619	SY	Syrian Arab Republic	
+8619	SD	Sudan	native
+8619	SL	Sierra Leone	native
+8619	SG	Singapore	
+8619	SO	Somalia	native
+8619	ZA	South Africa	native
+8619	SS	South Sudan	native
+8619	KR	Korea, Republic of	native
+8619	AM	Armenia	native
+8619	GA	Gabon	native
+8619	BD	Bangladesh	native
+8619	MY	Malaysia	native
+8619	MW	Malawi	native
+8619	LY	Libya	
+8619	LR	Liberia	native
+8619	LS	Lesotho	native
+8619	LB	Lebanon	native
+8619	LA	Lao People's Democratic Republic	native
+8619	KE	Kenya	native
+8619	ER	Eritrea	native
+8619	SZ	Eswatini	
+8619	JO	Jordan	
+8619	IL	Israel	
+8619	IQ	Iraq	native
+8619	IR	Iran, Islamic Republic of	native
+8619	ID	Indonesia	native
+8619	NP	Nepal	native
+8619	IN	India	native
+8619	HK	Hong Kong	
+8619	GW	Guinea-Bissau	native
+8619	GN	Guinea	native
+8619	GH	Ghana	native
+8619	GE	Georgia	native
+8619	GM	Gambia	native
+8619	ML	Mali	native
+8619	AZ	Azerbaijan	native
+8619	MR	Mauritania	
+8619	GQ	Equatorial Guinea	native
+8619	VN	Viet Nam	native
+8619	BJ	Benin	native
+8619	BT	Bhutan	native
+8619	BW	Botswana	native
+8619	BF	Burkina Faso	native
+8619	BI	Burundi	native
+8619	KH	Cambodia	native
+8619	YE	Yemen	native
+8619	ZM	Zambia	native
+8619	ET	Ethiopia	native
+8619	ZW	Zimbabwe	native
+8619	NA	Namibia	native
+8619	MZ	Mozambique	native
+8619	CM	Cameroon	native
+8619	CF	Central African Republic	native
+8619	TD	Chad	native
+8619	CN	China	native
+8619	CG	Congo	native
+8619	CI	Côte d'Ivoire	native
+8619	KP	Korea, Democratic People's Republic of	native
+8619	CD	Congo, The Democratic Republic of the	native
+8619	DJ	Djibouti	native
+8619	EG	Egypt	native
+8619	MA	Morocco	native
+8619	NE	Niger	native
+8619	MM	Myanmar	native
+8624	MG	Madagascar	native
+8628	MG	Madagascar	native
+8646	US	United States	native
+8684	HK	Hong Kong	introduced
+8684	ZA	South Africa	introduced
+8684	TL	Timor-Leste	native
+8684	SG	Singapore	introduced
+8684	ID	Indonesia	native
+8689	IN	India	native
+8689	PK	Pakistan	native
+8689	AF	Afghanistan	native
+8697	IN	India	native
+8697	BT	Bhutan	native
+8697	BD	Bangladesh	native
+8697	NP	Nepal	native
+8700	MG	Madagascar	native
+8703	ID	Indonesia	
+8708	US	United States	introduced
+8708	MX	Mexico	native
+8710	BR	Brazil	native
+8720	MG	Madagascar	native
+8725	PY	Paraguay	native
+8725	BO	Bolivia, Plurinational State of	native
+8725	AR	Argentina	native
+8751	TZ	Tanzania, United Republic of	native reintroduced
+8754	ID	Indonesia	native
+8775	CL	Chile	native
+8775	AR	Argentina	
+8790	NE	Niger	native
+8790	MA	Morocco	
+8790	ML	Mali	native
+8790	MZ	Mozambique	native
+8790	NA	Namibia	native
+8790	LY	Libya	
+8790	KW	Kuwait	
+8790	KE	Kenya	native
+8790	NG	Nigeria	native
+8790	MR	Mauritania	native
+8790	SO	Somalia	native
+8790	SA	Saudi Arabia	
+8790	JO	Jordan	
+8790	SN	Senegal	native
+8790	ZW	Zimbabwe	native
+8790	ZM	Zambia	native
+8790	EH	Western Sahara	native
+8790	TZ	Tanzania, United Republic of	native
+8790	UG	Uganda	native
+8790	TN	Tunisia	
+8790	SD	Sudan	native
+8790	OM	Oman	
+8790	IL	Israel	
+8790	AU	Australia	introduced
+8790	ET	Ethiopia	native
+8790	IQ	Iraq	
+8790	AO	Angola	native
+8790	SS	South Sudan	native
+8790	BH	Bahrain	
+8790	BW	Botswana	native
+8790	BF	Burkina Faso	
+8790	DZ	Algeria	
+8790	CF	Central African Republic	native
+8790	CM	Cameroon	native
+8790	SZ	Eswatini	introduced
+8790	ER	Eritrea	native
+8790	ZA	South Africa	native
+8790	DJ	Djibouti	native
+8790	TD	Chad	native
+8790	EG	Egypt	native
+8791	MU	Mauritius	
+8794	US	United States	native
+8796	KH	Cambodia	
+8796	CN	China	native
+8796	LA	Lao People's Democratic Republic	native
+8796	VN	Viet Nam	native
+8803	ID	Indonesia	native
+8804	DM	Dominica	native
+8815	MG	Madagascar	native
+8818	US	United States	native
+8822	MG	Madagascar	native
+8824	SD	Sudan	native
+8824	LK	Sri Lanka	native
+8824	PH	Philippines	native
+8824	AU	Australia	
+8824	SG	Singapore	native
+8824	MY	Malaysia	native
+8824	VN	Viet Nam	native
+8824	TH	Thailand	native
+8824	PG	Papua New Guinea	native
+8824	TW	Taiwan, Province of China	native
+8824	ID	Indonesia	native
+8824	IN	India	native
+8824	HK	Hong Kong	native
+8824	CN	China	native
+8824	KH	Cambodia	native
+8824	BN	Brunei Darussalam	native
+8824	BD	Bangladesh	native
+8824	MM	Myanmar	native
+8832	UY	Uruguay	native
+8832	PY	Paraguay	native
+8832	BR	Brazil	native
+8832	BO	Bolivia, Plurinational State of	native
+8832	AR	Argentina	native
+8836	US	United States	
+8874	SL	Sierra Leone	native
+8874	GN	Guinea	native
+8874	GH	Ghana	native
+8874	CI	Côte d'Ivoire	native
+8874	LR	Liberia	native
+8879	ES	Spain	native
+8879	PT	Portugal	native
+8898	NZ	New Zealand	native
+8918	BD	Bangladesh	native
+8918	BT	Bhutan	native
+8918	IN	India	native
+8918	NP	Nepal	native
+8927	IN	India	native
+8927	NP	Nepal	
+8927	PK	Pakistan	native
+8927	CN	China	
+8931	MG	Madagascar	native
+8933	BR	Brazil	
+8935	TG	Togo	native
+8935	TJ	Tajikistan	
+8935	JO	Jordan	
+8935	TM	Turkmenistan	
+8935	UG	Uganda	native
+8935	TZ	Tanzania, United Republic of	native
+8935	DJ	Djibouti	native
+8935	KE	Kenya	native
+8935	CD	Congo, The Democratic Republic of the	native
+8935	KZ	Kazakhstan	
+8935	TN	Tunisia	
+8935	TD	Chad	native
+8935	BJ	Benin	native
+8935	SY	Syrian Arab Republic	
+8935	LY	Libya	
+8935	MW	Malawi	native
+8935	LB	Lebanon	
+8935	KG	Kyrgyzstan	
+8935	ML	Mali	native
+8935	KW	Kuwait	
+8935	MR	Mauritania	native
+8935	MA	Morocco	
+8935	MZ	Mozambique	native
+8935	AF	Afghanistan	
+8935	DZ	Algeria	native
+8935	NA	Namibia	native
+8935	CF	Central African Republic	native
+8935	NE	Niger	native
+8935	PK	Pakistan	
+8935	SA	Saudi Arabia	
+8935	AO	Angola	native
+8935	SN	Senegal	
+8935	SO	Somalia	native
+8935	ZA	South Africa	native
+8935	SS	South Sudan	native
+8935	SD	Sudan	native
+8935	BW	Botswana	native
+8935	BF	Burkina Faso	native
+8935	BI	Burundi	
+8935	CM	Cameroon	native
+8935	NG	Nigeria	native
+8935	UZ	Uzbekistan	
+8935	IL	Israel	
+8935	IN	India	
+8935	ET	Ethiopia	native
+8935	ER	Eritrea	native
+8935	IR	Iran, Islamic Republic of	native
+8935	IQ	Iraq	
+8935	ZW	Zimbabwe	native
+8935	SZ	Eswatini	native
+8935	YE	Yemen	
+8935	ZM	Zambia	native
+8935	EG	Egypt	
+8935	EH	Western Sahara	native
+8941	CN	China	native
+8941	MM	Myanmar	native
+8955	FJ	Fiji	native
+8961	UY	Uruguay	native
+8961	BR	Brazil	native
+8965	US	United States	native
+8966	CO	Colombia	native
+8972	US	United States	native
+8978	BR	Brazil	native
+8985	BD	Bangladesh	native
+8985	BT	Bhutan	native
+8985	KH	Cambodia	native
+8985	ID	Indonesia	native
+8985	CN	China	native
+8985	MY	Malaysia	native
+8985	LA	Lao People's Democratic Republic	native
+8985	IN	India	native
+8985	VN	Viet Nam	native
+8985	TH	Thailand	native
+8985	NP	Nepal	native
+8985	MM	Myanmar	native
+8986	PY	Paraguay	native
+8986	BR	Brazil	native
+8986	BO	Bolivia, Plurinational State of	native
+8992	BO	Bolivia, Plurinational State of	native
+8992	BR	Brazil	native
+8992	EC	Ecuador	
+8992	PE	Peru	native
+8992	CO	Colombia	native
+9020	KW	Kuwait	
+9020	FI	Finland	native
+9020	EG	Egypt	native
+9020	IN	India	native
+9020	IR	Iran, Islamic Republic of	native
+9020	IQ	Iraq	native
+9020	KZ	Kazakhstan	native
+9020	DE	Germany	native
+9020	IT	Italy	native
+9020	GR	Greece	native
+9020	CZ	Czechia	native
+9020	LB	Lebanon	native
+9020	JO	Jordan	native
+9020	LV	Latvia	native
+9020	KG	Kyrgyzstan	native
+9020	IL	Israel	native
+9020	DK	Denmark	native
+9020	RU	Russian Federation	native
+9020	NL	Netherlands	native
+9020	AF	Afghanistan	native
+9020	AM	Armenia	
+9020	AZ	Azerbaijan	native
+9020	BH	Bahrain	native
+9020	BE	Belgium	native
+9020	CN	China	native
+9020	CY	Cyprus	native
+9020	YE	Yemen	native
+9020	UZ	Uzbekistan	native
+9020	AE	United Arab Emirates	native
+9020	UA	Ukraine	native
+9020	TM	Turkmenistan	native
+9020	MN	Mongolia	native
+9020	TJ	Tajikistan	native
+9020	CH	Switzerland	native
+9020	SE	Sweden	native
+9020	SD	Sudan	native
+9020	SI	Slovenia	native
+9020	SK	Slovakia	native
+9020	SA	Saudi Arabia	native
+9020	FR	France	native
+9020	RO	Romania	native
+9020	QA	Qatar	native
+9020	PL	Poland	native
+9020	PK	Pakistan	native
+9020	OM	Oman	native
+9020	SY	Syrian Arab Republic	native
+9034	BS	Bahamas	native
+9048	JP	Japan	native
+9048	KP	Korea, Democratic People's Republic of	native
+9048	CA	Canada	native
+9048	US	United States	native
+9048	MX	Mexico	native
+9048	RU	Russian Federation	native
+9048	KR	Korea, Republic of	native
+9052	BD	Bangladesh	
+9052	NP	Nepal	
+9052	IN	India	
+9052	MM	Myanmar	
+9073	VN	Viet Nam	native
+9073	TH	Thailand	native
+9073	BN	Brunei Darussalam	native
+9073	KH	Cambodia	native
+9073	ID	Indonesia	native
+9073	MM	Myanmar	
+9073	MY	Malaysia	native
+9073	LA	Lao People's Democratic Republic	native
+9079	IN	India	native
+9079	TH	Thailand	native
+9079	MM	Myanmar	native
+9079	KH	Cambodia	native
+9079	BD	Bangladesh	native
+9079	ID	Indonesia	native
+9079	MY	Malaysia	native
+9079	LA	Lao People's Democratic Republic	native
+9079	VN	Viet Nam	native
+9080	CN	China	native
+9080	KP	Korea, Democratic People's Republic of	
+9080	JP	Japan	
+9080	KR	Korea, Republic of	native
+9080	TW	Taiwan, Province of China	native
+9080	RU	Russian Federation	
+9144	PF	French Polynesia	native
+9147	MX	Mexico	native
+9151	LK	Sri Lanka	native
+9151	PK	Pakistan	
+9151	NP	Nepal	native
+9151	IN	India	native
+9169	AR	Argentina	
+9169	PY	Paraguay	native
+9169	BR	Brazil	native
+9206	EC	Ecuador	native
+9206	AR	Argentina	native
+9206	CL	Chile	native
+9206	BO	Bolivia, Plurinational State of	native
+9206	PE	Peru	native
+9222	EC	Ecuador	native
+9271	CN	China	native
+9271	BT	Bhutan	native
+9271	NP	Nepal	native
+9271	IN	India	native
+9277	IN	India	native
+9301	VN	Viet Nam	native
+9311	US	United States	native
+9314	HK	Hong Kong	native
+9314	CN	China	native
+9314	KR	Korea, Republic of	native
+9314	KZ	Kazakhstan	native
+9314	VN	Viet Nam	native
+9314	RU	Russian Federation	native
+9314	JP	Japan	native
+9314	MN	Mongolia	native
+9326	MG	Madagascar	native
+9374	AR	Argentina	native
+9374	BR	Brazil	native
+9374	PY	Paraguay	native
+9374	UY	Uruguay	native
+9378	NP	Nepal	native
+9378	PK	Pakistan	native
+9378	IN	India	native
+9378	CN	China	native
+9378	BT	Bhutan	native
+9378	AF	Afghanistan	
+9382	BN	Brunei Darussalam	native
+9382	AU	Australia	native
+9382	VN	Viet Nam	native
+9382	BD	Bangladesh	native
+9382	TH	Thailand	native
+9382	SG	Singapore	native
+9382	PH	Philippines	native
+9382	PG	Papua New Guinea	native
+9382	MM	Myanmar	native
+9382	MY	Malaysia	native
+9382	LA	Lao People's Democratic Republic	native
+9382	IN	India	native
+9382	KH	Cambodia	native
+9382	ID	Indonesia	native
+9392	CG	Congo	native
+9392	GQ	Equatorial Guinea	native
+9392	CM	Cameroon	native
+9392	NG	Nigeria	native
+9392	GA	Gabon	native
+9406	UM	United States Minor Outlying Islands	native
+9406	HT	Haiti	native
+9406	DO	Dominican Republic	native
+9426	MG	Madagascar	native
+9436	DZ	Algeria	native
+9436	SA	Saudi Arabia	native
+9436	SD	Sudan	native
+9436	SY	Syrian Arab Republic	native
+9436	TJ	Tajikistan	native
+9436	TN	Tunisia	native
+9436	AE	United Arab Emirates	native
+9436	TM	Turkmenistan	native
+9436	QA	Qatar	native
+9436	UZ	Uzbekistan	native
+9436	EH	Western Sahara	native
+9436	YE	Yemen	native
+9436	TR	Türkiye	native
+9436	AF	Afghanistan	
+9436	PK	Pakistan	native
+9436	NE	Niger	native
+9436	BF	Burkina Faso	native
+9436	CM	Cameroon	native
+9436	TD	Chad	
+9436	EG	Egypt	native
+9436	IN	India	native
+9436	IR	Iran, Islamic Republic of	
+9436	OM	Oman	native
+9436	JO	Jordan	native
+9436	IQ	Iraq	native
+9436	KW	Kuwait	native
+9436	KG	Kyrgyzstan	native
+9436	LB	Lebanon	native
+9436	LY	Libya	native
+9436	ML	Mali	native
+9436	MR	Mauritania	native
+9436	MA	Morocco	native
+9436	KZ	Kazakhstan	native
+9436	IL	Israel	native
+9441	KM	Comoros	native
+9441	MG	Madagascar	native
+9441	SC	Seychelles	native
+9445	PF	French Polynesia	native
+9445	GS	South Georgia and the South Sandwich Islands	native
+9445	TF	French Southern Territories	
+9445	GA	Gabon	native
+9445	DE	Germany	native
+9445	GR	Greece	native
+9445	GL	Greenland	native
+9445	GY	Guyana	native
+9445	FR	France	native
+9445	HN	Honduras	native
+9445	IS	Iceland	native
+9445	IN	India	native
+9445	ID	Indonesia	native
+9445	IE	Ireland	native
+9445	IL	Israel	native
+9445	IT	Italy	native
+9445	HK	Hong Kong	native
+9445	JP	Japan	native
+9445	FJ	Fiji	native
+9445	SV	El Salvador	native
+9445	BE	Belgium	native
+9445	BZ	Belize	native
+9445	BR	Brazil	native
+9445	CA	Canada	native
+9445	CL	Chile	native
+9445	CO	Colombia	native
+9445	NA	Namibia	native
+9445	CR	Costa Rica	native
+9445	HR	Croatia	native
+9445	CY	Cyprus	native
+9445	KP	Korea, Democratic People's Republic of	native
+9445	DK	Denmark	native
+9445	EC	Ecuador	native
+9445	EG	Egypt	native
+9445	CI	Côte d'Ivoire	native
+9445	BD	Bangladesh	native
+9445	KE	Kenya	native
+9445	MY	Malaysia	
+9445	MZ	Mozambique	native
+9445	ZA	South Africa	native
+9445	SA	Saudi Arabia	native
+9445	ST	Sao Tome and Principe	native
+9445	RU	Russian Federation	native
+9445	KR	Korea, Republic of	native
+9445	ES	Spain	native
+9445	PT	Portugal	native
+9445	PE	Peru	native
+9445	PK	Pakistan	native
+9445	NO	Norway	native
+9445	NZ	New Zealand	native
+9445	AN	Unknown (AN)	
+9445	NL	Netherlands	native
+9445	PL	Poland	native
+9445	MG	Madagascar	native
+9445	LK	Sri Lanka	native
+9445	SJ	Svalbard and Jan Mayen	native
+9445	MT	Malta	native
+9445	MR	Mauritania	native
+9445	MX	Mexico	native
+9445	MC	Monaco	native
+9445	MA	Morocco	native
+9445	VE	Venezuela, Bolivarian Republic of	native
+9445	SR	Suriname	native
+9445	UY	Uruguay	native
+9445	TZ	Tanzania, United Republic of	native
+9445	GB	United Kingdom	native
+9445	AE	United Arab Emirates	native
+9445	TR	Türkiye	native
+9445	TN	Tunisia	native
+9445	TW	Taiwan, Province of China	native
+9445	US	United States	native
+9445	AU	Australia	native
+9445	FO	Faroe Islands	native
+9445	AQ	Antarctica	native
+9445	AR	Argentina	native
+9445	MM	Myanmar	native
+9445	AO	Angola	native
+9445	DZ	Algeria	native
+9454	CO	Colombia	native
+9454	EC	Ecuador	native
+9454	GY	Guyana	native
+9454	PE	Peru	native
+9454	BR	Brazil	native
+9454	VE	Venezuela, Bolivarian Republic of	native
+9477	TZ	Tanzania, United Republic of	native
+9478	MG	Madagascar	native
+9479	IN	India	native
+9479	BT	Bhutan	native
+9492	PG	Papua New Guinea	native
+9500	FJ	Fiji	native
+9500	TO	Tonga	
+9500	VU	Vanuatu	introduced
+9506	PH	Philippines	native
+9520	CN	China	native
+9520	TW	Taiwan, Province of China	native
+9524	PR	Puerto Rico	native
+9538	MG	Madagascar	native
+9547	LC	Saint Lucia	native
+9554	PK	Pakistan	native
+9554	MM	Myanmar	
+9554	LK	Sri Lanka	native
+9554	IN	India	native
+9556	VN	Viet Nam	native
+9571	MG	Madagascar	native
+9575	US	United States	introduced
+9575	MX	Mexico	native
+9577	FJ	Fiji	native
+9577	PG	Papua New Guinea	native
+9577	SB	Solomon Islands	native
+9577	WS	Samoa	native
+9577	TO	Tonga	native
+9577	NC	New Caledonia	native
+9577	CK	Cook Islands	native
+9577	AS	American Samoa	native
+9577	VU	Vanuatu	native
+9577	WF	Wallis and Futuna	native
+9577	NU	Niue	native
+9599	NZ	New Zealand	native
+9609	VN	Viet Nam	native
+9609	LA	Lao People's Democratic Republic	native
+9609	CN	China	native
+9611	EG	Egypt	native
+9611	SD	Sudan	native
+9611	NE	Niger	native
+9611	ML	Mali	native
+9611	LY	Libya	native
+9611	TD	Chad	native
+9611	TN	Tunisia	native
+9611	DZ	Algeria	native
+9618	SB	Solomon Islands	native
+9618	ID	Indonesia	native
+9644	NG	Nigeria	native
+9644	UG	Uganda	native
+9644	TZ	Tanzania, United Republic of	native
+9644	TG	Togo	native
+9644	SL	Sierra Leone	native
+9644	LR	Liberia	native
+9644	RW	Rwanda	native
+9644	ST	Sao Tome and Principe	native
+9644	AO	Angola	native
+9644	BJ	Benin	native
+9644	BI	Burundi	native
+9644	CM	Cameroon	native
+9644	CF	Central African Republic	native
+9644	CI	Côte d'Ivoire	native
+9644	CD	Congo, The Democratic Republic of the	native
+9644	CG	Congo	native
+9644	GA	Gabon	native
+9644	GH	Ghana	native
+9644	GN	Guinea	native
+9644	GW	Guinea-Bissau	native
+9644	KE	Kenya	native
+9644	ML	Mali	native
+9644	GQ	Equatorial Guinea	native
+9670	LK	Sri Lanka	native
+9670	IN	India	native
+9694	MM	Myanmar	native
+9694	NP	Nepal	native
+9694	IN	India	native
+9694	CN	China	native
+9694	BT	Bhutan	native
+9710	AU	Australia	native
+9710	NZ	New Zealand	native
+9727	PH	Philippines	native
+9752	MG	Madagascar	native
+9799	US	United States	native
+9803	PK	Pakistan	native
+9803	VN	Viet Nam	native
+9803	AE	United Arab Emirates	native
+9803	TH	Thailand	native
+9803	TW	Taiwan, Province of China	native
+9803	LK	Sri Lanka	native
+9803	SG	Singapore	native
+9803	SA	Saudi Arabia	native
+9803	QA	Qatar	native
+9803	PH	Philippines	
+9803	OM	Oman	
+9803	BD	Bangladesh	native
+9803	MY	Malaysia	native
+9803	KW	Kuwait	native
+9803	IQ	Iraq	native
+9803	IR	Iran, Islamic Republic of	native
+9803	ID	Indonesia	native
+9803	IN	India	native
+9803	HK	Hong Kong	native
+9803	KP	Korea, Democratic People's Republic of	native
+9803	CN	China	native
+9803	KH	Cambodia	native
+9803	BN	Brunei Darussalam	native
+9803	BH	Bahrain	native
+9803	MM	Myanmar	native
+9805	MU	Mauritius	native
+9807	VC	Saint Vincent and the Grenadines	native
+9829	CN	China	native
+9829	LB	Lebanon	native
+9829	LT	Lithuania	
+9829	LI	Liechtenstein	
+9829	LV	Latvia	native
+9829	KG	Kyrgyzstan	native
+9829	KZ	Kazakhstan	native
+9829	JO	Jordan	
+9829	JP	Japan	native
+9829	IT	Italy	native
+9829	IL	Israel	native
+9829	IQ	Iraq	native
+9829	IR	Iran, Islamic Republic of	native
+9829	IN	India	native
+9829	HU	Hungary	native
+9829	GR	Greece	native
+9829	MX	Mexico	
+9829	DE	Germany	
+9829	FR	France	native
+9829	FI	Finland	native
+9829	EE	Estonia	native
+9829	DK	Denmark	
+9829	KP	Korea, Democratic People's Republic of	native
+9829	CZ	Czechia	native
+9829	BA	Bosnia and Herzegovina	native
+9829	BT	Bhutan	native
+9829	BE	Belgium	
+9829	BY	Belarus	native
+9829	AZ	Azerbaijan	native
+9829	AT	Austria	native
+9829	AM	Armenia	native
+9829	AL	Albania	native
+9829	GE	Georgia	native
+9829	MN	Mongolia	native
+9829	CA	Canada	native
+9829	NP	Nepal	native
+9829	US	United States	native
+9829	AF	Afghanistan	native
+9829	BG	Bulgaria	native
+9829	ME	Montenegro	native
+9829	UA	Ukraine	native
+9829	TM	Turkmenistan	native
+9829	TR	Türkiye	native
+9829	TJ	Tajikistan	native
+9829	SY	Syrian Arab Republic	native
+9829	CH	Switzerland	
+9829	UZ	Uzbekistan	native
+9829	ES	Spain	native
+9829	SE	Sweden	native
+9829	SK	Slovakia	native
+9829	RS	Serbia	native
+9829	RU	Russian Federation	native
+9829	RO	Romania	native
+9829	PT	Portugal	
+9829	PL	Poland	native
+9829	PK	Pakistan	native
+9829	HR	Croatia	native
+9829	NO	Norway	native
+9829	MK	North Macedonia	native
+9829	NL	Netherlands	
+9829	SI	Slovenia	native
+9833	TH	Thailand	native
+9833	SG	Singapore	introduced
+9833	MY	Malaysia	native
+9833	ID	Indonesia	native
+9833	MM	Myanmar	native
+9833	BN	Brunei Darussalam	native
+9843	CO	Colombia	
+9843	CL	Chile	native
+9843	EC	Ecuador	native
+9843	PE	Peru	native
+9849	LK	Sri Lanka	native
+9849	PK	Pakistan	native
+9849	NP	Nepal	native
+9849	IN	India	native
+9849	CN	China	native
+9849	BD	Bangladesh	native
+9850	CU	Cuba	native
+9862	ZA	South Africa	native
+9862	MZ	Mozambique	native
+9862	MG	Madagascar	native
+9862	KE	Kenya	native
+9862	KM	Comoros	native
+9871	DZ	Algeria	
+9871	ES	Spain	native
+9871	PT	Portugal	native
+9871	MA	Morocco	
+9871	GI	Gibraltar	native
+9871	FR	France	native
+9902	KZ	Kazakhstan	
+9902	CN	China	native reintroduced
+9902	MN	Mongolia	native reintroduced
+9909	MG	Madagascar	native
+9919	PH	Philippines	native
+9941	PK	Pakistan	native
+9941	IN	India	native
+9941	NP	Nepal	native
+9941	BD	Bangladesh	native
+9986	PK	Pakistan	native
+9986	MK	North Macedonia	
+9986	PL	Poland	native
+9986	KR	Korea, Republic of	native
+9986	MD	Moldova, Republic of	native
+9986	RO	Romania	native
+9986	LB	Lebanon	native
+9986	RS	Serbia	
+9986	SK	Slovakia	native
+9986	SY	Syrian Arab Republic	native
+9986	TW	Taiwan, Province of China	native
+9986	TJ	Tajikistan	native
+9986	ME	Montenegro	native
+9986	TR	Türkiye	native
+9986	TM	Turkmenistan	native
+9986	UA	Ukraine	native
+9986	AE	United Arab Emirates	native
+9986	UZ	Uzbekistan	native
+9986	EH	Western Sahara	native
+9986	RU	Russian Federation	native
+9986	MN	Mongolia	native
+9986	IQ	Iraq	native
+9986	LV	Latvia	native
+9986	AF	Afghanistan	native
+9986	BA	Bosnia and Herzegovina	
+9986	BG	Bulgaria	native
+9986	CN	China	native
+9986	HR	Croatia	
+9986	CY	Cyprus	native
+9986	CZ	Czechia	
+9986	EG	Egypt	native
+9986	GE	Georgia	native
+9986	AL	Albania	native
+9986	DZ	Algeria	native
+9986	AT	Austria	
+9986	AM	Armenia	native
+9986	GR	Greece	native
+9986	HK	Hong Kong	native
+9986	HU	Hungary	
+9986	IN	India	native
+9986	IR	Iran, Islamic Republic of	native
+9986	AZ	Azerbaijan	native
+9986	IL	Israel	native
+9986	IT	Italy	native
+9986	KZ	Kazakhstan	native
+9986	KW	Kuwait	native
+9986	KG	Kyrgyzstan	native
+9986	DE	Germany	
+9986	BD	Bangladesh	
+10002	MR	Mauritania	
+10002	ML	Mali	native
+10002	BF	Burkina Faso	
+10002	TD	Chad	native
+10002	EG	Egypt	native
+10002	EH	Western Sahara	
+10002	TN	Tunisia	
+10002	SD	Sudan	
+10002	SN	Senegal	native reintroduced
+10002	NG	Nigeria	native
+10002	NE	Niger	native
+10002	LY	Libya	
+10002	DZ	Algeria	native
+10002	MA	Morocco	native
+10005	MG	Madagascar	native
+10032	VE	Venezuela, Bolivarian Republic of	native
+10032	AN	Unknown (AN)	
+10032	AW	Aruba	native
+10039	CA	Canada	
+10039	MX	Mexico	native reintroduced
+10039	US	United States	native
+10054	MX	Mexico	
+10054	US	United States	native reintroduced
+10071	BO	Bolivia, Plurinational State of	native
+10071	AR	Argentina	
+10071	PA	Panama	
+10071	VE	Venezuela, Bolivarian Republic of	native
+10071	CO	Colombia	native
+10071	EC	Ecuador	native
+10071	PE	Peru	native
+10076	TZ	Tanzania, United Republic of	native
+10078	BR	Brazil	native
+10095	VE	Venezuela, Bolivarian Republic of	native
+10095	PE	Peru	native
+10095	EC	Ecuador	native
+10095	CO	Colombia	native
+10096	NP	Nepal	native
+10096	IN	India	native
+10096	IR	Iran, Islamic Republic of	native
+10096	LK	Sri Lanka	native
+10096	PK	Pakistan	native
+10096	BD	Bangladesh	
+10096	MM	Myanmar	
+10099	MG	Madagascar	native
+10120	GT	Guatemala	native
+10120	UY	Uruguay	native
+10120	BZ	Belize	native
+10120	VE	Venezuela, Bolivarian Republic of	native
+10120	AR	Argentina	native
+10120	BO	Bolivia, Plurinational State of	native
+10120	US	United States	native
+10120	CO	Colombia	native
+10120	GY	Guyana	native
+10120	BR	Brazil	native
+10120	SR	Suriname	native
+10120	PE	Peru	native
+10120	PY	Paraguay	native
+10120	PA	Panama	native
+10120	NI	Nicaragua	native
+10120	MX	Mexico	native
+10120	TT	Trinidad and Tobago	native
+10120	GF	French Guiana	native
+10120	CR	Costa Rica	native
+10120	EC	Ecuador	native
+10120	HN	Honduras	native
+10120	SV	El Salvador	native
+10149	KH	Cambodia	native
+10149	VN	Viet Nam	native
+10149	MY	Malaysia	native
+10149	TH	Thailand	
+10149	ID	Indonesia	native
+10155	CD	Congo, The Democratic Republic of the	native
+10177	JM	Jamaica	native
+10199	KH	Cambodia	native
+10199	BD	Bangladesh	native
+10199	VN	Viet Nam	native
+10199	TH	Thailand	native
+10199	LA	Lao People's Democratic Republic	native
+10199	MM	Myanmar	native
+10199	NP	Nepal	native
+10199	TW	Taiwan, Province of China	native
+10199	BT	Bhutan	native
+10199	CN	China	native
+10199	IN	India	native
+10210	VN	Viet Nam	native
+10210	CN	China	native
+10210	KH	Cambodia	
+10210	LA	Lao People's Democratic Republic	native
+10221	CN	China	native
+10221	MM	Myanmar	native
+10248	MM	Myanmar	native
+10248	TH	Thailand	native
+10255	AO	Angola	
+10255	TD	Chad	
+10255	CF	Central African Republic	
+10255	CI	Côte d'Ivoire	introduced
+10255	BW	Botswana	native reintroduced
+10255	SS	South Sudan	native
+10255	UG	Uganda	
+10255	ZW	Zimbabwe	native reintroduced
+10255	CD	Congo, The Democratic Republic of the	native
+10255	SZ	Eswatini	native reintroduced
+10255	ZM	Zambia	introduced
+10255	ZA	South Africa	native
+10255	NA	Namibia	native reintroduced
+10255	KE	Kenya	introduced
+10255	MZ	Mozambique	native reintroduced
+10264	IN	India	native
+10291	CL	Chile	native
+10291	AR	Argentina	native
+10320	TW	Taiwan, Province of China	native
+10323	BT	Bhutan	native
+10323	IN	India	native
+10323	NP	Nepal	native
+10330	MX	Mexico	native
+10380	ID	Indonesia	native
+10395	LA	Lao People's Democratic Republic	native
+10395	VN	Viet Nam	native
+10403	ID	Indonesia	native
+10403	MY	Malaysia	native
+10403	MM	Myanmar	native
+10403	TH	Thailand	
+10403	BD	Bangladesh	native
+10403	KH	Cambodia	native
+10403	IN	India	native
+10403	VN	Viet Nam	
+10414	US	United States	native
+10415	MY	Malaysia	native
+10415	ID	Indonesia	native
+10415	BN	Brunei Darussalam	native
+10430	PR	Puerto Rico	introduced
+10430	CU	Cuba	native
+10430	KY	Cayman Islands	native
+10431	PR	Puerto Rico	native
+10438	FM	Micronesia, Federated States of	native
+10443	ES	Spain	native
+10456	US	United States	native
+10469	TZ	Tanzania, United Republic of	native
+10484	AU	Australia	native
+10496	MG	Madagascar	native
+10504	MG	Madagascar	native
+10519	BZ	Belize	native
+10519	MX	Mexico	native
+10519	GT	Guatemala	native
+10586	VN	Viet Nam	native
+10586	MY	Malaysia	native
+10586	LA	Lao People's Democratic Republic	native
+10586	KH	Cambodia	native
+10586	TH	Thailand	native
+10594	BD	Bangladesh	native
+10594	NP	Nepal	native
+10594	MM	Myanmar	
+10594	IN	India	native
+10594	BT	Bhutan	native
+10612	BD	Bangladesh	
+10612	BT	Bhutan	native
+10612	IN	India	native
+10612	NP	Nepal	native
+10612	PK	Pakistan	
+10615	LR	Liberia	native
+10615	SL	Sierra Leone	native
+10615	GN	Guinea	native
+10615	CI	Côte d'Ivoire	native
+10624	VE	Venezuela, Bolivarian Republic of	native
+10624	SR	Suriname	native
+10624	NI	Nicaragua	native
+10624	TT	Trinidad and Tobago	native
+10624	BR	Brazil	native
+10624	PA	Panama	native
+10624	CR	Costa Rica	native
+10624	GF	French Guiana	native
+10624	GY	Guyana	native
+10624	HN	Honduras	
+10624	CO	Colombia	native
+10628	MG	Madagascar	native
+10629	TH	Thailand	native
+10636	CL	Chile	native
+10636	AR	Argentina	native
+10682	US	United States	
+10686	AU	Australia	native
+10702	CN	China	native
+10717	AU	Australia	native
+10731	PH	Philippines	native
+10745	SD	Sudan	native
+10745	SS	South Sudan	native
+10745	ER	Eritrea	native
+10745	TG	Togo	native
+10745	UG	Uganda	native
+10745	KE	Kenya	native
+10745	SZ	Eswatini	native
+10745	NG	Nigeria	native
+10745	SO	Somalia	native
+10745	SL	Sierra Leone	native
+10745	SN	Senegal	native
+10745	RW	Rwanda	native
+10745	IL	Israel	
+10745	NE	Niger	native
+10745	LR	Liberia	native
+10745	MG	Madagascar	native
+10745	MW	Malawi	native
+10745	ML	Mali	native
+10745	MR	Mauritania	native
+10745	MZ	Mozambique	native
+10745	NA	Namibia	native
+10745	ZA	South Africa	native
+10745	GW	Guinea-Bissau	native
+10745	TZ	Tanzania, United Republic of	native
+10745	GH	Ghana	native
+10745	DJ	Djibouti	
+10745	EG	Egypt	native
+10745	GQ	Equatorial Guinea	native
+10745	GN	Guinea	native
+10745	CD	Congo, The Democratic Republic of the	native
+10745	CI	Côte d'Ivoire	native
+10745	CG	Congo	native
+10745	KM	Comoros	
+10745	TD	Chad	native
+10745	CM	Cameroon	native
+10745	BI	Burundi	native
+10745	BF	Burkina Faso	native
+10745	BW	Botswana	native
+10745	CF	Central African Republic	native
+10745	AO	Angola	native
+10745	DZ	Algeria	
+10745	GA	Gabon	native
+10745	ET	Ethiopia	native
+10745	GM	Gambia	native
+10745	ZM	Zambia	native
+10745	ZW	Zimbabwe	native
+10745	BJ	Benin	native
+10761	SO	Somalia	native
+10761	NZ	New Zealand	native
+10761	SB	Solomon Islands	native
+10761	SC	Seychelles	native
+10761	NO	Norway	native
+10761	OM	Oman	native
+10761	RU	Russian Federation	native
+10761	SH	Saint Helena, Ascension and Tristan da Cunha	native
+10761	KR	Korea, Republic of	native
+10761	PR	Puerto Rico	native
+10761	PT	Portugal	native
+10761	PA	Panama	native
+10761	PE	Peru	native
+10761	PH	Philippines	native
+10761	ZA	South Africa	native
+10761	ST	Sao Tome and Principe	native
+10761	ES	Spain	native
+10761	UY	Uruguay	native
+10761	SR	Suriname	native
+10761	CV	Cabo Verde	native
+10761	CA	Canada	native
+10761	KY	Cayman Islands	native
+10761	CL	Chile	native
+10761	CN	China	native
+10761	CO	Colombia	native
+10761	KM	Comoros	native
+10761	CG	Congo	native
+10761	CR	Costa Rica	native
+10761	LK	Sri Lanka	native
+10761	CI	Côte d'Ivoire	native
+10761	CD	Congo, The Democratic Republic of the	native
+10761	YE	Yemen	native
+10761	VE	Venezuela, Bolivarian Republic of	native
+10761	DK	Denmark	native
+10761	US	United States	native
+10761	TZ	Tanzania, United Republic of	native
+10761	GB	United Kingdom	native
+10761	AE	United Arab Emirates	native
+10761	TH	Thailand	native
+10761	KP	Korea, Democratic People's Republic of	native
+10761	AN	Unknown (AN)	
+10761	NC	New Caledonia	native
+10761	NA	Namibia	native
+10761	BR	Brazil	native
+10761	GI	Gibraltar	native
+10761	BM	Bermuda	native
+10761	GH	Ghana	native
+10761	DE	Germany	native
+10761	GA	Gabon	native
+10761	TF	French Southern Territories	
+10761	PF	French Polynesia	native
+10761	FJ	Fiji	native
+10761	FK	Falkland Islands (Malvinas)	native
+10761	ER	Eritrea	native
+10761	GR	Greece	native
+10761	GQ	Equatorial Guinea	native
+10761	DO	Dominican Republic	native
+10761	DM	Dominica	native
+10761	AS	American Samoa	native
+10761	BZ	Belize	native
+10761	AO	Angola	native
+10761	BE	Belgium	native
+10761	BS	Bahamas	native
+10761	AU	Australia	native
+10761	AI	Anguilla	native
+10761	AQ	Antarctica	native
+10761	AR	Argentina	native
+10761	EC	Ecuador	native
+10761	NL	Netherlands	native
+10761	DJ	Djibouti	native
+10761	ID	Indonesia	native
+10761	GL	Greenland	native
+10761	GD	Grenada	native
+10761	HN	Honduras	native
+10761	IS	Iceland	native
+10761	IN	India	native
+10761	IE	Ireland	native
+10761	IT	Italy	native
+10761	JP	Japan	native
+10761	LR	Liberia	native
+10761	KE	Kenya	native
+10761	MV	Maldives	native
+10761	MT	Malta	native
+10761	MR	Mauritania	native
+10761	MU	Mauritius	native
+10761	MX	Mexico	native
+10761	MA	Morocco	native
+10761	MZ	Mozambique	native
+10761	MM	Myanmar	native
+10761	MY	Malaysia	native
+10794	US	United States	native
+10804	NP	Nepal	native
+10804	MN	Mongolia	native
+10804	ME	Montenegro	native
+10804	MM	Myanmar	native
+10804	NL	Netherlands	native
+10804	TH	Thailand	native
+10804	NO	Norway	native
+10804	PK	Pakistan	native
+10804	PL	Poland	native
+10804	MT	Malta	native
+10804	MK	North Macedonia	native
+10804	LU	Luxembourg	native
+10804	UZ	Uzbekistan	native
+10804	LB	Lebanon	native
+10804	LV	Latvia	native
+10804	KG	Kyrgyzstan	native
+10804	KZ	Kazakhstan	native
+10804	TM	Turkmenistan	native
+10804	UA	Ukraine	native
+10804	GB	United Kingdom	native reintroduced
+10804	JP	Japan	native
+10804	US	United States	native
+10804	PT	Portugal	
+10804	IT	Italy	native
+10804	LT	Lithuania	native
+10804	KR	Korea, Republic of	native
+10804	MD	Moldova, Republic of	native
+10804	RO	Romania	native
+10804	EG	Egypt	native
+10804	EE	Estonia	native
+10804	FO	Faroe Islands	native
+10804	FI	Finland	native
+10804	FR	France	native
+10804	GE	Georgia	native
+10804	CH	Switzerland	native
+10804	SY	Syrian Arab Republic	native
+10804	DE	Germany	native
+10804	DK	Denmark	native
+10804	GR	Greece	native
+10804	TW	Taiwan, Province of China	native
+10804	HU	Hungary	native
+10804	IS	Iceland	native
+10804	IN	India	native
+10804	IR	Iran, Islamic Republic of	native
+10804	IQ	Iraq	native
+10804	IE	Ireland	native reintroduced
+10804	IL	Israel	native
+10804	TJ	Tajikistan	native
+10804	GL	Greenland	native
+10804	KP	Korea, Democratic People's Republic of	native
+10804	CZ	Czechia	native
+10804	SE	Sweden	native
+10804	RU	Russian Federation	native
+10804	SA	Saudi Arabia	native
+10804	RS	Serbia	native
+10804	SK	Slovakia	native
+10804	SI	Slovenia	native
+10804	ES	Spain	native
+10804	SJ	Svalbard and Jan Mayen	native
+10804	AF	Afghanistan	native
+10804	AL	Albania	native
+10804	DZ	Algeria	
+10804	AM	Armenia	native
+10804	AT	Austria	native
+10804	TR	Türkiye	native
+10804	BY	Belarus	native
+10804	BE	Belgium	native
+10804	BT	Bhutan	native
+10804	BA	Bosnia and Herzegovina	native
+10804	BG	Bulgaria	native
+10804	CN	China	native
+10804	HR	Croatia	native
+10804	CY	Cyprus	native
+10804	TN	Tunisia	native
+10804	AZ	Azerbaijan	native
+10810	MG	Madagascar	native
+10836	EH	Western Sahara	native
+10836	GP	Guadeloupe	native
+10836	GD	Grenada	native
+10836	GR	Greece	native
+10836	GI	Gibraltar	native
+10836	GH	Ghana	native
+10836	DE	Germany	native
+10836	GM	Gambia	native
+10836	GA	Gabon	native
+10836	PF	French Polynesia	
+10836	GF	French Guiana	native
+10836	FR	France	native
+10836	FI	Finland	
+10836	FJ	Fiji	native
+10836	FO	Faroe Islands	
+10836	EE	Estonia	
+10836	ER	Eritrea	native
+10836	GQ	Equatorial Guinea	native
+10836	SV	El Salvador	native
+10836	EG	Egypt	native
+10836	GU	Guam	
+10836	EC	Ecuador	
+10836	GT	Guatemala	native
+10836	GN	Guinea	native
+10836	LV	Latvia	
+10836	KI	Kiribati	native
+10836	KE	Kenya	native
+10836	JO	Jordan	native
+10836	JE	Jersey	native
+10836	JP	Japan	native
+10836	JM	Jamaica	native
+10836	IT	Italy	native
+10836	IL	Israel	native
+10836	IM	Isle of Man	native
+10836	IE	Ireland	native
+10836	IR	Iran, Islamic Republic of	native
+10836	ID	Indonesia	native
+10836	IN	India	native
+10836	HK	Hong Kong	native
+10836	HN	Honduras	native
+10836	HT	Haiti	native
+10836	GY	Guyana	native
+10836	GW	Guinea-Bissau	native
+10836	GG	Guernsey	native
+10836	LB	Lebanon	native
+10836	DO	Dominican Republic	native
+10836	DJ	Djibouti	native
+10836	BR	Brazil	native
+10836	BA	Bosnia and Herzegovina	native
+10836	BQ	Bonaire, Sint Eustatius and Saba	native
+10836	BM	Bermuda	native
+10836	BZ	Belize	native
+10836	BE	Belgium	native
+10836	BB	Barbados	native
+10836	BD	Bangladesh	native
+10836	BH	Bahrain	native
+10836	BS	Bahamas	native
+10836	AU	Australia	native
+10836	AW	Aruba	native
+10836	AR	Argentina	native
+10836	AG	Antigua and Barbuda	native
+10836	AI	Anguilla	native
+10836	AO	Angola	native
+10836	AS	American Samoa	native
+10836	DZ	Algeria	native
+10836	AL	Albania	native
+10836	VG	Virgin Islands, British	
+10836	DM	Dominica	native
+10836	BN	Brunei Darussalam	native
+10836	KH	Cambodia	native
+10836	DK	Denmark	native
+10836	CD	Congo, The Democratic Republic of the	native
+10836	KP	Korea, Democratic People's Republic of	native
+10836	CY	Cyprus	native
+10836	CW	Curaçao	native
+10836	CU	Cuba	native
+10836	HR	Croatia	native
+10836	CI	Côte d'Ivoire	native
+10836	CR	Costa Rica	native
+10836	CG	Congo	native
+10836	KM	Comoros	native
+10836	CO	Colombia	native
+10836	CC	Cocos (Keeling) Islands	
+10836	CX	Christmas Island	
+10836	CN	China	native
+10836	CL	Chile	native
+10836	KY	Cayman Islands	native
+10836	CA	Canada	native
+10836	CM	Cameroon	native
+10836	CV	Cabo Verde	native
+10836	LR	Liberia	native
+10836	LY	Libya	native
+10836	LT	Lithuania	
+10836	SD	Sudan	native
+10836	PS	Palestine, State of	native
+10836	LK	Sri Lanka	native
+10836	ES	Spain	native
+10836	ZA	South Africa	native
+10836	SO	Somalia	native
+10836	SB	Solomon Islands	native
+10836	SI	Slovenia	native
+10836	SX	Sint Maarten (Dutch part)	native
+10836	SG	Singapore	native
+10836	SL	Sierra Leone	native
+10836	SC	Seychelles	native
+10836	SN	Senegal	native
+10836	SA	Saudi Arabia	native
+10836	ST	Sao Tome and Principe	native
+10836	WS	Samoa	native
+10836	VC	Saint Vincent and the Grenadines	native
+10836	PM	Saint Pierre and Miquelon	native
+10836	MF	Saint Martin (French part)	native
+10836	SR	Suriname	native
+10836	LC	Saint Lucia	native
+10836	SE	Sweden	
+10836	TW	Taiwan, Province of China	native
+10836	WF	Wallis and Futuna	
+10836	VI	Virgin Islands, U.S.	native
+10836	VN	Viet Nam	native
+10836	VE	Venezuela, Bolivarian Republic of	native
+10836	VU	Vanuatu	native
+10836	UY	Uruguay	native
+10836	US	United States	native
+10836	TZ	Tanzania, United Republic of	native
+10836	GB	United Kingdom	native
+10836	AE	United Arab Emirates	native
+10836	TV	Tuvalu	native
+10836	TC	Turks and Caicos Islands	native
+10836	TR	Türkiye	native
+10836	TN	Tunisia	native
+10836	TT	Trinidad and Tobago	native
+10836	TO	Tonga	native
+10836	TG	Togo	native
+10836	TL	Timor-Leste	native
+10836	TH	Thailand	native
+10836	SY	Syrian Arab Republic	native
+10836	KN	Saint Kitts and Nevis	native
+10836	SH	Saint Helena, Ascension and Tristan da Cunha	native
+10836	BL	Saint Barthélemy	native
+10836	NA	Namibia	
+10836	MM	Myanmar	native
+10836	MZ	Mozambique	native
+10836	MA	Morocco	native
+10836	MS	Montserrat	native
+10836	ME	Montenegro	native
+10836	MC	Monaco	native
+10836	FM	Micronesia, Federated States of	native
+10836	MX	Mexico	native
+10836	YT	Mayotte	native
+10836	MU	Mauritius	native
+10836	MR	Mauritania	native
+10836	MQ	Martinique	native
+10836	MH	Marshall Islands	native
+10836	MT	Malta	native
+10836	MV	Maldives	native
+10836	MY	Malaysia	native
+10836	MG	Madagascar	native
+10836	MO	Macao	native
+10836	NR	Nauru	native
+10836	NL	Netherlands	native
+10836	AN	Unknown (AN)	
+10836	NC	New Caledonia	native
+10836	RU	Russian Federation	native
+10836	RE	Réunion	native
+10836	KR	Korea, Republic of	native
+10836	QA	Qatar	native
+10836	PT	Portugal	native
+10836	PL	Poland	native
+10836	PN	Pitcairn	
+10836	PH	Philippines	native
+10836	PE	Peru	native
+10836	YE	Yemen	native
+10836	PG	Papua New Guinea	native
+10836	PW	Palau	native
+10836	PK	Pakistan	native
+10836	OM	Oman	native
+10836	NO	Norway	native
+10836	MP	Northern Mariana Islands	
+10836	NU	Niue	
+10836	NG	Nigeria	native
+10836	NI	Nicaragua	native
+10836	NZ	New Zealand	native
+10836	PA	Panama	native
+10836	PR	Puerto Rico	native
+10836	IS	Iceland	native
+10844	CV	Cabo Verde	native
+10844	UA	Ukraine	
+10844	EH	Western Sahara	native
+10844	TR	Türkiye	native
+10844	AL	Albania	
+10844	SY	Syrian Arab Republic	
+10844	ES	Spain	native
+10844	SN	Senegal	native
+10844	RU	Russian Federation	native
+10844	RO	Romania	
+10844	PT	Portugal	native
+10844	MA	Morocco	
+10844	MR	Mauritania	native
+10844	DZ	Algeria	native
+10844	MT	Malta	
+10844	TN	Tunisia	
+10844	LB	Lebanon	
+10844	CY	Cyprus	native
+10844	EG	Egypt	
+10844	LY	Libya	
+10844	FR	France	
+10844	GM	Gambia	native
+10844	GE	Georgia	
+10844	HR	Croatia	
+10844	IL	Israel	
+10844	BG	Bulgaria	
+10844	IT	Italy	
+10844	GR	Greece	native
+10857	MX	Mexico	
+10857	CA	Canada	native
+10857	US	United States	native
+10905	DE	Germany	native
+10905	GR	Greece	native
+10905	HN	Honduras	native
+10905	BE	Belgium	native
+10905	IS	Iceland	native
+10905	IN	India	native
+10905	ID	Indonesia	native
+10905	IQ	Iraq	native
+10905	IE	Ireland	native
+10905	GL	Greenland	native
+10905	GA	Gabon	native
+10905	BM	Bermuda	native
+10905	PF	French Polynesia	native
+10905	BR	Brazil	native
+10905	CV	Cabo Verde	native
+10905	FI	Finland	native
+10905	SV	El Salvador	native
+10905	EC	Ecuador	native
+10905	CA	Canada	native
+10905	DK	Denmark	native
+10905	KP	Korea, Democratic People's Republic of	native
+10905	IT	Italy	native
+10905	CR	Costa Rica	native
+10905	CO	Colombia	
+10905	CL	Chile	native
+10905	TF	French Southern Territories	
+10905	FK	Falkland Islands (Malvinas)	native
+10905	FR	France	native
+10905	KW	Kuwait	native
+10905	KR	Korea, Republic of	native
+10905	RU	Russian Federation	native
+10905	SO	Somalia	native
+10905	JP	Japan	native
+10905	GS	South Georgia and the South Sandwich Islands	native
+10905	ES	Spain	native
+10905	LK	Sri Lanka	native
+10905	PT	Portugal	native
+10905	SJ	Svalbard and Jan Mayen	native
+10905	AO	Angola	native
+10905	TW	Taiwan, Province of China	native
+10905	GB	United Kingdom	native
+10905	TZ	Tanzania, United Republic of	native
+10905	US	United States	native
+10905	UY	Uruguay	native
+10905	VN	Viet Nam	native
+10905	AQ	Antarctica	native
+10905	PE	Peru	native
+10905	ZA	South Africa	native
+10905	PK	Pakistan	native
+10905	MY	Malaysia	
+10905	MV	Maldives	native
+10905	MR	Mauritania	native
+10905	MX	Mexico	native
+10905	MA	Morocco	native
+10905	MZ	Mozambique	native
+10905	PA	Panama	native
+10905	MM	Myanmar	native
+10905	NA	Namibia	native
+10905	BD	Bangladesh	native
+10905	KE	Kenya	native
+10905	NZ	New Zealand	native
+10905	AU	Australia	native
+10905	AR	Argentina	native
+10905	OM	Oman	native
+10905	NO	Norway	native
+10905	NC	New Caledonia	native
+10905	NI	Nicaragua	native
+10915	ID	Indonesia	native
+10915	TH	Thailand	native
+10915	MY	Malaysia	native
+10923	MG	Madagascar	native
+10928	NZ	New Zealand	native
+10928	NC	New Caledonia	native
+10941	IT	Italy	native
+10941	EH	Western Sahara	
+10941	JO	Jordan	native
+10941	VN	Viet Nam	native
+10941	UZ	Uzbekistan	native
+10941	KZ	Kazakhstan	native
+10941	KG	Kyrgyzstan	native
+10941	LV	Latvia	native
+10941	LB	Lebanon	native
+10941	LI	Liechtenstein	
+10941	GB	United Kingdom	native
+10941	LA	Lao People's Democratic Republic	native
+10941	NP	Nepal	native
+10941	TM	Turkmenistan	native
+10941	LT	Lithuania	native
+10941	LU	Luxembourg	native
+10941	MY	Malaysia	
+10941	MN	Mongolia	native
+10941	ME	Montenegro	native
+10941	MA	Morocco	native
+10941	MM	Myanmar	native
+10941	NL	Netherlands	native
+10941	MK	North Macedonia	native
+10941	NO	Norway	native
+10941	PK	Pakistan	native
+10941	PL	Poland	native
+10941	PT	Portugal	native
+10941	KR	Korea, Republic of	native
+10941	MD	Moldova, Republic of	native
+10941	RO	Romania	native
+10941	RU	Russian Federation	native
+10941	TR	Türkiye	native
+10941	TN	Tunisia	native
+10941	TH	Thailand	native
+10941	TJ	Tajikistan	native
+10941	TW	Taiwan, Province of China	native
+10941	SY	Syrian Arab Republic	native
+10941	UA	Ukraine	native
+10941	IL	Israel	native
+10941	SE	Sweden	native
+10941	LK	Sri Lanka	native
+10941	ES	Spain	native
+10941	SI	Slovenia	native
+10941	SK	Slovakia	native
+10941	RS	Serbia	native
+10941	CH	Switzerland	native reintroduced
+10941	IE	Ireland	native
+10941	DK	Denmark	native
+10941	FI	Finland	native
+10941	KH	Cambodia	native
+10941	BG	Bulgaria	native
+10941	BA	Bosnia and Herzegovina	native
+10941	BT	Bhutan	native
+10941	BE	Belgium	native
+10941	CN	China	native
+10941	FR	France	native
+10941	HR	Croatia	native
+10941	CZ	Czechia	native
+10941	BY	Belarus	native
+10941	BD	Bangladesh	native
+10941	AZ	Azerbaijan	native
+10941	DE	Germany	native
+10941	AM	Armenia	native
+10941	AT	Austria	native
+10941	KP	Korea, Democratic People's Republic of	native
+10941	AF	Afghanistan	native
+10941	IR	Iran, Islamic Republic of	native
+10941	ID	Indonesia	native
+10941	IN	India	native
+10941	HU	Hungary	native
+10941	AD	Andorra	native
+10941	GR	Greece	native
+10941	HK	Hong Kong	native
+10941	IQ	Iraq	native
+10941	EE	Estonia	native
+10941	AL	Albania	native
+10941	DZ	Algeria	native
+10941	GE	Georgia	native
+10946	BR	Brazil	native
+10947	ID	Indonesia	native
+10958	ID	Indonesia	native
+10969	TH	Thailand	native
+10969	MM	Myanmar	native
+10978	CO	Colombia	native
+10978	PE	Peru	native
+10978	BR	Brazil	native
+10978	BO	Bolivia, Plurinational State of	native
+10978	VE	Venezuela, Bolivarian Republic of	
+10978	GF	French Guiana	native
+10978	EC	Ecuador	native
+10978	PY	Paraguay	
+10978	GY	Guyana	native
+10988	RE	Réunion	
+10988	MG	Madagascar	native
+11005	PG	Papua New Guinea	native
+11005	AU	Australia	native
+11020	ES	Spain	native
+11020	SJ	Svalbard and Jan Mayen	native
+11020	US	United States	native
+11020	SH	Saint Helena, Ascension and Tristan da Cunha	native
+11020	GB	United Kingdom	native
+11020	PT	Portugal	native
+11020	IE	Ireland	native
+11020	BM	Bermuda	native
+11020	CA	Canada	native
+11020	FO	Faroe Islands	native
+11020	FR	France	native
+11020	RU	Russian Federation	native
+11020	DE	Germany	native
+11020	GL	Greenland	native
+11020	IS	Iceland	native
+11020	BE	Belgium	native
+11020	BS	Bahamas	native
+11020	MT	Malta	native
+11020	MA	Morocco	native
+11020	NL	Netherlands	native
+11020	NO	Norway	native
+11020	IT	Italy	native
+11033	PR	Puerto Rico	introduced
+11033	MX	Mexico	native
+11033	HN	Honduras	native
+11033	GT	Guatemala	native
+11033	BZ	Belize	native
+11059	IN	India	native
+11071	SO	Somalia	native
+11071	SB	Solomon Islands	native
+11071	SI	Slovenia	native
+11071	SX	Sint Maarten (Dutch part)	native
+11071	SG	Singapore	native
+11071	ZA	South Africa	native
+11071	ES	Spain	native
+11071	LK	Sri Lanka	native
+11071	PS	Palestine, State of	native
+11071	YE	Yemen	native
+11071	EH	Western Sahara	native
+11071	WF	Wallis and Futuna	native
+11071	VI	Virgin Islands, U.S.	native
+11071	VN	Viet Nam	native
+11071	VE	Venezuela, Bolivarian Republic of	native
+11071	VU	Vanuatu	native
+11071	UY	Uruguay	native
+11071	US	United States	native
+11071	UM	United States Minor Outlying Islands	native
+11071	TZ	Tanzania, United Republic of	native
+11071	GB	United Kingdom	native reintroduced
+11071	AE	United Arab Emirates	native
+11071	TV	Tuvalu	native
+11071	TC	Turks and Caicos Islands	native
+11071	TR	Türkiye	native
+11071	TN	Tunisia	native
+11071	TT	Trinidad and Tobago	native
+11071	TO	Tonga	native
+11071	TK	Tokelau	native
+11071	TG	Togo	native
+11071	TL	Timor-Leste	native
+11071	TH	Thailand	native
+11071	TW	Taiwan, Province of China	native
+11071	SY	Syrian Arab Republic	native
+11071	SR	Suriname	native
+11071	SD	Sudan	native
+11071	SL	Sierra Leone	native
+11071	SC	Seychelles	native
+11071	ER	Eritrea	native
+11071	SA	Saudi Arabia	native
+11071	DM	Dominica	native
+11071	DO	Dominican Republic	native
+11071	EC	Ecuador	native
+11071	SN	Senegal	native
+11071	SV	El Salvador	native
+11071	MA	Morocco	native
+11071	MS	Montserrat	native
+11071	ME	Montenegro	native
+11071	MC	Monaco	native
+11071	FM	Micronesia, Federated States of	native
+11071	MX	Mexico	native
+11071	YT	Mayotte	native
+11071	MU	Mauritius	native
+11071	MR	Mauritania	native
+11071	MQ	Martinique	native
+11071	MH	Marshall Islands	native
+11071	MT	Malta	native
+11071	DJ	Djibouti	native
+11071	MV	Maldives	native
+11071	DK	Denmark	
+11071	KP	Korea, Democratic People's Republic of	native
+11071	NZ	New Zealand	native
+11071	NC	New Caledonia	native
+11071	AN	Unknown (AN)	
+11071	KM	Comoros	native
+11071	CG	Congo	native
+11071	CK	Cook Islands	native
+11071	CR	Costa Rica	native
+11071	CI	Côte d'Ivoire	native
+11071	HR	Croatia	native
+11071	CU	Cuba	native
+11071	CW	Curaçao	native
+11071	NL	Netherlands	
+11071	NR	Nauru	native
+11071	NA	Namibia	native
+11071	MM	Myanmar	native
+11071	MZ	Mozambique	native
+11071	CY	Cyprus	native
+11071	CD	Congo, The Democratic Republic of the	native
+11071	MY	Malaysia	native
+11071	MG	Madagascar	native
+11071	MO	Macao	native
+11071	GW	Guinea-Bissau	native
+11071	GN	Guinea	native
+11071	GG	Guernsey	
+11071	GT	Guatemala	native
+11071	GU	Guam	native
+11071	GP	Guadeloupe	native
+11071	GD	Grenada	native
+11071	GR	Greece	native
+11071	GI	Gibraltar	
+11071	GH	Ghana	native
+11071	DE	Germany	
+11071	GM	Gambia	native
+11071	GA	Gabon	native
+11071	PF	French Polynesia	native
+11071	GF	French Guiana	native
+11071	FR	France	native
+11071	FJ	Fiji	native
+11071	GY	Guyana	native
+11071	HT	Haiti	native
+11071	HN	Honduras	native
+11071	HK	Hong Kong	native
+11071	LY	Libya	native
+11071	LR	Liberia	native
+11071	LB	Lebanon	native
+11071	KW	Kuwait	native
+11071	KI	Kiribati	native
+11071	KE	Kenya	native
+11071	JO	Jordan	native
+11071	JE	Jersey	
+11071	NI	Nicaragua	native
+11071	JP	Japan	native
+11071	IT	Italy	native
+11071	IL	Israel	native
+11071	IM	Isle of Man	
+11071	IE	Ireland	native
+11071	IQ	Iraq	native
+11071	IR	Iran, Islamic Republic of	native
+11071	ID	Indonesia	native
+11071	IN	India	native
+11071	JM	Jamaica	native
+11071	CO	Colombia	native
+11071	EG	Egypt	native
+11071	CX	Christmas Island	native
+11071	PN	Pitcairn	native
+11071	PT	Portugal	native
+11071	PR	Puerto Rico	native
+11071	QA	Qatar	native
+11071	KR	Korea, Republic of	native
+11071	RE	Réunion	native
+11071	BB	Barbados	native
+11071	BD	Bangladesh	native
+11071	BH	Bahrain	native
+11071	BS	Bahamas	native
+11071	AU	Australia	native
+11071	AW	Aruba	native
+11071	AG	Antigua and Barbuda	native
+11071	AI	Anguilla	native
+11071	AO	Angola	native
+11071	AS	American Samoa	native
+11071	DZ	Algeria	native
+11071	CC	Cocos (Keeling) Islands	native
+11071	AL	Albania	native
+11071	RU	Russian Federation	native
+11071	BL	Saint Barthélemy	native
+11071	GQ	Equatorial Guinea	native
+11071	SH	Saint Helena, Ascension and Tristan da Cunha	native
+11071	KN	Saint Kitts and Nevis	native
+11071	LC	Saint Lucia	native
+11071	MF	Saint Martin (French part)	native
+11071	VC	Saint Vincent and the Grenadines	native
+11071	WS	Samoa	native
+11071	ST	Sao Tome and Principe	native
+11071	PH	Philippines	native
+11071	PE	Peru	native
+11071	TF	French Southern Territories	
+11071	KY	Cayman Islands	native
+11071	BQ	Bonaire, Sint Eustatius and Saba	native
+11071	BA	Bosnia and Herzegovina	native
+11071	BR	Brazil	native
+11071	VG	Virgin Islands, British	
+11071	OM	Oman	native
+11071	CN	China	native
+11071	CL	Chile	native
+11071	NG	Nigeria	native
+11071	KH	Cambodia	native
+11071	CA	Canada	native
+11071	CM	Cameroon	native
+11071	NU	Niue	native
+11071	MP	Northern Mariana Islands	native
+11071	CV	Cabo Verde	native
+11071	BN	Brunei Darussalam	native
+11071	BJ	Benin	native
+11071	BZ	Belize	native
+11071	BM	Bermuda	native reintroduced
+11071	PK	Pakistan	native
+11071	PW	Palau	native
+11071	PA	Panama	native
+11071	PG	Papua New Guinea	native
+11071	BE	Belgium	
+11078	BD	Bangladesh	native
+11078	IN	India	native
+11078	NP	Nepal	native
+11082	PK	Pakistan	native
+11082	NP	Nepal	native
+11082	BD	Bangladesh	native
+11082	IN	India	native
+11089	IN	India	native
+11136	BI	Burundi	
+11136	BJ	Benin	
+11136	CM	Cameroon	native
+11136	CF	Central African Republic	
+11136	GN	Guinea	native
+11136	CG	Congo	native
+11136	CD	Congo, The Democratic Republic of the	native
+11136	GA	Gabon	native
+11136	GH	Ghana	native
+11136	KE	Kenya	native
+11136	GW	Guinea-Bissau	native
+11136	TD	Chad	native
+11136	GQ	Equatorial Guinea	native
+11136	CI	Côte d'Ivoire	
+11136	AO	Angola	native
+11136	SN	Senegal	native
+11136	SL	Sierra Leone	native
+11136	SS	South Sudan	
+11136	UG	Uganda	native
+11136	RW	Rwanda	native
+11136	NG	Nigeria	native
+11136	TZ	Tanzania, United Republic of	
+11136	NE	Niger	native
+11136	MR	Mauritania	
+11136	LR	Liberia	native
+11137	BR	Brazil	native
+11137	AR	Argentina	native
+11137	PY	Paraguay	native
+11141	MG	Madagascar	native
+11162	PE	Peru	native
+11180	KH	Cambodia	
+11180	LA	Lao People's Democratic Republic	
+11180	TH	Thailand	
+11180	VN	Viet Nam	
+11194	US	United States	
+11205	EG	Egypt	
+11205	ZA	South Africa	introduced
+11205	SN	Senegal	
+11205	NG	Nigeria	
+11205	NE	Niger	
+11205	MA	Morocco	native reintroduced
+11205	MR	Mauritania	
+11205	ML	Mali	
+11205	LY	Libya	
+11205	TN	Tunisia	native reintroduced
+11205	SD	Sudan	
+11205	TD	Chad	
+11205	BF	Burkina Faso	
+11205	EH	Western Sahara	
+11205	DZ	Algeria	
+11206	PH	Philippines	native
+11207	CR	Costa Rica	native
+11207	HN	Honduras	native
+11207	NI	Nicaragua	native
+11207	PA	Panama	native
+11207	CO	Colombia	native
+11207	EC	Ecuador	native
+11211	US	United States	native
+11218	BR	Brazil	native
+11269	MG	Madagascar	native
+11271	CO	Colombia	native
+11271	VE	Venezuela, Bolivarian Republic of	native
+12198	US	United States	
+12206	PK	Pakistan	native
+12206	AF	Afghanistan	native
+12206	IN	India	native
+12206	CN	China	native
+12206	KZ	Kazakhstan	native
+12206	NP	Nepal	native
+12206	KG	Kyrgyzstan	native
+12206	MN	Mongolia	native
+12206	UZ	Uzbekistan	native
+12206	TJ	Tajikistan	native
+12212	US	United States	native
+12214	CR	Costa Rica	native
+12214	NI	Nicaragua	native
+12218	IR	Iran, Islamic Republic of	native
+12218	IL	Israel	native reintroduced
+12218	JO	Jordan	
+12218	LB	Lebanon	
+12218	IQ	Iraq	native
+12219	CM	Cameroon	native
+12219	NG	Nigeria	
+12225	PK	Pakistan	
+12225	IN	India	native
+12226	US	United States	native
+12226	CA	Canada	
+12227	CN	China	native
+12227	KZ	Kazakhstan	native
+12227	MN	Mongolia	native
+12227	RU	Russian Federation	native
+12231	AU	Australia	native
+12232	MX	Mexico	native
+12244	BO	Bolivia, Plurinational State of	
+12244	PY	Paraguay	native
+12244	AR	Argentina	native
+12251	CO	Colombia	native
+12256	GT	Guatemala	native
+12271	MM	Myanmar	native
+12271	LA	Lao People's Democratic Republic	native
+12271	IN	India	native
+12271	CN	China	native
+12271	PK	Pakistan	native
+12271	BD	Bangladesh	native
+12271	TH	Thailand	native
+12271	KH	Cambodia	native
+12271	VN	Viet Nam	native
+12273	MX	Mexico	native
+12273	US	United States	native
+12273	CA	Canada	native
+12279	KP	Korea, Democratic People's Republic of	native
+12279	KR	Korea, Republic of	native
+12279	JP	Japan	native
+12286	MX	Mexico	native
+12292	US	United States	native
+12296	ZW	Zimbabwe	native reintroduced
+12296	ZM	Zambia	introduced
+12296	UG	Uganda	introduced
+12296	ZA	South Africa	native
+12296	NA	Namibia	native reintroduced
+12296	MZ	Mozambique	native reintroduced
+12296	KE	Kenya	introduced
+12296	SZ	Eswatini	native reintroduced
+12296	AO	Angola	
+12296	BW	Botswana	native reintroduced
+12296	CI	Côte d'Ivoire	introduced
+12301	AO	Angola	native
+12317	VN	Viet Nam	native
+12317	TH	Thailand	
+12317	KH	Cambodia	native
+12317	CN	China	native
+12317	LA	Lao People's Democratic Republic	native
+12330	MX	Mexico	native
+12330	US	United States	
+12335	IR	Iran, Islamic Republic of	
+12335	PK	Pakistan	native
+12335	IN	India	native
+12877	EC	Ecuador	native
+13762	ZA	South Africa	native
+13824	MY	Malaysia	native
+13824	MM	Myanmar	native
+13824	LA	Lao People's Democratic Republic	native
+13824	KH	Cambodia	native
+13824	TH	Thailand	native
+13824	VN	Viet Nam	native
+13860	ZA	South Africa	native
+14050	BD	Bangladesh	
+14050	CN	China	native
+14050	IN	India	native
+14050	NP	Nepal	native
+14050	TH	Thailand	native
+14136	MG	Madagascar	native
+14166	MM	Myanmar	native
+14166	TH	Thailand	native
+14166	CN	China	native
+14166	IN	India	native
+14172	TH	Thailand	native
+14172	ID	Indonesia	native
+14172	MY	Malaysia	native
+14252	BR	Brazil	native
+14325	ID	Indonesia	native
+14345	ID	Indonesia	native
+14345	MY	Malaysia	native
+14439	MX	Mexico	native
+14439	US	United States	native
+14450	BR	Brazil	native
+14479	SZ	Eswatini	native
+14479	ZA	South Africa	native
+14479	MZ	Mozambique	native
+14513	CN	China	native
+14513	LA	Lao People's Democratic Republic	native
+14513	TH	Thailand	native
+14513	KH	Cambodia	native
+14513	VN	Viet Nam	native
+14520	ID	Indonesia	native
+14591	BR	Brazil	native
+14600	VN	Viet Nam	native
+14615	MX	Mexico	native
+14624	MX	Mexico	native
+14702	US	United States	native
+14702	MX	Mexico	native
+14735	ZA	South Africa	native
+14745	ID	Indonesia	native
+14745	PG	Papua New Guinea	native
+14767	ZA	South Africa	native
+14769	ZA	South Africa	native
+14885	ZA	South Africa	native
+15036	MX	Mexico	native
+15076	MX	Mexico	native
+15151	MX	Mexico	native
+15243	MY	Malaysia	native
+15243	TH	Thailand	native
+15262	CO	Colombia	native
+15386	MY	Malaysia	native
+15386	PH	Philippines	native
+15387	MX	Mexico	native
+15395	ID	Indonesia	native
+15424	UG	Uganda	native
+15428	CR	Costa Rica	native
+15428	EC	Ecuador	native
+15428	SV	El Salvador	native
+15428	PA	Panama	native
+15428	VE	Venezuela, Bolivarian Republic of	native
+15428	CO	Colombia	native
+15492	US	United States	native
+15573	MG	Madagascar	native
+15632	ZA	South Africa	native
+15632	SZ	Eswatini	native
+15632	MZ	Mozambique	native
+15649	ZA	South Africa	
+15654	ZA	South Africa	native
+15654	MZ	Mozambique	native
+15894	MX	Mexico	native
+16025	CU	Cuba	native
+16046	NG	Nigeria	native
+16046	GH	Ghana	native
+16046	BJ	Benin	native
+16046	TG	Togo	
+16115	MX	Mexico	native
+16257	VN	Viet Nam	native
+16257	CN	China	native
+16257	HK	Hong Kong	native
+16333	MY	Malaysia	native
+16337	MX	Mexico	native
+16347	UG	Uganda	native
+16354	VN	Viet Nam	native
+16354	CN	China	native
+16430	MG	Madagascar	native
+16674	ID	Indonesia	native
+16674	MY	Malaysia	native
+16716	PH	Philippines	native
+16727	ID	Indonesia	
+16727	MM	Myanmar	native
+16727	CN	China	native
+16845	PH	Philippines	native
+16891	CN	China	native
+16891	VN	Viet Nam	native
+16975	MX	Mexico	native
+17042	CN	China	native
+17042	IN	India	native
+17042	LA	Lao People's Democratic Republic	native
+17042	MM	Myanmar	native
+17042	TH	Thailand	native
+17078	BR	Brazil	native
+17168	MX	Mexico	native
+17214	TZ	Tanzania, United Republic of	native
+17225	ID	Indonesia	native
+17408	MY	Malaysia	native
+17408	ID	Indonesia	native
+17452	ID	Indonesia	native
+17547	MG	Madagascar	native
+17592	BR	Brazil	native
+17594	TZ	Tanzania, United Republic of	native
+17594	KE	Kenya	native
+17663	MG	Madagascar	native
+17704	GT	Guatemala	native
+17704	HN	Honduras	native
+17704	MX	Mexico	native
+17704	SV	El Salvador	native
+17824	MX	Mexico	native
+17824	US	United States	native
+17930	MX	Mexico	native
+17944	ID	Indonesia	native
+17944	MY	Malaysia	native
+18004	MX	Mexico	native
+18039	BR	Brazil	native
+18158	VN	Viet Nam	native
+18158	LA	Lao People's Democratic Republic	native
+18158	CN	China	native
+18158	KH	Cambodia	native
+18189	MX	Mexico	native
+18195	ZA	South Africa	native
+18195	SZ	Eswatini	native
+18195	MZ	Mozambique	native
+18270	MX	Mexico	native
+18341	SZ	Eswatini	native
+18341	ZA	South Africa	native
+18383	US	United States	native
+18433	MG	Madagascar	native
+18492	MX	Mexico	native
+18515	PH	Philippines	native
+18553	ZA	South Africa	native
+18569	KE	Kenya	native
+18591	MX	Mexico	native
+18695	MX	Mexico	native
+18804	BR	Brazil	native
+18813	BR	Brazil	native
+18824	ZA	South Africa	native
+18892	CN	China	native
+18892	MM	Myanmar	native
+18997	BR	Brazil	native
+18997	BO	Bolivia, Plurinational State of	native
+19024	ZA	South Africa	native
+19045	ID	Indonesia	native
+19055	PG	Papua New Guinea	native
+19055	SB	Solomon Islands	native
+19109	MG	Madagascar	native
+19134	MG	Madagascar	native
+19176	BZ	Belize	native
+19176	GT	Guatemala	native
+19176	MX	Mexico	native
+19220	ZA	South Africa	
+19220	LS	Lesotho	native
+19242	MX	Mexico	native
+19248	MG	Madagascar	native
+19310	MG	Madagascar	native
+19473	ID	Indonesia	native
+19507	MG	Madagascar	native
+19613	EC	Ecuador	native
+19613	PE	Peru	native
+19620	MX	Mexico	native
+19644	CN	China	native
+19801	MG	Madagascar	native
+19831	MG	Madagascar	native
+19834	ID	Indonesia	native
+19834	MY	Malaysia	native
+19877	BD	Bangladesh	native
+19877	KH	Cambodia	native
+19877	IN	India	native
+19877	LA	Lao People's Democratic Republic	native
+19877	MM	Myanmar	native
+19877	TH	Thailand	native
+19877	CN	China	native
+19877	VN	Viet Nam	native
+20030	UG	Uganda	native
+20047	GT	Guatemala	
+20047	MX	Mexico	native
+20048	ZA	South Africa	native
+20098	NP	Nepal	native
+20098	BD	Bangladesh	native
+20098	CN	China	native
+20098	IN	India	native
+20098	BT	Bhutan	native
+20112	ZA	South Africa	native
+20136	SZ	Eswatini	
+20139	US	United States	native
+20187	BR	Brazil	native
+20187	PA	Panama	native
+20187	EC	Ecuador	native
+20187	CO	Colombia	native
+20187	CR	Costa Rica	native
+20244	MX	Mexico	native
+20271	US	United States	native
+20310	MX	Mexico	native
+20378	MW	Malawi	native
+20378	MZ	Mozambique	native
+20409	CO	Colombia	native
+20409	EC	Ecuador	native
+20415	US	United States	native
+20569	ID	Indonesia	native
+20588	TZ	Tanzania, United Republic of	native
+20588	KE	Kenya	native
+20615	PH	Philippines	native
+20657	MX	Mexico	native
+20701	MZ	Mozambique	native
+20701	ZW	Zimbabwe	native
+20749	MX	Mexico	native
+20788	BR	Brazil	native
+20788	BO	Bolivia, Plurinational State of	native
+20879	MG	Madagascar	native
+20895	MG	Madagascar	native
+20909	ZA	South Africa	native
+20915	ZA	South Africa	native
+20938	SR	Suriname	native
+20938	VE	Venezuela, Bolivarian Republic of	native
+20938	GY	Guyana	native
+20938	GF	French Guiana	native
+20938	BR	Brazil	native
+20997	ZA	South Africa	native
+21066	CF	Central African Republic	native
+21066	CD	Congo, The Democratic Republic of the	native
+21066	SS	South Sudan	native
+21066	UG	Uganda	native
+21123	MX	Mexico	native
+21141	ZA	South Africa	native
+21176	SZ	Eswatini	native
+21176	MZ	Mozambique	native
+21176	ZA	South Africa	native
+21264	IN	India	native
+21264	BT	Bhutan	native
+21277	MX	Mexico	native
+21376	MG	Madagascar	native
+21406	ZA	South Africa	native
+21416	ZA	South Africa	native
+21416	SZ	Eswatini	native
+21463	VN	Viet Nam	native
+21463	CN	China	native
+21561	ZA	South Africa	native
+21767	UG	Uganda	native
+21767	CD	Congo, The Democratic Republic of the	native
+21791	MG	Madagascar	native
+21851	IN	India	native
+21925	ZA	South Africa	native
+21925	MZ	Mozambique	native
+21925	SZ	Eswatini	native
+22072	ZA	South Africa	
+22209	ID	Indonesia	native
+22217	MX	Mexico	native
+22225	MG	Madagascar	native
+22260	MX	Mexico	native
+22489	MG	Madagascar	native
+22530	US	United States	native
+22647	MX	Mexico	native
+22677	BR	Brazil	native
+22715	US	United States	native
+22794	BO	Bolivia, Plurinational State of	native
+22794	BR	Brazil	native
+22795	GT	Guatemala	native
+22795	MX	Mexico	native
+22857	MG	Madagascar	native
+23085	KE	Kenya	native
+23193	MG	Madagascar	native
+23277	ZA	South Africa	native
+23356	MX	Mexico	native
+23356	US	United States	native
+23450	MX	Mexico	native
+23498	MX	Mexico	native
+23550	MX	Mexico	native
+23566	CD	Congo, The Democratic Republic of the	native
+23566	AO	Angola	native
+23600	CD	Congo, The Democratic Republic of the	native
+23616	CN	China	native
+23616	LA	Lao People's Democratic Republic	native
+23616	VN	Viet Nam	native
+23660	ZA	South Africa	native
+23745	TH	Thailand	native
+23751	MY	Malaysia	native
+23775	TH	Thailand	native
+23775	VN	Viet Nam	native
+23775	MM	Myanmar	native
+23775	MY	Malaysia	native
+23835	US	United States	
+23860	IN	India	native
+23860	TH	Thailand	native
+23860	LA	Lao People's Democratic Republic	native
+23860	MM	Myanmar	native
+23860	VN	Viet Nam	native
+23860	CN	China	native
+23903	ID	Indonesia	native
+24004	LA	Lao People's Democratic Republic	native
+24004	VN	Viet Nam	native
+24004	CN	China	native
+24004	TH	Thailand	native
+24004	MM	Myanmar	native
+24004	KH	Cambodia	native
+24066	BR	Brazil	native
+24066	BO	Bolivia, Plurinational State of	native
+24069	CN	China	native
+24069	VN	Viet Nam	native
+24092	MX	Mexico	native
+24119	IN	India	native
+24119	CN	China	native
+24119	VN	Viet Nam	native
+24119	MM	Myanmar	native
+24165	TH	Thailand	native
+24203	BR	Brazil	native
+24310	MX	Mexico	native
+24310	GT	Guatemala	native
+24310	SV	El Salvador	native
+24316	ZA	South Africa	native
+24316	MZ	Mozambique	native
+24316	SZ	Eswatini	native
+24330	ZA	South Africa	native
+24431	MG	Madagascar	native
+24472	EC	Ecuador	native
+24472	PE	Peru	native
+24505	MZ	Mozambique	native
+24707	MG	Madagascar	native
+24757	MX	Mexico	native
+24757	US	United States	native
+24774	MG	Madagascar	native
+24815	BR	Brazil	native
+24864	BR	Brazil	native
+24892	PG	Papua New Guinea	native
+24909	ZA	South Africa	native
+24942	TZ	Tanzania, United Republic of	native
+24942	MZ	Mozambique	native
+24942	KE	Kenya	native
+25013	CD	Congo, The Democratic Republic of the	native
+25109	PH	Philippines	native
+25138	MX	Mexico	native
+25150	CN	China	native
+25150	VN	Viet Nam	native
+25161	MX	Mexico	native
+25178	US	United States	native
+25339	CN	China	native
+25339	MM	Myanmar	native
+25351	MX	Mexico	native
+25351	US	United States	native
+25352	MG	Madagascar	native
+25367	MX	Mexico	native
+25426	ID	Indonesia	native
+25426	SB	Solomon Islands	native
+25426	PG	Papua New Guinea	native
+25526	BR	Brazil	native
+25762	MX	Mexico	native
+25821	IN	India	native
+25821	MM	Myanmar	native
+25821	BT	Bhutan	native
+25821	CN	China	native
+25841	AO	Angola	native
+25841	CD	Congo, The Democratic Republic of the	native
+25877	IN	India	native
+25895	MX	Mexico	native
+25902	TH	Thailand	native
+25968	CL	Chile	native
+25968	AR	Argentina	native
+26024	MY	Malaysia	native
+26057	ZW	Zimbabwe	native
+26057	MZ	Mozambique	native
+26167	ZA	South Africa	native
+26223	SZ	Eswatini	native
+26223	MZ	Mozambique	native
+26223	ZA	South Africa	native
+26281	ZW	Zimbabwe	native
+26326	BN	Brunei Darussalam	
+26326	MY	Malaysia	native
+26342	PH	Philippines	native
+26352	PH	Philippines	native
+26352	CN	China	native
+26370	SZ	Eswatini	native
+26370	ZA	South Africa	native
+26400	MZ	Mozambique	native
+26458	MG	Madagascar	native
+26464	MY	Malaysia	native
+26492	ZA	South Africa	native
+26543	SS	South Sudan	native
+26732	BR	Brazil	native
+26865	EC	Ecuador	native
+26865	CO	Colombia	native
+26865	PE	Peru	introduced
+26865	VE	Venezuela, Bolivarian Republic of	native
+26931	US	United States	native
+26937	MM	Myanmar	native
+26937	IN	India	native
+26937	CN	China	native
+26937	TH	Thailand	native
+26937	VN	Viet Nam	native
+26937	LA	Lao People's Democratic Republic	native
+27060	GT	Guatemala	native
+27060	PA	Panama	native
+27060	BO	Bolivia, Plurinational State of	native
+27060	PE	Peru	native
+27073	ZA	South Africa	native
+27137	MY	Malaysia	native
+27242	ZA	South Africa	native
+27263	MG	Madagascar	native
+27546	SZ	Eswatini	native
+27546	ZA	South Africa	native
+27568	US	United States	native
+27615	TZ	Tanzania, United Republic of	native
+27661	US	United States	native
+27663	IN	India	native
+27815	MX	Mexico	native
+27816	MX	Mexico	native
+27872	VE	Venezuela, Bolivarian Republic of	native
+27872	BR	Brazil	native
+27872	GY	Guyana	native
+27914	ZA	South Africa	native
+27918	PE	Peru	native
+27918	EC	Ecuador	native
+27947	CL	Chile	native
+27947	AR	Argentina	native
+27959	MG	Madagascar	native
+28010	IN	India	native
+28010	PK	Pakistan	native
+28088	PH	Philippines	native
+28135	MX	Mexico	native
+28161	MX	Mexico	native
+28405	AR	Argentina	native
+28405	CL	Chile	native
+28489	MG	Madagascar	native
+28526	CN	China	native
+28526	LA	Lao People's Democratic Republic	native
+28526	VN	Viet Nam	native
+28569	ZM	Zambia	native
+28569	CD	Congo, The Democratic Republic of the	native
+28572	PH	Philippines	native
+28648	ZA	South Africa	
+28657	MX	Mexico	native
+28680	PE	Peru	native
+28680	EC	Ecuador	native
+28749	ZA	South Africa	native
+28817	CN	China	native
+28817	VN	Viet Nam	native
+28830	MY	Malaysia	native
+28867	ID	Indonesia	native
+28895	MG	Madagascar	native
+28910	MZ	Mozambique	native
+28924	MX	Mexico	native
+28936	MX	Mexico	native
+29181	MG	Madagascar	native
+29201	MX	Mexico	native
+29228	VN	Viet Nam	native
+29228	CN	China	native
+29245	ZA	South Africa	native
+29372	US	United States	native
+29522	MX	Mexico	native
+29522	US	United States	native
+29612	US	United States	native
+29622	US	United States	native
+29634	US	United States	native
+29643	MG	Madagascar	native
+29653	MG	Madagascar	native
+29654	MG	Madagascar	native
+29656	MG	Madagascar	native
+29657	MG	Madagascar	native
+29659	MG	Madagascar	native
+30824	KZ	Kazakhstan	native
+32735	CU	Cuba	native
+32743	BT	Bhutan	native
+32743	MM	Myanmar	native
+32743	IN	India	native
+32743	AF	Afghanistan	native
+32743	NP	Nepal	native
+32743	CN	China	native
+32743	MN	Mongolia	native
+32743	PK	Pakistan	native
+32743	RU	Russian Federation	native
+32743	TJ	Tajikistan	native
+32743	UZ	Uzbekistan	native
+32743	KG	Kyrgyzstan	native
+32743	KZ	Kazakhstan	native
+33077	ID	Indonesia	native
+33589	CY	Cyprus	native
+34009	ET	Ethiopia	native
+34009	ER	Eritrea	native
+34009	QA	Qatar	native
+34009	SA	Saudi Arabia	native
+34009	DJ	Djibouti	native
+34009	ZA	South Africa	native
+34009	EG	Egypt	native
+34009	SO	Somalia	native
+34009	IQ	Iraq	native
+34009	BH	Bahrain	native
+34009	PG	Papua New Guinea	native
+34009	PK	Pakistan	native
+34009	IL	Israel	
+34009	IR	Iran, Islamic Republic of	native
+34009	LK	Sri Lanka	native
+34009	OM	Oman	native
+34009	MM	Myanmar	native
+34009	MZ	Mozambique	native
+34009	MY	Malaysia	native
+34009	MG	Madagascar	native
+34009	KW	Kuwait	native
+34009	KE	Kenya	native
+34009	PH	Philippines	native
+34009	IN	India	native
+34009	BD	Bangladesh	native
+34009	AE	United Arab Emirates	native
+34009	TZ	Tanzania, United Republic of	native
+34009	YE	Yemen	native
+34009	SD	Sudan	native
+34009	KM	Comoros	native
+34430	VN	Viet Nam	native
+34430	LA	Lao People's Democratic Republic	native
+34430	KH	Cambodia	
+34573	MM	Myanmar	native
+35601	SG	Singapore	native
+35601	MY	Malaysia	native
+35601	ID	Indonesia	native
+35601	BN	Brunei Darussalam	native
+36055	MM	Myanmar	native
+36868	IN	India	native
+36868	CN	China	native
+36868	BD	Bangladesh	native
+36868	MM	Myanmar	native
+37069	GM	Gambia	
+37069	GH	Ghana	native
+37069	GN	Guinea	native
+37069	GW	Guinea-Bissau	native
+37069	LR	Liberia	native
+37069	CD	Congo, The Democratic Republic of the	native
+37069	CG	Congo	native
+37069	NE	Niger	native
+37069	SL	Sierra Leone	native
+37069	SN	Senegal	native
+37069	SS	South Sudan	native
+37069	TG	Togo	native
+37069	UG	Uganda	native
+37069	CI	Côte d'Ivoire	native
+37069	BF	Burkina Faso	native
+37069	CM	Cameroon	native
+37069	CF	Central African Republic	native
+37069	NG	Nigeria	native
+37069	BJ	Benin	native
+37069	AO	Angola	native
+37069	GQ	Equatorial Guinea	native
+37069	GA	Gabon	native
+37340	BD	Bangladesh	native
+37340	BN	Brunei Darussalam	native
+37340	KH	Cambodia	native
+37340	CN	China	native
+37340	IN	India	native
+37340	ID	Indonesia	native
+37340	LA	Lao People's Democratic Republic	native
+37340	MY	Malaysia	native
+37340	MM	Myanmar	native
+37340	NP	Nepal	native
+37340	SG	Singapore	native
+37340	TW	Taiwan, Province of China	native
+37340	TH	Thailand	native
+37340	VN	Viet Nam	native
+37340	PH	Philippines	native
+41377	CO	Colombia	native
+41377	EC	Ecuador	native
+41377	VE	Venezuela, Bolivarian Republic of	native
+44177	US	United States	native
+44303	MX	Mexico	native
+45112	MX	Mexico	native
+45512	MG	Madagascar	native
+46037	US	United States	native
+48183	MY	Malaysia	native
+48568	ID	Indonesia	native
+48568	PG	Papua New Guinea	native
+50438	US	United States	native
+51804	ZA	South Africa	native
+51804	NA	Namibia	native
+52169	CN	China	native
+52169	LA	Lao People's Democratic Republic	native
+52169	VN	Viet Nam	native
+52424	MX	Mexico	native
+52536	BR	Brazil	native
+54740	TZ	Tanzania, United Republic of	native
+54741	TZ	Tanzania, United Republic of	native
+54742	TZ	Tanzania, United Republic of	native
+54743	TZ	Tanzania, United Republic of	native
+54744	TZ	Tanzania, United Republic of	native
+54745	TZ	Tanzania, United Republic of	native
+54747	TZ	Tanzania, United Republic of	native
+56608	BR	Brazil	native
+61603	CN	China	native
+61603	MM	Myanmar	native
+61609	VN	Viet Nam	native
+61617	ID	Indonesia	native
+61625	CN	China	native
+61625	VN	Viet Nam	native
+61630	ID	Indonesia	native
+61633	MY	Malaysia	native
+61645	TH	Thailand	native
+61648	TH	Thailand	native
+61655	CN	China	native
+61861	CO	Colombia	native
+61861	EC	Ecuador	native
+61865	EC	Ecuador	native
+61866	CO	Colombia	native
+61866	EC	Ecuador	native
+61869	PE	Peru	native
+62721	MG	Madagascar	native
+64444	BO	Bolivia, Plurinational State of	native
+64447	BR	Brazil	native
+64452	PY	Paraguay	native
+64452	BR	Brazil	native
+65114	ID	Indonesia	native
+65122	VN	Viet Nam	native
+65122	CN	China	native
+65124	TH	Thailand	native
+65125	ID	Indonesia	native
+65133	ID	Indonesia	native
+65133	PG	Papua New Guinea	native
+65505	MX	Mexico	native
+65506	MX	Mexico	native
+65507	MX	Mexico	native
+65508	HN	Honduras	native
+65509	MX	Mexico	native
+65511	MX	Mexico	native
+65512	MX	Mexico	native
+65513	MX	Mexico	native
+65736	PR	Puerto Rico	native
+65736	VI	Virgin Islands, U.S.	native
+65736	VG	Virgin Islands, British	
+65739	JM	Jamaica	native
+65766	LA	Lao People's Democratic Republic	native
+65766	VN	Viet Nam	native
+65767	VN	Viet Nam	native
+65822	PK	Pakistan	native
+65822	KR	Korea, Republic of	
+65822	RU	Russian Federation	native
+65822	IN	India	native
+65822	UZ	Uzbekistan	native
+65822	JP	Japan	
+65822	IR	Iran, Islamic Republic of	native
+65822	KZ	Kazakhstan	native
+65822	CN	China	native
+65822	AZ	Azerbaijan	native
+65822	AF	Afghanistan	
+65822	TM	Turkmenistan	
+65822	MN	Mongolia	native
+65824	KR	Korea, Republic of	native
+65824	KZ	Kazakhstan	native
+65824	KP	Korea, Democratic People's Republic of	native
+65824	JP	Japan	native
+65824	CN	China	native
+65824	RU	Russian Federation	native
+65824	TW	Taiwan, Province of China	native
+65824	MN	Mongolia	native
+65832	AU	Australia	native
+65853	AU	Australia	native
+65863	AU	Australia	native
+65864	AU	Australia	native
+65865	AU	Australia	
+66401	TZ	Tanzania, United Republic of	native
+67921	AU	Australia	native
+67921	ID	Indonesia	native
+67921	PG	Papua New Guinea	native
+67925	MG	Madagascar	native
+67926	MG	Madagascar	native
+67927	MG	Madagascar	native
+67928	MG	Madagascar	native
+67929	MY	Malaysia	native
+67929	ID	Indonesia	native
+67958	MX	Mexico	native
+67963	US	United States	native
+68002	BO	Bolivia, Plurinational State of	native
+68002	PE	Peru	native
+68009	VN	Viet Nam	native
+68051	CU	Cuba	native
+68076	GT	Guatemala	native
+68084	CU	Cuba	native
+68149	GT	Guatemala	native
+68150	GT	Guatemala	native
+68243	GT	Guatemala	native
+68277	GT	Guatemala	native
+68282	CU	Cuba	native
+68284	CU	Cuba	native
+68304	CU	Cuba	native
+68306	CU	Cuba	native
+68342	CN	China	native
+68342	KP	Korea, Democratic People's Republic of	native
+68342	JP	Japan	native
+68342	KR	Korea, Republic of	native
+68342	TW	Taiwan, Province of China	native
+68346	CR	Costa Rica	native
+68346	NI	Nicaragua	native
+68346	PA	Panama	native
+68352	BR	Brazil	native
+68352	CO	Colombia	native
+68363	EC	Ecuador	native
+68389	CO	Colombia	native
+68407	MC	Monaco	native
+68407	PH	Philippines	native
+68407	PE	Peru	native
+68407	PG	Papua New Guinea	native
+68407	PA	Panama	native
+68407	PW	Palau	
+68407	PK	Pakistan	native
+68407	OM	Oman	native
+68407	MP	Northern Mariana Islands	
+68407	MY	Malaysia	native
+68407	MV	Maldives	native
+68407	MT	Malta	native
+68407	MH	Marshall Islands	
+68407	MR	Mauritania	native
+68407	FM	Micronesia, Federated States of	
+68407	NU	Niue	
+68407	NI	Nicaragua	native
+68407	NZ	New Zealand	native
+68407	NC	New Caledonia	
+68407	NR	Nauru	
+68407	MU	Mauritius	
+68407	YT	Mayotte	
+68407	MX	Mexico	native
+68407	PN	Pitcairn	
+68407	NA	Namibia	
+68407	MM	Myanmar	native
+68407	MZ	Mozambique	native
+68407	MA	Morocco	native
+68407	ME	Montenegro	native
+68407	NG	Nigeria	native
+68407	PT	Portugal	native
+68407	SN	Senegal	native
+68407	KR	Korea, Republic of	native
+68407	GB	United Kingdom	
+68407	AE	United Arab Emirates	native
+68407	UA	Ukraine	
+68407	TV	Tuvalu	native
+68407	TR	Türkiye	native
+68407	TN	Tunisia	native
+68407	TO	Tonga	
+68407	TG	Togo	
+68407	TL	Timor-Leste	
+68407	TH	Thailand	native
+68407	TW	Taiwan, Province of China	native
+68407	SY	Syrian Arab Republic	native
+68407	SD	Sudan	
+68407	PS	Palestine, State of	native
+68407	QA	Qatar	
+68407	LK	Sri Lanka	native
+68407	ZA	South Africa	native
+68407	SO	Somalia	native
+68407	SB	Solomon Islands	
+68407	SI	Slovenia	native
+68407	SG	Singapore	
+68407	SL	Sierra Leone	
+68407	SC	Seychelles	
+68407	MG	Madagascar	
+68407	SA	Saudi Arabia	native
+68407	ST	Sao Tome and Principe	
+68407	WS	Samoa	
+68407	SH	Saint Helena, Ascension and Tristan da Cunha	
+68407	RU	Russian Federation	
+68407	RO	Romania	native
+68407	ES	Spain	native
+68407	MO	Macao	
+68407	JP	Japan	native
+68407	LB	Lebanon	native
+68407	EC	Ecuador	native
+68407	DJ	Djibouti	
+68407	CD	Congo, The Democratic Republic of the	native
+68407	KP	Korea, Democratic People's Republic of	native
+68407	CY	Cyprus	native
+68407	HR	Croatia	native
+68407	CI	Côte d'Ivoire	
+68407	CR	Costa Rica	native
+68407	CG	Congo	native
+68407	KM	Comoros	
+68407	CO	Colombia	native
+68407	CC	Cocos (Keeling) Islands	
+68407	CX	Christmas Island	
+68407	CN	China	native
+68407	CL	Chile	native
+68407	CM	Cameroon	
+68407	KH	Cambodia	native
+68407	CV	Cabo Verde	native
+68407	BG	Bulgaria	
+68407	BN	Brunei Darussalam	
+68407	BR	Brazil	native
+68407	BA	Bosnia and Herzegovina	native
+68407	BD	Bangladesh	native
+68407	BH	Bahrain	
+68407	AU	Australia	native
+68407	AO	Angola	native
+68407	AS	American Samoa	
+68407	DZ	Algeria	native
+68407	AL	Albania	native
+68407	EG	Egypt	native
+68407	SV	El Salvador	native
+68407	GQ	Equatorial Guinea	native
+68407	ER	Eritrea	native
+68407	KW	Kuwait	
+68407	KI	Kiribati	
+68407	KE	Kenya	
+68407	JO	Jordan	
+68407	JE	Jersey	
+68407	TZ	Tanzania, United Republic of	
+68407	IT	Italy	native
+68407	IL	Israel	native
+68407	IE	Ireland	native
+68407	IQ	Iraq	
+68407	IR	Iran, Islamic Republic of	native
+68407	ID	Indonesia	native
+68407	IN	India	native
+68407	IS	Iceland	native
+68407	LR	Liberia	
+68407	HK	Hong Kong	
+68407	GW	Guinea-Bissau	native
+68407	GN	Guinea	native
+68407	GG	Guernsey	
+68407	GT	Guatemala	native
+68407	GU	Guam	
+68407	GR	Greece	native
+68407	GI	Gibraltar	
+68407	GH	Ghana	native
+68407	GE	Georgia	
+68407	GM	Gambia	native
+68407	GA	Gabon	native
+68407	PF	French Polynesia	
+68407	FR	France	native
+68407	FJ	Fiji	native
+68407	HN	Honduras	native
+68407	US	United States	native
+68407	LY	Libya	native
+68407	VN	Viet Nam	native
+68407	WF	Wallis and Futuna	
+68407	EH	Western Sahara	
+68407	YE	Yemen	native
+68407	VU	Vanuatu	
+68409	IN	India	native
+68409	HN	Honduras	native
+68409	GW	Guinea-Bissau	native
+68409	GT	Guatemala	native
+68409	GH	Ghana	native
+68409	GM	Gambia	native
+68409	FJ	Fiji	native
+68409	SV	El Salvador	native
+68409	EG	Egypt	native
+68409	CR	Costa Rica	native
+68409	CI	Côte d'Ivoire	native
+68409	ID	Indonesia	native
+68409	CO	Colombia	native
+68409	CL	Chile	native
+68409	KH	Cambodia	native
+68409	BN	Brunei Darussalam	native
+68409	BR	Brazil	native
+68409	BD	Bangladesh	native
+68409	AU	Australia	native
+68409	EC	Ecuador	native
+68409	IR	Iran, Islamic Republic of	native
+68409	JP	Japan	
+68409	SA	Saudi Arabia	native
+68409	VU	Vanuatu	native
+68409	US	United States	native
+68409	TL	Timor-Leste	native
+68409	TH	Thailand	native
+68409	LK	Sri Lanka	native
+68409	ZA	South Africa	native
+68409	SG	Singapore	native
+68409	SN	Senegal	native
+68409	MG	Madagascar	
+68409	PH	Philippines	native
+68409	PE	Peru	
+68409	PG	Papua New Guinea	native
+68409	PK	Pakistan	native
+68409	OM	Oman	native
+68409	NI	Nicaragua	native
+68409	NA	Namibia	native
+68409	MM	Myanmar	native
+68409	MZ	Mozambique	native
+68409	MX	Mexico	native
+68409	MV	Maldives	native
+68409	MY	Malaysia	native
+68409	VN	Viet Nam	native
+68410	TH	Thailand	native
+68410	SR	Suriname	native
+68410	VE	Venezuela, Bolivarian Republic of	native
+68410	US	United States	native
+68410	SD	Sudan	native
+68410	TW	Taiwan, Province of China	native
+68410	ES	Spain	native
+68410	JP	Japan	native
+68410	IL	Israel	native
+68410	ID	Indonesia	native
+68410	IN	India	native
+68410	GH	Ghana	native
+68410	FJ	Fiji	native
+68410	EG	Egypt	native
+68410	EC	Ecuador	native
+68410	CI	Côte d'Ivoire	native
+68410	CR	Costa Rica	native
+68410	LK	Sri Lanka	native
+68410	CL	Chile	native
+68410	CV	Cabo Verde	native
+68410	BR	Brazil	native
+68410	AU	Australia	native
+68410	JO	Jordan	native
+68410	MY	Malaysia	native
+68410	CN	China	native
+68410	MX	Mexico	native
+68410	MV	Maldives	native
+68410	ZA	South Africa	native
+68410	SN	Senegal	native
+68410	LC	Saint Lucia	native
+68410	SH	Saint Helena, Ascension and Tristan da Cunha	native
+68410	PT	Portugal	native
+68410	PE	Peru	
+68410	SA	Saudi Arabia	native
+68410	PW	Palau	native
+68410	PK	Pakistan	native
+68410	NA	Namibia	native
+68410	PA	Panama	native
+68412	TH	Thailand	native
+68412	ID	Indonesia	native
+68412	IN	India	native
+68412	DJ	Djibouti	native
+68412	TZ	Tanzania, United Republic of	native
+68412	KH	Cambodia	native
+68412	BD	Bangladesh	native
+68412	BH	Bahrain	native
+68412	LK	Sri Lanka	native
+68412	IR	Iran, Islamic Republic of	native
+68412	AE	United Arab Emirates	native
+68412	BN	Brunei Darussalam	native
+68412	IQ	Iraq	native
+68412	OM	Oman	native
+68412	KW	Kuwait	native
+68412	MY	Malaysia	native
+68412	MV	Maldives	native
+68412	MZ	Mozambique	native
+68412	MM	Myanmar	native
+68412	PK	Pakistan	native
+68412	PH	Philippines	native
+68412	QA	Qatar	native
+68412	SA	Saudi Arabia	native
+68412	VN	Viet Nam	native
+68412	SC	Seychelles	native
+68412	SO	Somalia	native
+68412	ZA	South Africa	native
+68412	KE	Kenya	native
+68412	YE	Yemen	native
+68412	SG	Singapore	native
+68413	DM	Dominica	native
+68413	PR	Puerto Rico	native
+68413	BQ	Bonaire, Sint Eustatius and Saba	native
+68413	BL	Saint Barthélemy	native
+68413	KN	Saint Kitts and Nevis	native
+68413	LC	Saint Lucia	native
+68413	MF	Saint Martin (French part)	native
+68413	VC	Saint Vincent and the Grenadines	native
+68413	PA	Panama	native
+68413	SN	Senegal	native
+68413	SR	Suriname	native
+68413	TT	Trinidad and Tobago	native
+68413	US	United States	native
+68413	UY	Uruguay	native
+68413	VE	Venezuela, Bolivarian Republic of	native
+68413	VI	Virgin Islands, U.S.	native
+68413	BZ	Belize	native
+68413	SX	Sint Maarten (Dutch part)	native
+68413	NI	Nicaragua	native
+68413	MS	Montserrat	native
+68413	MX	Mexico	native
+68413	CR	Costa Rica	native
+68413	CO	Colombia	native
+68413	DO	Dominican Republic	native
+68413	GF	French Guiana	native
+68413	GD	Grenada	native
+68413	GP	Guadeloupe	native
+68413	GT	Guatemala	native
+68413	GN	Guinea	native
+68413	GW	Guinea-Bissau	native
+68413	GY	Guyana	native
+68413	HT	Haiti	native
+68413	HN	Honduras	native
+68413	JM	Jamaica	native
+68413	VG	Virgin Islands, British	
+68413	BR	Brazil	native
+68413	MQ	Martinique	native
+68413	MR	Mauritania	native
+68413	BB	Barbados	native
+68413	CU	Cuba	native
+68413	CW	Curaçao	native
+68413	AI	Anguilla	native
+68413	AO	Angola	native
+68413	AG	Antigua and Barbuda	native
+68413	AR	Argentina	native
+68413	BS	Bahamas	native
+68413	AW	Aruba	native
+68415	CW	Curaçao	native
+68415	VI	Virgin Islands, U.S.	native
+68415	VE	Venezuela, Bolivarian Republic of	native
+68415	PR	Puerto Rico	native
+68415	PE	Peru	native
+68415	PA	Panama	native
+68415	NI	Nicaragua	native
+68415	CR	Costa Rica	native
+68415	HN	Honduras	native
+68415	MX	Mexico	native
+68415	CO	Colombia	native
+68415	DO	Dominican Republic	native
+68415	BQ	Bonaire, Sint Eustatius and Saba	native
+68415	EC	Ecuador	native
+68415	VG	Virgin Islands, British	
+68415	SV	El Salvador	native
+68415	AW	Aruba	native
+68415	GT	Guatemala	native
+93882	CO	Colombia	native
+93908	MX	Mexico	native
+93931	BR	Brazil	native
+94514	ZA	South Africa	native
+94514	NA	Namibia	native
+94537	MG	Madagascar	native
+98193	LK	Sri Lanka	native
+98194	LK	Sri Lanka	native
+98196	LK	Sri Lanka	native
+98198	LK	Sri Lanka	native
+98199	LK	Sri Lanka	native
+98270	PH	Philippines	native
+98271	BR	Brazil	native
+98331	VC	Saint Vincent and the Grenadines	native
+98335	AR	Argentina	native
+98335	BO	Bolivia, Plurinational State of	native
+98335	CL	Chile	native
+98335	PE	Peru	native
+98337	VE	Venezuela, Bolivarian Republic of	native
+98337	SR	Suriname	native
+98337	UY	Uruguay	
+98337	PE	Peru	native
+98337	US	United States	native
+98337	CR	Costa Rica	native
+98337	AR	Argentina	native
+98337	HN	Honduras	native
+98337	CO	Colombia	native
+98337	BZ	Belize	native
+98337	GY	Guyana	native
+98337	BO	Bolivia, Plurinational State of	native
+98337	NI	Nicaragua	native
+98337	MX	Mexico	native
+98337	GT	Guatemala	native
+98337	GF	French Guiana	native
+98337	SV	El Salvador	native
+98337	EC	Ecuador	native
+98337	PA	Panama	native
+98337	PY	Paraguay	native
+98337	BR	Brazil	native
+98355	MM	Myanmar	native
+98356	ID	Indonesia	native
+98357	IN	India	native
+98358	PH	Philippines	native
+98359	ID	Indonesia	native
+98360	VN	Viet Nam	native
+98361	CN	China	native
+98362	MM	Myanmar	native
+98363	CN	China	native
+98365	CN	China	native
+98366	BR	Brazil	native
+98367	MY	Malaysia	native
+98368	IN	India	native
+98369	CN	China	native
+98370	VN	Viet Nam	native
+98371	LA	Lao People's Democratic Republic	native
+98372	MY	Malaysia	native
+98373	CN	China	native
+98374	CN	China	native
+98375	TH	Thailand	native
+98375	VN	Viet Nam	native
+98376	PH	Philippines	native
+98377	CN	China	native
+98378	TH	Thailand	native
+98379	LA	Lao People's Democratic Republic	native
+98380	ID	Indonesia	native
+98381	CN	China	native
+98382	IN	India	native
+98383	CO	Colombia	native
+98385	ID	Indonesia	native
+98386	ID	Indonesia	native
+98388	MM	Myanmar	native
+98389	CN	China	native
+98390	CN	China	native
+98391	ID	Indonesia	native
+98392	EC	Ecuador	native
+98393	MM	Myanmar	native
+98394	ID	Indonesia	native
+98396	MY	Malaysia	native
+98397	MY	Malaysia	native
+98398	CN	China	native
+98399	CN	China	native
+98400	MY	Malaysia	native
+98401	VN	Viet Nam	native
+98402	GF	French Guiana	native
+98403	VN	Viet Nam	native
+98403	CN	China	native
+98404	VN	Viet Nam	native
+98405	ID	Indonesia	native
+98406	GT	Guatemala	native
+98406	HN	Honduras	native
+98406	CR	Costa Rica	native
+98406	MX	Mexico	native
+98406	NI	Nicaragua	native
+98406	PA	Panama	native
+98407	CN	China	native
+98408	CN	China	native
+98408	VN	Viet Nam	native
+98409	MM	Myanmar	native
+98410	MY	Malaysia	native
+98411	CN	China	native
+98412	VN	Viet Nam	native
+98412	CN	China	native
+98413	ID	Indonesia	native
+98414	CN	China	native
+98415	EC	Ecuador	native
+98416	ID	Indonesia	native
+98417	BR	Brazil	native
+98421	MX	Mexico	native
+98423	NP	Nepal	native
+98423	IN	India	native
+98423	CN	China	native
+98423	BT	Bhutan	
+98426	PH	Philippines	native
+98502	ID	Indonesia	native
+98882	AR	Argentina	native
+98882	BR	Brazil	native
+98882	PY	Paraguay	
+98993	CN	China	native
+98994	CN	China	native
+99578	CN	China	native
+99578	MM	Myanmar	native
+100209	AU	Australia	native
+100472	MX	Mexico	native
+100473	MX	Mexico	native
+101074	MG	Madagascar	native
+101075	MG	Madagascar	native
+101076	MG	Madagascar	native
+101077	MG	Madagascar	native
+101097	FJ	Fiji	native
+101259	MG	Madagascar	native
+101272	RU	Russian Federation	native
+101272	CN	China	native
+101272	MN	Mongolia	native
+101272	KZ	Kazakhstan	native
+101289	ID	Indonesia	native
+101290	BN	Brunei Darussalam	native
+101290	ID	Indonesia	native
+101290	MY	Malaysia	native
+101291	ID	Indonesia	native
+101291	MY	Malaysia	native
+101292	MG	Madagascar	native
+101391	CU	Cuba	native
+101393	US	United States	native
+101410	BM	Bermuda	native
+101410	AO	Angola	native
+101410	AU	Australia	native
+101410	GF	French Guiana	native
+101410	FJ	Fiji	native
+101410	SV	El Salvador	native
+101410	EG	Egypt	native
+101410	EC	Ecuador	native
+101410	DO	Dominican Republic	native
+101410	DJ	Djibouti	native
+101410	BS	Bahamas	native
+101410	CU	Cuba	native
+101410	CR	Costa Rica	native
+101410	PF	French Polynesia	native
+101410	CC	Cocos (Keeling) Islands	native
+101410	CP	Unknown (CP)	
+101410	CX	Christmas Island	native
+101410	CN	China	native
+101410	BZ	Belize	native
+101410	KY	Cayman Islands	native
+101410	BR	Brazil	native
+101410	CO	Colombia	native
+101410	CV	Cabo Verde	native
+101410	GU	Guam	native
+101410	NZ	New Zealand	native
+101410	NI	Nicaragua	native
+101410	TH	Thailand	native
+101410	NG	Nigeria	native
+101410	TW	Taiwan, Province of China	native
+101410	SD	Sudan	native
+101410	ZA	South Africa	native
+101410	TT	Trinidad and Tobago	native
+101410	SC	Seychelles	native
+101410	SN	Senegal	native
+101410	SA	Saudi Arabia	native
+101410	SH	Saint Helena, Ascension and Tristan da Cunha	native
+101410	PH	Philippines	native
+101410	PE	Peru	native
+101410	PA	Panama	native
+101410	GD	Grenada	native
+101410	MP	Northern Mariana Islands	native
+101410	TZ	Tanzania, United Republic of	native
+101410	LK	Sri Lanka	native
+101410	MM	Myanmar	native
+101410	HN	Honduras	native
+101410	IN	India	native
+101410	ID	Indonesia	native
+101410	IL	Israel	native
+101410	JM	Jamaica	native
+101410	AN	Unknown (AN)	
+101410	JP	Japan	native
+101410	GT	Guatemala	native
+101410	VE	Venezuela, Bolivarian Republic of	native
+101410	GY	Guyana	native
+101410	UY	Uruguay	native
+101410	MG	Madagascar	native
+101410	MY	Malaysia	native
+101410	MV	Maldives	native
+101410	MX	Mexico	native
+101410	US	United States	native
+101410	MZ	Mozambique	native
+101410	KE	Kenya	native
+101411	MG	Madagascar	native
+101411	GU	Guam	native
+101411	MY	Malaysia	native
+101411	JP	Japan	native
+101411	ID	Indonesia	native
+101411	IN	India	native
+101411	KI	Kiribati	native
+101411	EG	Egypt	native
+101411	FJ	Fiji	native
+101411	DJ	Djibouti	native
+101411	CK	Cook Islands	native
+101411	KM	Comoros	native
+101411	CC	Cocos (Keeling) Islands	native
+101411	CV	Cabo Verde	native
+101411	AU	Australia	native
+101411	MV	Maldives	native
+101411	PF	French Polynesia	native
+101411	MH	Marshall Islands	native
+101411	NC	New Caledonia	native
+101411	MU	Mauritius	native
+101411	YE	Yemen	native
+101411	VU	Vanuatu	native
+101411	US	United States	native
+101411	UM	United States Minor Outlying Islands	native
+101411	TV	Tuvalu	native
+101411	TO	Tonga	native
+101411	TH	Thailand	native
+101411	TW	Taiwan, Province of China	native
+101411	SD	Sudan	native
+101411	ZA	South Africa	native
+101411	SB	Solomon Islands	native
+101411	SC	Seychelles	native
+101411	MP	Northern Mariana Islands	native
+101411	SA	Saudi Arabia	native
+101411	PH	Philippines	native
+101411	PG	Papua New Guinea	native
+101411	PW	Palau	native
+101411	YT	Mayotte	native
+101411	OM	Oman	native
+101411	FM	Micronesia, Federated States of	native
+101411	MZ	Mozambique	native
+101411	SN	Senegal	native
+101411	NZ	New Zealand	native
+102974	CD	Congo, The Democratic Republic of the	native
+102974	UG	Uganda	
+102974	BI	Burundi	
+102974	RW	Rwanda	
+102975	CF	Central African Republic	native
+102975	CG	Congo	native
+102975	CI	Côte d'Ivoire	native
+102975	CM	Cameroon	native
+102975	GQ	Equatorial Guinea	native
+102975	GA	Gabon	native
+102975	GH	Ghana	
+102975	LR	Liberia	native
+102975	NG	Nigeria	native
+102975	BJ	Benin	
+102975	GN	Guinea	native
+104810	CD	Congo, The Democratic Republic of the	native
+104814	GF	French Guiana	native
+104814	BR	Brazil	native
+104814	BO	Bolivia, Plurinational State of	native
+104814	GY	Guyana	native
+104814	SR	Suriname	native
+104814	VE	Venezuela, Bolivarian Republic of	native
+104821	HT	Haiti	native
+104821	DO	Dominican Republic	native
+104822	ET	Ethiopia	native
+104823	ET	Ethiopia	native
+104873	CL	Chile	native
+104953	HT	Haiti	native
+104953	DO	Dominican Republic	native
+105313	CN	China	native
+105316	US	United States	native
+105317	US	United States	native
+105331	MG	Madagascar	native
+105331	MO	Macao	native
+105331	KW	Kuwait	native
+105331	KE	Kenya	native
+105331	JO	Jordan	native
+105331	IL	Israel	native
+105331	IQ	Iraq	native
+105331	IR	Iran, Islamic Republic of	native
+105331	BN	Brunei Darussalam	native
+105331	KM	Comoros	native
+105331	CN	China	native
+105331	IN	India	native
+105331	HK	Hong Kong	native
+105331	MY	Malaysia	native
+105331	KH	Cambodia	native
+105331	ER	Eritrea	native
+105331	EG	Egypt	native
+105331	DJ	Djibouti	native
+105331	AU	Australia	native
+105331	ID	Indonesia	native
+105331	TW	Taiwan, Province of China	native
+105331	MV	Maldives	native
+105331	TL	Timor-Leste	native
+105331	AE	United Arab Emirates	native
+105331	TZ	Tanzania, United Republic of	native
+105331	VN	Viet Nam	native
+105331	YE	Yemen	native
+105331	SD	Sudan	native
+105331	LK	Sri Lanka	native
+105331	ZA	South Africa	native
+105331	SO	Somalia	native
+105331	SB	Solomon Islands	native
+105331	SG	Singapore	native
+105331	TH	Thailand	native
+105331	SC	Seychelles	native
+105331	QA	Qatar	native
+105331	PH	Philippines	native
+105331	PG	Papua New Guinea	native
+105331	PW	Palau	native
+105331	BH	Bahrain	native
+105331	PK	Pakistan	native
+105331	OM	Oman	native
+105331	MM	Myanmar	native
+105331	MZ	Mozambique	native
+105331	YT	Mayotte	native
+105331	MU	Mauritius	native
+105331	SA	Saudi Arabia	native
+105331	BD	Bangladesh	native
